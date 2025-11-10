@@ -1,16 +1,13 @@
-# Welcome to Sample Documentation
+# Books
+- The goal of this repository is to track every book I've read and to manage my notes.
 
-This is a sample documentation site built with MkDocs Material and deployed using GitHub Pages.
+## Quick Links
+- [Download Quotes.json](../Quotes.json)
 
-# Document Structure
-- You can add all of documents in doc folder without any frontmatter
-- Page order is set using `nav:` setting in configuration
-```yaml
-nav:
-  - Home: index.md
-  - Typography: Typography.md
-  - Configuration: Configuration.md
-```
+## Reading list
 
-# Sample Repos
-- https://strandsagents.com/latest/documentation/docs/
+### Outlive
+- it's book in form research by Dr Peter Attia. He dedicated his life to figuring out how humans can increase their lifespan & live to 100+.
+
+### Victory in Stock market
+- This books is suggested by anuj
