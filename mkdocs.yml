@@ -11,6 +11,11 @@ edit_uri: edit/main/docs/
 nav:
   - Home:
     - index.md
+  - Code:
+    - Code/Computational Engineering.md
+  - Self Help:
+    - Self Help/Never Split the Difference.md
+    - Self Help/The Obstacle Is the Way.md
 
 # Theme
 theme:
