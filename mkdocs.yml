@@ -1,18 +1,16 @@
 # Site settings
-site_name: MkDocs
-site_url: https://nodesautomations.com/Template_MkDocs/
+site_name: Books
+site_url: https://vivekkpatel.github.io/Books/
 
 # Repository Details for "Edit on GitHub" links
-repo_name: Template_MkDocs
-repo_url: https://github.com/NodesAutomations/Template_MkDocs
+repo_name: Books
+repo_url: https://github.com/vivekkpatel/Books
 edit_uri: edit/main/docs/
 
 # Navigation Tree
 nav:
   - Home:
     - index.md
-    - Typography: Typography.md
-    - Configuration: Configuration.md
 
 # Theme
 theme:
@@ -64,16 +62,6 @@ markdown_extensions:
   - def_list # List extensions
   - pymdownx.tasklist: # List extensions
       custom_checkbox: true
-
-# Extra JavaScript for KaTeX
-extra_javascript:
-  - javascripts/katex.js
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
-
-# Extra CSS for KaTeX
-extra_css:
-  - https://unpkg.com/katex@0/dist/katex.min.css
 
 # Copyright
 copyright: Copyright &copy; 2025 Nodes Automations
