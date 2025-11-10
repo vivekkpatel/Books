@@ -22,6 +22,7 @@ theme:
   name: material
   logo: assets/favicon.png
   favicon: assets/favicon.png
+  # Palette toggle for dark mode
   palette:
     - scheme: default
       primary: indigo
@@ -29,6 +30,12 @@ theme:
       toggle:
           icon: material/brightness-7
           name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
   features:
     - content.action.edit # Allows "Edit on GitHub" links
     - content.action.view # Allows "View on GitHub" links
