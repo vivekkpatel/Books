@@ -2,7 +2,7 @@
 - The goal of this repository is to track every book I've read and to manage my notes.
 
 ## Quick Links
-- [Download Quotes.json](../Quotes.json)
+- [Download Quotes.json](Quotes.json)
 
 ## Reading list
 
