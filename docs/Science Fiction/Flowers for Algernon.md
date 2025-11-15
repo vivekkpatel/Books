@@ -6,6 +6,8 @@
 
 - The book's title comes from Algernon, a mouse used by scientists in the experiment that precedes the human trials.
 
+- https://www.goodreads.com/book/show/36576608-flowers-for-algernon
+
 # Quotes
 
 > I don't know what's worse: to not know what you are and be happy, or to become what you've always wanted to be, and feel alone. ― Daniel Keyes, Flowers for Algernon
