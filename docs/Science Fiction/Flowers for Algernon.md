@@ -18,7 +18,7 @@
 
 > Don't feel sorry for me. I'm glad I had a second chance in life to be smart because I learned a lot of things that I never knew were in this world, and I'm grateful I saw it even for a little bit. ― Daniel Keyes, Flowers for Algernon
 
-> There are a lot of people who will give money or materials, but very few who will give time and affection. ― Daniel Keyes, Flowers for Algernon
+> **There are a lot of people who will give money or materials, but very few who will give time and affection. ― Daniel Keyes, Flowers for Algernon**
 
 > I'm living at a peak of clarity and beauty I never knew existed. Every part of me is attuned to the work. This is beauty, love, and truth all rolled into one. This is joy. ― Daniel Keyes, Flowers for Algernon
 
