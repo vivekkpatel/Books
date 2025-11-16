@@ -12,8 +12,9 @@ nav:
     - Letters from a stoic: Self Help/Letters from a stoic.md
     - Man's Search for Meaning: Self Help/Man's Search for Meaning.md
     - Quiet The Power of Introverts: Self Help/Quiet The Power of Introverts.md
+    - Show Your Work: Self Help/Show Your Work.md
     - The Obstacle Is the Way: Self Help/The Obstacle Is the Way.md
-    - Why We Sleep : Self Help/Why We Sleep.md
+    - Why We Sleep: Self Help/Why We Sleep.md
   - Biography:
     - Adventures of a Curious Character: Biography/Adventures of a Curious Character.md
     - Alibaba: Biography/Alibaba.md
@@ -24,8 +25,8 @@ nav:
     - Just for Fun: Biography/Just for Fun.md
     - Know My Name A Memoir: Biography/Know My Name A Memoir.md
     - Masters of Doom: Biography/Masters of Doom.md
-    - My Life An Illustrated Biography: Biography/My Life An Illustrated Biography.md
     - My Life: Biography/My Life.md
+    - My Life An Illustrated Biography: Biography/My Life An Illustrated Biography.md
     - Nikola Tesla: Biography/Nikola Tesla.md
     - Permanent Record: Biography/Permanent Record.md
     - Sam Walton Made In America: Biography/Sam Walton Made In America.md
@@ -40,6 +41,8 @@ nav:
     - Let's Talk Money: Business/Let's Talk Money.md
     - Never Split the Difference: Business/Never Split the Difference.md
     - Rich Dad, Poor Dad: Business/Rich Dad, Poor Dad.md
+    - The Compound Effect: Business/The Compound Effect.md
+    - The Greatest Salesman in the world: Business/The Greatest Salesman in the world.md
     - The Richest Man in Babylon: Business/The Richest Man in Babylon.md
     - The Zurich Axioms: Business/The Zurich Axioms.md
     - Zero to One: Business/Zero to One.md
@@ -56,13 +59,10 @@ nav:
   - Trade:
     - Best Losers Wins: Trade/Best Losers Wins.md
     - How to Trade in Stocks: Trade/How to Trade in Stocks.md
-  - Fantasy:
-    - Blood Over Bright Haven: Fantasy/Blood Over Bright Haven.md
-  - Science Fiction:
-    - Flowers for Algernon: Science Fiction/Flowers for Algernon.md
-    - Start Programming in NET for AutoCAD: Code/Start Programming in NET for AutoCAD.md
-    - The Markdown Guide: Code/The Markdown Guide.md
-    - The Pragamatic Programmer: Code/The Pragamatic Programmer.md
+    - The Battle for Investment Survival: Trade/The Battle for Investment Survival.md
+    - The Perfect Stock: Trade/The Perfect Stock.md
+    - Trade Like a Stock Market Wizard: Trade/Trade Like a Stock Market Wizard.md
+    - Trade Your Way to Financial Freedom: Trade/Trade Your Way to Financial Freedom.md
   - Fantasy:
     - Blood Over Bright Haven: Fantasy/Blood Over Bright Haven.md
   - Science Fiction:
