@@ -2,58 +2,59 @@
 site_name: Books
 site_url: https://vivekkpatel.github.io/Books/
 use_directory_urls: false
-
-# Repository Details for "Edit on GitHub" links
-repo_name: Books
-repo_url: https://github.com/vivekkpatel/Books
-edit_uri: edit/main/docs/
-
 # Navigation Tree
 nav:
   - Home:
     - index.md
   - Self Help:
-    - The Obstacle Is the Way: Self Help/The Obstacle Is the Way.md
-    - Man's Search for Meaning: Self Help/Man's Search for Meaning.md
-    - Quiet The Power of Introverts: Self Help/Quiet The Power of Introverts.md
-    - Letters from a stoic: Self Help/Letters from a stoic.md
     - Factfulness: Self Help/Factfulness.md
     - How to Win Friends and Influence People: Self Help/How to Win Friends and Influence People.md
+    - Letters from a stoic: Self Help/Letters from a stoic.md
+    - Man's Search for Meaning: Self Help/Man's Search for Meaning.md
+    - Quiet The Power of Introverts: Self Help/Quiet The Power of Introverts.md
+    - The Obstacle Is the Way: Self Help/The Obstacle Is the Way.md
   - Biography:
+    - Adventures of a Curious Character: Biography/Adventures of a Curious Character.md
+    - Alibaba: Biography/Alibaba.md
+    - Bad Blood: Biography/Bad Blood.md
+    - Bricklin on Technology: Biography/Bricklin on Technology.md
     - Educated: Biography/Educated.md
     - Hard Drive: Biography/Hard Drive.md
-    - Know My Name A Memoir: Biography/Know My Name A Memoir.md
-    - Sam Walton Made In America: Biography/Sam Walton Made In America.md
-    - Shoe Dog: Biography/Shoe Dog.md
-    - Permanent Record: Biography/Permanent Record.md
-    - Adventures of a Curious Character: Biography/Adventures of a Curious Character.md
-    - Wild: Biography/Wild.md
-    - Steve Jobs: Biography/Steve Jobs.md
-    - Bricklin on Technology: Biography/Bricklin on Technology.md
-    - Bad Blood: Biography/Bad Blood.md
-    - Alibaba: Biography/Alibaba.md
     - Just for Fun: Biography/Just for Fun.md
+    - Know My Name A Memoir: Biography/Know My Name A Memoir.md
     - Masters of Doom: Biography/Masters of Doom.md
     - My Life An Illustrated Biography: Biography/My Life An Illustrated Biography.md
     - My Life: Biography/My Life.md
     - Nikola Tesla: Biography/Nikola Tesla.md
+    - Permanent Record: Biography/Permanent Record.md
+    - Sam Walton Made In America: Biography/Sam Walton Made In America.md
+    - Shoe Dog: Biography/Shoe Dog.md
+    - Steve Jobs: Biography/Steve Jobs.md
     - The Glass Castle: Biography/The Glass Castle.md
     - The Upstarts: Biography/The Upstarts.md
+    - Wild: Biography/Wild.md
   - Business:
+    - Anything You Want: Business/Anything You Want.md
+    - Design Your Work: Business/Design Your Work.md
+    - Let's Talk Money: Business/Let's Talk Money.md
     - Never Split the Difference: Business/Never Split the Difference.md
+    - Rich Dad, Poor Dad: Business/Rich Dad, Poor Dad.md
     - The Zurich Axioms: Business/The Zurich Axioms.md
     - Zero to One: Business/Zero to One.md
-    - Let's Talk Money: Business/Let's Talk Money.md
-    - Rich Dad, Poor Dad: Business/Rich Dad, Poor Dad.md
-    - Design Your Work: Business/Design Your Work.md
-    - Anything You Want: Business/Anything You Want.md
   - Code:
-    - Computational Engineering: Code/Computational Engineering.md
-    - AutoHotkey Applications: Code/AutoHotkey Applications.md
-    - AutoCAD Platform Customization VBA: Code/AutoCAD Platform Customization VBA.md
-    - AutoCAD 2012 DXF reference: Code/AutoCAD 2012 DXF reference.md
     - A Beginner's Guide to AutoHotkey: Code/A Beginner's Guide to AutoHotkey.md
+    - AutoCAD 2012 DXF reference: Code/AutoCAD 2012 DXF reference.md
+    - AutoCAD Platform Customization VBA: Code/AutoCAD Platform Customization VBA.md
+    - AutoHotkey Applications: Code/AutoHotkey Applications.md
+    - Computational Engineering: Code/Computational Engineering.md
     - Digging Deeper into AutoHotkey: Code/Digging Deeper into AutoHotkey.md
+    - Start Programming in NET for AutoCAD: Code/Start Programming in NET for AutoCAD.md
+    - The Markdown Guide: Code/The Markdown Guide.md
+    - The Pragamatic Programmer: Code/The Pragamatic Programmer.md
+  - Fantasy:
+    - Blood Over Bright Haven: Fantasy/Blood Over Bright Haven.md
+  - Science Fiction:
+    - Flowers for Algernon: Science Fiction/Flowers for Algernon.md
     - Start Programming in NET for AutoCAD: Code/Start Programming in NET for AutoCAD.md
     - The Markdown Guide: Code/The Markdown Guide.md
     - The Pragamatic Programmer: Code/The Pragamatic Programmer.md
