@@ -12,8 +12,10 @@ nav:
   - Home:
     - index.md
   - Self Help:
-    - Self Help/Never Split the Difference.md
     - Self Help/The Obstacle Is the Way.md
+  - Business:
+    - Business/Never Split the Difference.md
+    - Business/Zero to One.md
   - Code:
     - Code/Computational Engineering.md
   - Fantasy:
