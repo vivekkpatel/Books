@@ -1,0 +1,5 @@
+# Hard Drive: Bill Gates and the Making of the Microsoft Empire by James Wallace
+
+August of 1945, while working on an experimental computer known as the Mark 1 at Harvard University, a circuit malfunctioned, and a research assistant went looking for the problem in the tangled mess of vacuum tubes and wires. He found the problem, and removed it with a pair of tweezers—it was a 2-inch long moth. “From then on,” Grace Hopper, a member of the Mark 1 research team, told Time magazine in 1984, “when anything went wrong with a computer, we said it had bugs in it.” (The famous moth is preserved at the U.S. Naval Surface Weapons Center in Dahlgren, Virginia.)
+
+He was the best kind of salesman there is: he knew the product, and he believed in it. Moreover, he approached every client with the zealotry of a true believer, from the day he first articulated the Microsoft mantra: “A computer on every desktop, and Microsoft software in every computer.”
