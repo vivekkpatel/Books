@@ -1,6 +1,7 @@
 # Site settings
 site_name: Books
 site_url: https://vivekkpatel.github.io/Books/
+use_directory_urls: false
 
 # Repository Details for "Edit on GitHub" links
 repo_name: Books
