@@ -1,0 +1,586 @@
+﻿# Secrets For Profiting in Bull and Bear Markets
+
+## 1: It All Starts Here
+
+By consistently following my methods, you will be right a very high percentage of the time. One secret that most professionals know is that you can rack up a fortune in the market by being right less than 50 percent of the time, as long as you let your profits run and cut your losses quickly.
+
+- Never buy or sell a stock without checking the chart
+- Never buy a stock when good news comes out, especially if the chart shows a significant advance prior to the news release
+- Never buy a stock because it appears cheap after getting smashed. When it sells off further, you'll find out that cheap can become far cheaper!
+- Never buy a stock in a downtrend on the chart (I'll soon show you specifically how to define a downtrend).
+- Never hold a stock that is in a downtrend no matter how low the price/earnings ratio. Many weeks later and several points lower, you'll find out why the stock was going down.
+- Always be consistent. If you find that you're sometimes buying, sometimes selling in practically identical situations, then there is something terribly wrong with your discipline
+
+### Letâ€™s all Speak the Same Language
+
+![Untitled](1%20It%20All%20Starts%20Here/Untitled.png)
+
+- Support
+    - The area where a stock that has been declining is likely to stabilize and then bounce off and move higher (at least temporarily). It's like a floor.
+    - Be aware, however, that you can't become fanatical, as too many technicians often do, when talking about support as being at a certain point. It's really an area or zone.
+- Resistance
+    - The zone where a rallying stock is likely to run into trouble (at least temporarily) and then be turned back. The more times the given resistance area is tested, and again the longer the time period involved, the more important the bullish signal that is given if the resistance zone is eventually overcome.
+    - Always remember that a move above the top of the resistance range is a very bullish indication for the price of the stock. Once again, you must realize that when a major move gets going, new resistance (or supply) levels will form along the way.
+- Trading Range
+    - The neutral zone in the ongoing battle between buyers and sellers. When a stock is in an uptrend, the buying army is obviously stronger than the selling side and rising prices result.
+    - A downtrend is the flip side of the coin, where the selling side is much more powerful than the buyers. But in a trading range, the two sides are equal in strength and the battle rages between the support zone (in this case 8 to 8V2) and the resistance area (11 V2 to 12 on the accompanying chart).
+- Moving Average
+    - A very important technical tool that helps alert you to both shorter- and longer-term moves. All that a moving average really does is smooth out the major trend so the wild dayto-day gyrations-which the new buying and selling programs have made even wilder--do not throw off your market perspective.
+    - Over the years, I've found that a 30-week moving average (MA) is the best one for long-term investors, while the lO-week MA is best for traders to use.
+- Breakout
+    - When the price of a stock moves above the top of its resistance zone (12 on the XYZ chart). In this case, the breakout would occur at 12Vs once the top of the resistance zone is cleared.
+    - the longer the time spent below the resistance, the more significant is the eventual breakout
+    - the greater the expansion of volume on the breakout , the more bullish the implications.
+- Breakdown
+    - The mirror image of breakout, as the price of a stock moves below the bottom of the support zone
+    - Unlike a breakout, a breakdown doesn't need very heavy volume to be valid. Stocks can literally fall of their own weight, but there should be some increase in volume.
+- Pullback
+    - After a stock breaks out of its trading range and advances, there is usually at least one profit-taking correction that brings the price of the stock back close to the initial breakout point. This is an ideal second chance to do further buying (especially if the pullback occurs on sharply decreased volume). On the other hand, after a stock breaks down below support and declines, there is usually at least one pullback back up toward the breakdown level
+    - If this occurs on very light volume, it is an ideal entry point to sell the stock short.
+- Trendline
+    - If you take a ruler and connect any two lows on a given chart, you've drawn a trendline.
+    - there is a big difference between a trendline and a significant trendline! A significant trendline will be touched at least three times.
+
+![Untitled](1%20It%20All%20Starts%20Here/Untitled%201.png)
+
+- Trader
+    - When I address traders in this book, I'm not talking about people who buy in the morning and selling the afternoon. My definition of a trader is someone who wants to catch each significant two to four months move. This is what I consider intelligent trading. Buying on Monday and selling on Tuesday is smart only if you want to make your broker rich.
+- Investor
+    - My investing time frame is up to 12months. That doesn't mean you can't end up holding a stock longer, but I don't feel it's relevant to talk about the market (or stocks) in terms of three, four, or five years. There are too many variables and too many cycles that can come into play over so long a time frame.
+- Short Term
+    - 1-6 weeks
+- Intermediate Term
+    - 6week to 4 months
+- Long Term
+    - 4 to 12 months
+- Relative Strength
+    - How a given stock (or group) acts in relation to the overall market. For instance, if stock XYZ rallies 10 percent while the market moves ahead 20 percent, that's poor relative strength even though the stock has advanced. On the other hand, if stock XYZ declines 10 percent while the market averages decline 20 percent, that's favorable relative strength even though the stock has moved lower
+- Short Selling
+    - This is the most misunderstood and underutilized of techniques. The pros use it, but nine out of ten individual investors have never even tried it. Short selling is placing a sell order for shares you do not currently own in the expectation that the share price will drop in the future.
+    - If you sell short XYZ at 20, you simply borrow the shares from your broker for delivery to the buyer. If XYZ drops to 10, as you'd expected, you then buy XYZ shares in the market to replace those you owe your broker. In the process you make $10 per share.
+
+---
+## 2: One Glance is Worth a Thousand Earnings Forecasts
+
+## Stage Cycle
+
+![Untitled](2%20One%20Glance%20is%20Worth%20a%20Thousand%20Earnings%20Forecast/Untitled.png)
+
+### Stage 1: The Basing Area
+
+- After stock XYZ has been declining for several months, it eventually will lose downside momentum and start to trend sideways. What's actually taking place is that buyers and sellers are starting to move into equilibrium, whereas previously the sellers were far stronger, which is why the stock had plummeted. Volume will usually lessen-dry up-as a base form.
+- But often volume will start to expand late in Stage 1, even though prices remain little changed. This is an indication that dumping of the stock by disgruntled owners is no longer driving down the price. The buyers who are moving in to take the stock off their hands are not demanding any significant price concession. This is a favourable indication.
+- This is the point where many market players get itchy to move in and catch the bottom price. But it doesn't do much good to buy yet. Even if you catch the exact low, your money could be tied up for a long time with little movement, and time is money. Even worse, premature investors often get impatient and end up selling after months of frustrating sideways action right before the big move starts.
+
+### Stage 2: The Advancing Stage
+
+- The ideal time to buy is when a stock is finally swinging out of its base into this more dynamic stage. Such a breakout above the top of the resistance zone and the 30-week MA should occur on impressive volume. This is the start of the advancing Stage 2 uptrend phase.
+- However, before the really dynamic part of the advance gets rolling, be aware that there is usually an initial rally followed by at least one pullback. That dip brings the stock back close to the breakout point, which is a good second chance to do low-risk buying. Don't become a fanatic about saving a few cents per share.
+- The situation becomes a buyer's dream as each successive rally peak is higher than the last. In addition, the lows on corrections are also progressively higher. This is important! Don't expect the stock to be a one-way street no matter how bullish and powerful the pattern is.
+- The market is always tricky and there is a reason why the overwhelming majority of investors lose money over the years in the market. The stock market (or any market for that matter) will do whatever is necessary to keep the majority from making money while amply rewarding the astute professional minority. So expect two steps forward and one sharp step back. As long as all of these wild swings and shakeouts take place above the stock's rising 30-week MA, don't worry-everything is proceeding according to Hoyle and is on schedule for a big profit!
+- After several months of bullish bliss as the fundamentals start to improve and more and more investors belatedly jump on the bullish bandwagon, the stock will eventually start to sag closer and closer to its MA. The angle of ascent of the MA will slow down considerably. At this point, the stock is a "hold." Although it is still in Stage 2, this stock is now trading far above its support level and MA and is being discovered by the investment community; it is overextended and most definitely no longer a buy. This is the point where buying puts you at considerable risk.
+- the right time to buy the stock was either on the initial breakout or on the later pullback toward the breakout level At that time, when the stock was still close to its base, the downside risk was quite low and the upside potential considerable. The reward/risk ratio was totally in your favor.
+- however, that obviously is not the case. In addition, the later we get into Stage 2, the more erratic the price swings become as early buyers panic on selloffs because they don't want to lose their excellent profits.
+
+### Stage 3: The Top Area
+
+- In the stock market, this takes the form of a Stage 3 top as the upward advance loses momentum and starts to trend sideways. What's going on beneath the surface is that buyers and sellers are once again about equal in strength.
+- In Stage 2, the buyers were far stronger and overwhelmed the sellers. Now that the advance is ending, the stock is in equilibrium and the mirror image of a Stage 1 base starts to take shape.
+- Volume is usually heavy in Stage 3 and the moves are sharp and choppy. If you've ever heard the expression that a stock is "churning" (moving sideways on heavy volume), this stage is an outstanding example ofit. The heavy volume on the part of buyers, who are excited by the improving fundamentals or "story," is met in equal measure by aggressive selling by the people who bought at considerably lower prices and are heading for the exits
+- Once a Stage 3 top starts to form, traders should get the heck out with their profits! Investors, however, have more leeway. Once this stage is reached, I suggest that investors take profits on only half of their position. There is always the chance that the stock will break out on the upside again, beginning yet another Stage 2 upleg. If you still hold half of your original position, you'll then be able to benefit from the upward movement of this new Stage 2. But it's imperative that you protect your profits on the remaining half position with a protective sell stop beneath the bottom of the new support level
+- Be very careful to keep your emotions in check in Stage 3, because the stories about the stock will usually be exciting and the news glowing (good earnings, stock splits, and so on). As always, have faith in the chart, since-unlike you and I-it is not emotional. By learning the consistent discipline offollowing the market's message on the chart, we too can learn to be cool, calm, and calculating while others get consistently whipsawed by the greed-fear syndrome. So remember-no matter how powerful the fundamentals, no matter how convincing the story, you are never going to buy a stock in this stage because the reward/risk ratio is strongly stacked against you.
+
+### Stage 4: The Declining Stage
+
+- This is a period when the factors that maintained a stock's price during the topping phase give way to the fatigue and pressures of fearful sellers.
+- Unlike an upside breakout, which needs a significant increase in volume to be considered trustworthy, a downside break into Stage 4 doesn't necessarily need such a huge increase in volume to be considered valid.
+- A volume increase on a breakdown followed by a volume decrease on a pullback to the breakdown point does signal a very dangerous situation; yet I've seen many cases where a stock moved into Stage 4 on relatively light volume and dropped substantially in the months ahead. Therefore, while a volume increase on the breakdown is even more bearish, don't ever let yourself get lulled into a false sense of security because the volume isn't heavy!'
+- If your broker is a fundamentalist, he may try to dissuade you because the earnings and other fundamentals may be in pretty good shape. And the conventional thinking as Stage 4 starts to unfold is usually that the stock isjust undergoing a correction. This is nonsense. Once the stock breaks into Stage 4, the upside potential is very small
+- At this moment, stop and reflect for a second and then make a pledge to yourself. Take the oath that you are never going to buy another stock in Stage 4. Also promise yourself that you will never hold onto any of your stocks once they move into Stage 4.
+- If you change nothing else in your market operations after reading this book except to never buy or hold Stage 4 stocks, I can absolutely promise that you will improve your batting average so much over the next year that when you see your next year's income tax return, you'll think your accountant made an error. Don't get me wrong-there's much more you have to learn to really become a big winner; but this one tactic is so important that I want to stress it.
+- In Stage 4, each decline drops to a new low while each reflexive oversold rally falls short of the prior peak. This is a textbook example of a downtrend. What's worse, all of this negative action takes place below the declining MA. Unfortunately, this is the stage where unsophisticated investors try to pick up a bargain because they think the stock has already fallen enough. But picking up fallen stars is a sure way to burn yourself!
+
+## The Real world
+
+I can guarantee you that similar situations will happen time and again in the future. The darling stocks of Wall Street will go down in flames and the bargain hunters and other scavengers will crow about the great opportunities they represent. Your strategy should be clear: Sell and then avoid the Stage 4 decline. In some cases even sell them short-which we'll go over later-while the crowd builds up losses and then rationalizes that they are unlucky.
+
+Do you get the picture? By letting the market digest all of the relevant fundamentals (known and anticipated) and going with its judgment rather than what you read in the media and brokerage reports, your market batting average will improve considerably.
+
+The question that usually pops up at this point during my seminars is "Can you apply this method to other areas, such as commodities or mutual funds?" The answer is simple-absolutely! Anything that trades on a supply/demand basis can be charted and interpreted in exactly the same manner. Just be aware that when dealing with commodities or stock index futures that the time frame is speeded up considerably, and a Stage 2 advance may unfold in a matter of weeks instead of months. So you'll need to use a much shorter-term MA
+
+Finally, this method is very helpful when you want to do mutual-fund switching. It is particularly useful with both no-load and low-load sector fund trading. The sector fund is an investment vehicle that you should learn how to use.
+
+> By now, no matter how addicted you are to fundamental analysis, I hope that you see the value of my technical method. As the chapters go on, you'll become more confident and proficient in applying it. So keep reading, digesting, and reflecting. And the next time you hear someone quickly dismiss technical analysis as voodoo or worse, smile to yourself, but don't argue. It's important that investors disagree. If everyone used the technical method and had the same bullish or bearish opinion, they wouldn't be able to open the market tomorrow. Also, we need an uninformed majority if we are to realize outstanding profits in the market.
+>
+---
+## 3: The Ideal Time to Buy
+
+## HOW, WHEN, AND WHAT
+
+you can easily differentiate between a bullish Stage 2 stock and a bearish Stage 4 situation. The next      step, however, is to construct the rest of the building and to learn the perfect time to buy. In addition, it's vital to understand how you should go about purchasing your stocks as well as knowing what to purchase. This is extremely important since when you glance through a chart book, especially during a rip-roaring bull market, you'll see hundreds of stocks that look buyable. Therefore it's absolutely crucial to learn how to cull out those few A + stocks with super upside potential while taking a pass on the lesser lights.  
+
+## THE INVESTOR'S WAY
+
+There are two great times for an investor to do new buying and both center around the breakout point. The first is when a stock initially moves out of its Stage 1 base and enters Stage 2. The second and safer time is when a stock pulls back toward the breakout point after the initial Stage I buying frenzy burns out.
+
+The advantage of purchasing on a pullback is that you can play movie critic and judge what you've seen. Did volume pick up impressively? Did the stock move far above the breakout point? Did volume then contract on the pullback? Or did XYZjust nudge above the critical resistance level and then fall back below it, which always signals a red flag warning? Once you've watched the action, you know whether you're dealing with a potential A + or C -.
+
+So which tactic is best? Should you wait and only buy on a pullback? No! If you wait to do only such low-risk buying, you are going to miss out on some of the biggest winners. Those few stocks that never pull back are demonstrating the strongest rocket propulsion. These are going to be giant winners, so we most definitely do not want to be left on the launching pad. If you're a long-term investor, compromise and buy half of your intended position on the initial breakout, and the other half if the stock pulls back close to the breakout price and you like the post-breakout action. 
+
+![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled.png)
+
+Chart 3-1 shows graphically what the process looks like. Point A is an excellent time to do new buying. It's an especially good entry point for investors. At this juncture the risk is extremely low since the base of support is just underneath your purchase price.
+
+## THE TRADER'S WAY
+
+There is one other very profitable time to do new buying. It occurs after a Stage 2 advance is well underway, when the stock drops back close to its MA and consolidates. It then breaks out anew above the top of its resistance zone (point A on Chart 3-3).
+
+This is called a continuation buy. Again there is a tradeoff involved. In this case the probabilities are overwhelmingly high that the advance will be rapid, but there is a greater risk factor.' This type of buy is more suited to traders than investors. But investors, too, should be willing to do some late Stage 2 buying when the overall market is very strong and there aren't many initial breakout opportunities left.
+
+Early in a major bull market, however, there is absolutely no need for investors to do continuation buying since so many stocks are breaking out oftheir bases for the first time." On the other hand, later in a bull market-such as in 1986-1987-there are very few early Stage 2 buys left, but plenty of the continuation variety still occurring. At those times even investors should do some continuation buying.
+
+![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled%201.png)
+
+## UNDER THE MICROSCOPE
+
+Now let's slowly go through the process of how a stock completes its Stage 1 base and moves into Stage 2 so it will be absolutely clear exactly when you should do your buying
+
+![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled%202.png)
+
+Look at Chart 3-5 and note how XYZ is moving between support near 8 and resistance at 12. The basing action is all taking place close to the 30-week MA which is no longer declining sharply but has instead started to flatten out. When and if this stock breaks out above resistance at 12, that is the perfect time to enter the stock.
+
+But what if you are at work or on vacation when this exciting breakout occurs (point A on Chart 3-5)? When you pick up the evening paper, frustration sets in. XYZ, closed yesterday at 11 V2, closed tonight at 14, up 2V2 points, and you've missed it. The answer isn't to call your broker and buy at any price. You also don't have to run out and buy a quote machine or have your broker call you a dozen times a day. In fact, such so-called solutions will very likely hurt you. First, they lead to emotional decisions, and that is a definite no-no. I've always found that my most profitable judgments are made late at night or on weekends. This is no accident. It's a time when you can calmly decipher the charts' message with no wild Dow swings or broker's calls to affect you. Second, it's obviously important to concentrate on your primary business during the day. There's a far better, more relaxing way that will put less stress on you and lead to much bigger profits. And don't underestimate the importance of staying mellow, because the market is stressful under the best of circumstances.
+
+## USING BUY-STOP ORDER
+
+what a buy-stop order does is tell the specialist that you want to buy stock XYZ. But-and this is an incredibly important but only if the stock breaks out above a certain level.
+
+## BUYING WITHIN LIMITS
+
+It combines the best of the stop concept, yet sets some higher limit to the price that you can pay. If we want to buy when crossing 12, we use a buy-stop at 12.25, but also a limit of 0.25 point above the breakout-in this case, 12.75.
+
+Another potential problem is that you enter the order on Monday or Tuesday and the stock doesn't break out right away. Then you get busy and forget to enter it on Wednesday. Bingo. Murphy's Law-whatever can go wrong will-goes into effect and the stock makes its breakout. Your order isn't in and the stock ends up running away from you. Every market veteran has had this experience. There's an old market cliche that says the market will do what you expect, but not when you expect it to. It's absolutely true and, after playing the market game for years, I am now a firm believer in O'Toole's Law which states, "Murphy was an optimist!" So any tool that can reduce potential problems in the market should be considered valuable! That's why this next technique is so fabulous. It's simple yet very effective.
+
+When you do your market homework and see two or three potentially exciting patterns that you want to buy-if they break out-simply do the following: Enter buy-stop orders for all three stocks on a good-ttil-canceled (GTC) basis. This means that you have a standing order with the specialist until you either cancel the orders or they are actually executed.
+
+Using GTC-stop orders will get you in the habit of doing several positive things. First of all, you won't have to watch the market closely during the day, which will allow you to concentrate your energies more clearly on yourjob. Second, you will make far better, less emotional decisions, since they will have nothing to do with that day's crazy market action. That's especially important with the ridiculous new-fangled buying and selling programs that now often move the Dow up or down 30 to 50 points in an hour. Wild intraday swings can upset and panic you out of a perfectly good position. Or sudden strength can cause you to scramble to buy something because it suddenly looks like the market is running away without you. Don't operate in this manner. It's crucial that you learn how to properly buy stocks in a disciplined, relaxed way. By using my method of stage analysis and combining it with GTC buy-stop orders, everything will be automatic, which is just what we want to accomplish. Over the years, it has become obvious to me that the more mechanical I've made my system and the less subject to judgments and emotions, the more profitable it has become. Interestingly enough, this subtle but important fact has been reinforced by dozens of Wall Street pros with whom I've talked who have learned the same lesson, often the hard way.
+
+## BUYING AND SELLING PATTERNS TO BE AWARE OF
+
+Before getting into the specifics of what to buy, there are a few market patterns that occur with such unbelievable regularity that you must become aware of them. They will give you an extra edge in determining when to be more or less aggressive. It's especially important for traders to know these repetitious patterns, but even investors can raise their batting averages by being aware of these tendencies.
+
+## WHAT NOT TO BUY
+
+Before moving on to the next very important topic-what to buyI want to make sure that you know what not to buy. A very common mistake made by amateur technicians (and, surprisingly, even by some professionals who should know better) is to buy when a stock breaks out above its base even though it is still below its declining 30-week MA. This is not a stock that you want to purchase, since it is not yet ready to start a sustainable advance. 
+
+In most cases, there will be a temporary rally for a few weeks, then the stock will falter. On a best-case basis, the stock will undergo additional basing as the MA flattens out. On a worst-case basis, it will break below the bottom of the trading range and start a severe new downleg.
+
+![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled%203.png)
+
+## WHAT TO BUY
+
+It is really a three-part equation that I call my "Forest to the Trees" approach. What I mean is that you should work from the large question-how's the overall market--down to the smaller component-which stock looks best to buy. In between those two extremes is the middle part of the equation-which group is acting best technically. So the process unfolds in the following manner
+
+- What's the trend of the market? If it's negative, you'll want to do very little if any buying, even if you see some stocks breaking out. Your probabilities ofsuccess are quite low when the market trend is going against you
+- Which few groups look the very best technically? The importance of this question can't be overemphasized since my studies have consistently shown that two equally bullish charts will perform far: differently if one is from a bullish sector while the other breakout is in a bearish group. The favorable chart in the bullish group will often quickly advance 50 to 75 percent while the equally bullish chart in a bearish group may struggle to a 5 to 10 percent gain
+- Once you determine that the market trend is bullish and Group A acts the very best technically, the final step in the process is to zero in on the one or two best individual chart patterns in that sector.
+
+If you follow this three-step process, you will find yourself heavily invested in the best acting stocks when the market is powering ahead, and sitting on large cash reserves when the overall trend turns bearish
+
+## HOW TO IMPLEMENT THE STRATEGY
+---
+## 4: Refining the Buying Process
+
+## THE LESS RESISTANCE THE BETTER
+
+![Untitled](4%20Refining%20the%20Buying%20Process/Untitled.png)
+
+You are now seasoned enough to know that this stock is a buy. But do you want to purchase it? Not necessarily. Even though the probabilities are very strong that this stock is going to advance and you'll make money, that isn't enough. At first this may sound crazy to you. I wouldn't be surprised to hear you say, "What is Stan talking about? I've bought a bunch of dogs that have gone down before I've gotten my confirmation slip. Now he's telling me that this stock is going to advance and I shouldn't buy it!â€
+
+There's a concept in economics called opportunity costs which applies perfectly here. Taking away all of the fancy ivory-tower jargon, it means that we all have limited resources, whether it be $25,000 or $25 million. So we must maximize our resources-which, in this case, is your market stake. If we buy stock XYZ and it advances 20 percent, but stock ABC in the same time period gains 200 percent, we have actually lost profit-making potential. Therefore, what we want to do is to uncover the A + stocks and play those while leaving the Bs and Cs alone for others.
+
+Now go back to Chart 4-1 and I'll show you why this is a B - buy. Once XYZ gives a positive signal by breaking out above 15 resistance, you must look at where the next area of resistance is. It's 18, which was the floor ofsupport from the prior trading range. Remember that support, once broken, later becomes resistance when the stock rallies back to that level. If XYZ does overcome that resistance it will find the going very tough all the way up to 20. So the entire 18 to 20 area presents significant potential resistance. That doesn't mean the stock will never overcome that area. What it does mean is that it will use up a great amount of buying power to get through this zone. So it will most likely stall in that area for quite a while. Even in the unlikely event that it gets past the resistance in a hurry, it will be tired and need to regroup. It's no different from someone who has to climb six flights of stairs to get to their apartment versus another person who can simply take an elevator. Who is obviously going to have more energy left? It's the same with stocks. If stock XYZ and ABC both stage breakouts and then benefit from 500,000 shares of buying in the next several sessions, which one is going to go further? The one with little or no resistance in its path, or the one with plenty of overhead supply? The answer is obvious.
+
+![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%201.png)
+
+So now let's look at Chart 4-2 of stock ABC. It's in the same group as XYZ and is also breaking out above resistance and its MA. But whereas XYZ had a clear zone of resistance just a few points overhead, ABC has no overhead resistance on the chart. While it may have traded at higher prices, it hasn't done so in the past 2-plus years. (The Mansfield chart shows the history for about 2V2 years.) While resistance is still in existence even from several years ago, my studies have shown that the older the resistance, the less potent it is. This makes sense since resistance is created by sellers who bought at higher prices and want to get out close to their purchase price after the stock declines. As time passes, more and more investors take their losses at the end of each trading year. So if it doesn't show up on the chart, it's no big deal
+
+## The Importance of Volume
+
+Volume is a gauge of how powerful the buyers are. As I said earlier, stocks can fall of their own weight, but to advance it takes plenty of buying power. It's no different from pushing a boulder up a hill. It takes a tremendous expenditure of energy to move it up the hill, but once you let it go, it can build up plenty of downside momentum on its own.
+
+> The rule is very simple. Never trust a breakout that isn't accompanied by a significant increase in volume.
+> 
+
+![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%202.png)
+
+Chart 4-7 shows exactly how a technically healthy pattern should unfold volumewise. When the stock is in the base area, the volume pattern will be erratic.  
+
+Once XYZ breaks out above the top ofits resistance area and moves above its 30-week MA, I want you to worry plenty about volume. As Chart 4-7 shows, volume should pick up significantly on the breakout. If it doesn't, the probabilities are very high, that at best, you've got a mediocre winner on your hands that will advance only a few points. At worst, the stock will turn out to be a false breakout that will soon be back in the trading range.
+
+, I look for the following: either a one-week volume spike that is at least twice the average volume of the past month (preferably it is even higher), or a volume build-up over the past three to four weeks that is at least twice the average volume of the past several weeks coupled with at least some increase on the breakout week.â€™ Whatever the exact number, if there is no significant increase in volume when the breakout occurs, then avoid that stock.
+
+## IT'S ALL RELATIVE
+
+This is a measure of how a stock is acting in relation to the overall market. Even if a stock is rising, it can show poor relative strength. Likewise, a declining issue can demonstrate positive relative strength. Think about it. If XYZ rises by 10 percent while the Standard and Poor's composite" advances by 20 percent, XYZ is lagging badly even though it is moving higher. Not only isn't it a leader, but it obviously is being pulled reluctantly higher. Therefore, the probabilities are very high that when the overall market turns down XYZ will get bombed.
+
+![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%203.png)
+
+## QUICK REFERENCE GUIDE ON BUYING
+
+- Check the major trend of the overall market.
+- Uncover the few groups that look best technically.
+- Make a list of those stocks in the favorable groups that have bullish patterns but are now in trading ranges. Write down the price that each would need to break out
+- Narrow down the list. Discard those that have overhead resistance nearby.
+- Narrow the list further by checking relative strength.
+- Put in your buy-stop orders for half of your position for those few stocks that meet our buying criteria. Use buy-stop orders on a good-'til-canceled (GTC) basis.
+- If volume is favorable on the breakout and contracts on the decline, buy your other half position on a pullback toward the initial breakout
+- If the volume pattern is negative (not high enough on breakout), sell the stock on the first rally. If it fails to rally and falls back below the breakout point, immediately dump it.
+
+## FURTHER TIPS FOR BUYING
+
+The first one is the head-and-shoulder bottom formation. This is the most powerful and reliable of all bottom formations. Most investors have heard of it, but few really know one when they see it. In fact, novice technicians usually imagine them on every other page of a chart book, just as a first-year medical student often worries that he has contracted every disease that he studies
+
+![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%204.png)
+
+This dynamic pattern appears after a stock has suffered a major decline and is ready to reverse sharply to the upside. Chart 4-20 shows what to expect as this pattern unfolds. First there is a decline that drops XYZ to a new low, followed by an oversold rally (point A). The left shoulder has just formed but it is too early for you to know that at this time.
+
+Next there is a smash that drops the stock to yet another new Stage 4 low. But now comes the first sign of budding strength. Once the urgent selling pressure runs its course, XYZ surprisingly rallies very close to the same resistance level as last time (point B). The head has just formed on what is very unusual and bullish action. (Up until now, rallies that started after a new low was registered failed far below prior peaks.) So although it's still too early to buy, you get the feeling that something is going on
+
+Next there is another decline that gets underway, but it doesn't drop the stock to a new low. In fact, it doesn't even take XYZ all the way back to the last low, which is another subtle sign of strength. Ideally, the rally peaks (points A and B) will be at the same approximate price, and the two selloffs-on each side of the reverse head-will be approximately equal. But don't be a fanatic; both the peaks and the two selloffs can be off a bit. Just be sure that there is some semblance of symmetry.
+
+After this selloff ends and the stock starts to rally once again, the right shoulder is completed. One other thing to be aware of is that points A and B on the chart (the first two peaks) should be connected with a trendline that is called the neckline. Keep a close eye on the neckline, because if the stock breaks out above it a bullish signal will be given
+
+There are two signals that are important and very reliable. Both are from our system, and neither must ever be ignored. First, make sure that the 30-week MA is in fine shape. It should no longer be declining and the stock should not still be below it after it breaks out above resistance. If the MA is declining, don't buy the stock even if it breaks above the neckline, and even if it moves above the MA. If the MA later stops declining, you can buy the stock on a pullback toward it. If the stock is still below the MA after it moves above the neckline, don't buy it until it also clears the MA.
+
+## DOUBLE-BARRELED ACTION
+
+![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%205.png)
+
+As you can see from Chart 4-27, stock XYZ should first hit a low (point A), then bounce higher once the selling pressure lessens. Then a second wave of selling develops which brings XYZ all the way back down to its prior low (point B). It's a favorable sign ifthe renewed selling pressure cannot ignite a significant new downleg in the stock. It doesn't matter if there is a marginal new low with B dropping slightly below point A. The important thing to watch for is that on the next rally the stock snaps back toward the recent peak.
+
+The breakout can occur immediately thereafter; or, in some cases, the stock may consolidate for several weeks before breaking out above resistance and moving into Stage 2. Whatever shape the bottom takes, do not anticipate. Don't buy prematurely. In some cases the breakout never occurs and the stock plummets to a new low. At other times, the breakout may come many months later, and by then you'll have become frustrated and sold the stock. 
+
+## BIGGER IS BETTER
+
+There's an old saying among technicians-"the bigger the base, the bigger the move" (the corollary being, "the bigger the top, the bigger the drop").
+
+What a big base really means is that a lot of stock has changed hands during the Stage 1formation. Many disenchanted sellers who were holding the stock as it plummeted, hoping to get out even, finally sold the stock in disgust to a new group of buyers at this low price. This cuts down the amount of resistance that is overhead. Many of the former potential sellers who were disgusted and wanted to get out even have now dumped their stock. The new holders are willing to be far more patient and wait for the stock to advance significantly before selling
+
+## STAN'S DON'T COMMANDMENTS
+
+- Don't buy when the overall market trend is bearish
+- Don't buy a stock in a negative group
+- Don't buy a stock below its 30-week MA.
+- Don't buy a stock that has a declining 30-week MA (even if the stock is above the MA).
+- No matter how bullish a stock is, don't buy it too late in an advance, when it is far above the ideal entry point
+- Don't buy a stock that has poor volume characteristics on the breakout. If you bought it because you had a buy-stop order in, sell it quickly
+- Don't buy a stock showing poor relative strength
+- Don't buy a stock that has heavy nearby overhead resistance
+- Don't guess a bottom. What looks like a bargain can turn out to be a very expensive Stage 4 disaster. Instead, buy on breakouts above resistance.
+
+## DON'T PUT ALL YOUR EGGS IN ONE BASKET
+
+Now that you know what to buy and what not to buy, there is one last topic to cover: diversification. No matter how expert you become with my system, don't ever expect to achieve perfection. The future is too uncertain. It is feasible to be right a very high percentage ofthe time. But that implies being wrong now and then. Prudence dictates that you spread your risks over a number of stocks. That prevents one unfortunate choice from dealing you a crippling blow.
+
+> There is no single magic number! But there is an approximate area which makes sense to me. I know that one or two stocks is far too dangerous an allocation of capital. I also believe that 40 to 50 stocks are far too many issues to keep track of. Keeping a watchful eye properly focused on your portfolio is a lot like being a parent. The more children you are responsible for, the harder it is to keep close tabs on them. So too with stocks. If your market assets are allocated among 50 stocks, it is very difficult to get a feel for how each one is acting. In addition, there is the tendency to concentrate on the issues that are acting well and put aside your concern about the laggards, figuring they will come to life later. What happens is that you let the good stocks subsidize the bad ones.
+> 
+
+The proper way to look at your stocks is to make believe that each position is the only one you have. If it's acting fine, great, ride with it. But if it's lagging badly and acting poorly, lighten up on that position even if the sell-stop isn't hit. Move the proceeds into a new Stage 2 stock with greater promise. To be more specific, for a small portfolio that's investing a modest amount ($10,000 to $25,000), I'd diversify into no more than five or six stocks. But as you move up the ladder into six-digit or higher portfolios, ]0 to 20 stocks are the most that I'd invest in at anyone time. Also, use approximately equal dollar amounts when constructing your portfolio.
+
+Don't do all of your buying from just one group. If three or four sectors exhibit great technical action, buy Stage 2 breakouts from all of them rather than from only group A. If one group suddenly reverses, your portfolio will still do well. If you practice these two forms of diversification and properly utilize my system, you should do very well in the market year in and year out!
+---
+## 5: Uncovering exceptional winners
+
+First, let's examine the takeover dream which, for most investors, leads to financial nightmares. I've seen investors buy on rumor after rumor and have not one deal pan out. Some terrible losses can pile up while they wait for the announcement that never comes. Why do so many investors chase these rainbows? It's a simple study in psychology. First, there's greed. We all want to hit that big gusher in a hurry, so we dream that maybe this time our ship will come in. Second, there's a theory in psychology called intermittent reinforcement. It says that if an animal gets what it wants, even in a small percentage of the cases, it will keep coming back for more. It's been demonstrated time and again that if a mouse gets cheese just once when going through a maze, it will try to navigate that maze over and over again, even when the cheese is no longer there. People aren't that different from animals. Why else would we play the slot machines in Las Vegas or try to win a lottery? All it takes is one jackpot going off in the casino, or one lottery winner in the headlines, and we start dreaming again.
+
+Here a bit of mathematics comes into play. If you have $50,000 invested and you lose 20 percent, you are now reduced to a $40,000 market stake. To get back to even you now need a 25 percent gain on your next trade. And if this trade is a loser, then the percentages move even further against you. So discipline and selectivity are operative words to always keep in mind. Remember, we can make really big money in the market even if we pass up 100 winners and buy only 10 stocks during the year, with 7 or 8 turning out to be winners.
+
+## THE TRIPLE CONFIRMATION PATTERN
+
+![Untitled](5%20Uncovering%20exceptional%20winners/Untitled.png)
+
+![Untitled](5%20Uncovering%20exceptional%20winners/Untitled%201.png)
+
+In addition to the basic requirements of the stock being above the MA, the following three events must take place. First, there must be a volume signal. This is vital! The market champs almost always have substantially larger volume on the breakout than during any point in the Stage 1 base area. For this type of big winner we want to see volume of even more than twice the average trading of the past four weeks. In addition, the heavy volume should not be shortlived. The initial volume surge should be followed by several more weeks of heavy trading. This signal indicates a sudden tremendous interest in the stock, as well as additional future demand. Since the stock is starting to run away on the upside, buyers will be fast to add to positions on any corrections. When the dips are too shallow to accommodate their buying, these buyers will often get into a buying panic.
+
+The second factor to focus on is relative strength (B on Chart 5-15). This is a very important tool to use in distinguishing good from great buys. For this triple-threat pattern, the RS line must be in a certain position. It should either be in negative territory or hugging the zero line in a neutral manner.
+
+If a stock has wide swings while still in its Stage I base pattern, then it's far more likely to be a ball of fire once it breaks out. Just as a high jumper gets into a low crouch before taking off up-ward, a stock that first dips and then gets up a good head of steam will be far more powerful once it leaves the starting gate. As a rule of thumb, stocks that have risen some 40 to 50 percent or more before breaking out do the best in the months ahead. But this does add some near-term risk to the breakout, which is why I stressed earlier that this kind of buying is strictly for investors rather than traders
+---
+## 6: When to Sell
+
+## DON'TS FOR SELLING
+
+1. Don't base your selling decision on tax considerations. This is truly a case of letting the tail wag the dog. Too often an investor will decide that he can't sell a given stock because there is too big a tax bite. Then in the following months the stock plummets and wipes out a good portion of the profit. This decline, if avoided, could have paid for the taxes and still have left a good gain. Furthermore, you then could have moved into a new Stage 2 situation that had the potential to rack up an additional gain.
+2. Don't base your selling decision on how much the stock is yielding. Far too often, investors decide to hold onto a stock that is weakening because it pays a great dividend. This type of thinking is especially common when dealing with utility stocks, which typically offer a generous yield. It's great to hold onto these stocks while they are in Stage 2. Even though they won't usually rocket ahead, they are good total-return situations (price appreciation plus yield) that certainly beat the 5V2 percent yield of the bank. But once these stocks move into Stage 4 and start heading south, it's ridiculous to hold onto them any more than you would hold any other Stage 4 loser. Remember, if you get a 10 percent yield but lose 20 percent because of price depreciation, that's not winning mathematics. And that's the good news. It could be worse. There's always the distinct possibility that the plunge in stock price is a signal of future bad economic news for the firm. The news may be so negative that the company may not even have the ability to pay future dividends at all.
+3. Don't hold onto a stock because the pricelearnings (PIE) ratio is low. This ratio often appears to be at a bargain level even though your stock is topping out. The stock often declines and only months later reports disappointing earnings. By this time the PIE ratio no longer appears low at all, but at that point it is too late to sell profitably. In addition, there are many cases where the PIE ratio is low-and stays low-and the stock gets bashed anyway.
+4. Don't seLL a stock simply because the PIE is too high. The converse of the prior example is also a serious problem. There's an old Wall Street joke that has an investor ask his broker why a given stock went up. For lack of a better explanation, the broker quips "more buyers than sellers." There's more truth than fiction to the message behind that joke, but few investors ever learn it. They always want rational answers why a stock moves. They are really getting either excuses or conjecture. Few market participants ever learn that the market isn't always rational. All it does is reflect the prevailing psychology or mood ofinvestors. Ifinvestors become overly bullish and lapse into optimistic dreams, then high PIEs can go much higher. Tandem Computers (Chart 6-8) illustrates this point clearly. The PIE ratio of 32 was no bargain in late 1985 when TDM moved above resistance at 10 (point A). Fifteen months later, it was an even higher 44 as the stock price neared the 38 level. 
+Investors are like manic-depressives: when they become optimistic, they'll find excuses to buy stocks no matter how high the PIE gets. On the other hand, when they become bearish and worried, they will shy away from buying no matter how cheap the PIE appears. So the secret is to accept that too high can become much higher when a stock is in Stage 2, and hold back on your selling until you see the whites of their eyes and Stage 3 starts to form. This is far more important than too high a PIE, because it objectively shows that the very powerful buying which catapulted your stock higher is now finally meeting equally powerful selling. It is not the fuzzy concept of being overvalued that causes a stock to top out, but the measurable reality that supply finally equals demand.
+5. Don't average down in a negative situation. These are stocks that had moved into Stage 4 and should have been sold. Unfortunately, many investors fell into the fundamentals trap. First they held on because it was a good company or so they thought. When they realized they were in trouble, they determined to get out even on the next rally. This is market masochism at its worst. In so many Stage 4 bombings, the stock never gives you the opportunity to come close to getting out even. Then panic takes over and these ill-starred investors shoot themselves in the foot by averaging down." This technique is great in theory, but suicidal in practice. Those who practice this dangerous technique are courting financial disaster.
+Don't ever fall into the seductive trap ofthinking that by buying more at a lower price, the stock will only have to rally half as much before you get out even. Do as professionals do-average up, not  down. When market action starts to show them they are right, the pros pile on further-not when they've been proven wrong. Instead ofsitting on a problem stock, they get out promptly. Learning how to handle a losing situation and keeping losses to a minimum is one of the most important secrets of successful investing.
+averaging down can be particularly crippling if you hold through a real Stage 4 debacle. Every time you average in the hope of hitting the bottom, you simply add more shares and more losses to your portfolio. The result is that you throw good money after bad. Instead of being a conservative portfolio device, it's actually highly speculative. Trying to guess the bottom in a weak stock is like fishing in the ocean with your fingers. Hope is a foolish reason for holding on, and it's an even worse reason for buying more! So learn to lock in your profits using protective sell-stops, and cut your losses short by recognizing when your stock is running into trouble. If you follow this winning discipline, you'll still have the capital to make up your loss on future purchases.
+6. Don't refuse to sell because the overall market trend is bullish. While it's true that a powerful bull market will often bail you out of some of your less brilliant judgments, don't think it's a panacea for every market problem. Sure, the major uptrend will usually add points to your Stage 2 winners. It's also true that a raging bull market will often limit the downside on problem stocks. This is why there is an old Wall Street saying: "Don't confuse brains with a bull market." Nevertheless, if a stock really starts to flash technical danger, don't think twice-get out. Just the fact that a stock is showing weakness in the face of a soaring market is a warning that disaster is getting ready to strike. 
+7. Don't wait for the next rally to sell. When the chart pattern signals that a stock is running into trouble, get out immediately. Don't wait around trying to recoup an extra point or two on a rally. Chances are this tactic will cost you a lot of your market capital.
+8. Don't hold onto a stock simply because it is ofhigh quality. So-called quality stocks have cycles too, and once they turn negative will cause you just as much financial heartache.
+
+## SELLING PROPERLY-THE INVESTOR'S WAY
+
+The first thing any good trader or investor should do is realize that they must never hold any position without a protective sell-stop. Any futures trader worth his salt knows that this is a crucial technique for success. The stock market isn't all that different. The moves are just slower. And with the advent of stock index futures and programmed trading, the distinction is narrowing quickly. Cycles that used to take years to unfold in the 1950s and 60s are now occurring in a matter of months.
+
+This increased volatility in the stock market is a two-edged sword. On the positive side, it gives us a chance to make money even faster. The downside is that when a reversal occurs, your stock can move from Stage 2 into Stage 3 far more quickly. This is especial1y true if it's one of the overly loved institutional favorites. These issues can really change direction in a hurry when bad news comes out and the institutional herd starts to panic. The way to protect yourself is by using a sell-stop order.
+
+## SELL-STOP ORDERS
+
+The protective sell-stop is an incredibly helpful and profitable technique when properly used. That's what you are now going to learn. The first thing to know is that you must be flexible when you place your initial sell-stop. Sometimes it will be 8 percent below your purchase price, other times 12 percent or more. The percentage will not be the determining factor. Instead, the prior support level and 30-week MA will be your two keys to focus on.
+
+When you set your initial stop, pay less attention to the MA and more to the prior correction low. Ifstock XYZ is trading in an 18Y4 to 20Y4 zone, and you buy it when it breaks out at 203/ 8, the stop should be placed right below the significant floor of support. You could set the stop at 18Y8 (below the 18Y4 bottom). But here's a little secret that I've learned over the years which has served me well. If the sell-stop should be placed right above a round number, or on it, set it instead just under the round number. For instance, if the stop should be 18Y8 or 18, enter it at 177/ 8. Psychology plays a very big part in market moves, and this is another example of herd instinct. Many investors like to buy at round numbers. If the stock is trading at 18Vz or 18V8, buy orders will often accumulate on the book at 18. Therefore, that level is a tough one to crack. If it's violated, then you really know your stock is running into trouble and you'd better exit quickly. I've seen it happen so often that the proper level for the sell-stop is right above the round number, say 18V8. It hits that level and then only a few hundred shares trade at the round number without it being violated. Then a new rally gets going. To a somewhat lesser degree, this phenomenon also occurs at halves (l8Vz, 19Yz, etc.). So if the sell-stop should be set at 185/ 8, place it below the half at 18318
+
+From now on, never hold a stock without a protective sellstop. As soon as you buy an issue, immediately enter a GTC sellstop. This way you will never be left unprotected and end up with an unpleasant surprise staring you in the face when you open the evening newspaper. Also, never enter your order to buy until after you've calculated exactly where your protective stop should be placed. By getting into this habit, you will have an additional filter working for you when you narrow down your list of buy candidates
+
+> If all of the prior buy criteria that I've outlined for you are met, and you end up with three great buys, you should now check out the initial sell-stop levels. If stock A has a breakout at 20 and the sell-stop should be placed at 177/ 8, then the downside risk is 11 percent. Stock B has its breakout at 40 with a sell-stop level of 337/ 8. That's a downside risk of 15 percent. Finally, C has a breakout at 60 but a protective stop level of 567/ 8. Since that translates into a potential worst-case loss of 5 percent, all other factors being equal, stock C is your best choice from a reward/risk point of view.
+While there are occasional exceptions because a chart pattern is so outstanding, try to limit your purchases to those cases where the initial stop isn't greater than 15 percent below your purchase price.
+> 
+
+## SELL-STOPS IN THE REAL WORLD
+
+![Untitled](6%20When%20to%20Sell/Untitled.png)
+
+Now let's get to specifics so you will be sure to know exactly where your sell-stop should initially be placed, and when and to what level it should later be raised. Stock XYZ was in a trading range of 18V4 to 20V4 before it broke out and moved into Stage 2. You bought the stock at 203/ 8 and the initial stop was set under the round number at 17718. Now all you have to do is sit back and wait. In the unlikely event that the stock breaks down, you will be sold out when the 177/ 8 stop is hit.
+
+In the more likely and happy circumstance that your stock starts to move higher, here's what to do. As long as the stock is above its rising 30-week MA, and the MA is rising in Stage 2 fashion, be sure to give it plenty of room to gyrate. We are going to trail the sell-stop behind the advancing price in the following manner. After the first substantial correction of at least 8 to 10 percent, you are now going to get set to raise the stop. But you don't actually change it until your stock ends its correction and moves back toward its prior high (point A on Chart 6-21). If a break below that correction low (point B) would also violate the 30-week MA, that is a valid point to which an investor should raise the sell-stop. If, as in this example, the correction low is above the rising 30-week MA, place the sell-stop below the MA (point C). Continue moving the sell-stop up as the MA advances (points E, G, I, etc.). In this case the correction low is 21, while the MA is up to 20. The sell-stop should therefore now be raised to point C at 19718 (under the round number of 20). One last point. Don't raise the stop to 197/ 8 until after the stock rallies well off the low at point B back close to prior peak A.
+
+Next, the stock rockets ahead in normal Stage 2 action after the first correction. After peaking near 35 (point D), it corrects back to the 28 level before resuming the advance. At this point the MA is up to 26. Therefore, when you raise the sell-stop place it at 257 / 8 (point E). Again, don't raise the stop until XYZ rallies to point F, which is close to its prior peak. The next decline to point G terminates right at the MA at 32Y8. After the next rally gets underway and brings the stock close to point F, the stop should be raised to 317/ll-again, under the round number. In the same manner, the sell-stop should later be raised to point I at 387 / 8. At this time, the last low is at 40, while the MA is up to 39Y4.
+
+Now comes an important change in tactics, so pay close attention! The MA has stopped rising and flattened out after point I Once this occurs, the probabilities are high that a Stage 3 top is starting to form and the next serious violation of support and the MA can well bring on Stage 4 problems. Therefore, once a stock moves into this higher risk zone you should become more aggressive with your sell-stop. In the case of XYZ, that means moving the stop under the correction low at point K even though it is above the MA. Since K is at 46, raise the sell-stop to 45Vs. Then, in the following weeks, a potential head-and-shoulder top forms with the neckline near 46. Since point M is at 46Y2, which is so close to the 46 stop, you need not raise the stop for such a trivial change. Eventually 46 support is broken, and you are sold out of your position with an excellent profit before a new Stage 4 decline starts to take away a good portion of your gain. 
+
+Using sell-stops results in a minimum of emotion and misgivings. Your sell will often occur without you even knowing about it, while you are busy with your workday or even on vacation. Best of all, there will be no gut-wrenching decision-making. Should you hold despite the bad news? Should you sell because your broker heard a negative story on the stock? Is XYZ now too high or getting ready to tumble? It's all mechanical and disciplined. Most important of all, we let the market make the judgment for us. And since the market is the ultimate reality when dealing with the trend, its judgment is far more likely to be right than all of our balancing of pros and cons !
+
+While it looks like a lot of attention was needed for these sellstop changes, just the opposite is true. Only a few adjustments had to be made over a two-year period. The rest of the time, you just relaxed while the cycle unfolded. Furthermore, you didn't constantly worry about the news headlines and each weekend have a debate with yourself about whether you should hold or sell. Finally, and most important of all, you sold when the market flashed its clear-cut message that the supply/demand equation was turning negative. If you didn't sell, it would have been another case of up, down, profit turned to loss. Not surprisingly, the tremendous gain that took over two years to create vanished in a matter of months once destructive Stage 4 appeared. Just as it takes more time and energy to push a boulder up a hill than for it to fall, so it is with stocks. Both gravity and fear bring things down in a hurry.
+
+## THE TRADER'S WAY
+
+Several of the questions most frequently asked of me have to do with trading. How do you define a trader? Should you trade? Why bother trading? Is it better to invest or trade? Those of you who are veterans of the market battle know if you are more inclined to trade or invest. But newcomers often are perplexed about which road to take. Surprisingly, even some seasoned market players are confused in their approach. They may consider themselves investors but actually have a trader's psyche and therefore do poorly.
+
+So before getting into the proper way for traders to time their sales, I want to wax philosophical for a moment. I don't really believe there is one absolute truth about whether it is better to trade or invest. I know many very successful traders, and there are certainly scores of winning investors. What I do know is that it is easier for most market players to win big by following the investing path to profits (especially new market participants). It involves less time commitment, less skill, and is certainly easier on your emotions. So why should anyone even consider trading? Simple. Traders need the challenge and the action! Whereas most investors are more conservative by nature and like to keep their lives relaxed and calm, traders are more inclined to live on the edge. They enjoy the thrill of battle and the competitive tensions that come with making decisions on the firing line.
+
+The first trading technique to perfect centers on the trailing sell-stop. Traders must be much more aggressive than investors in their use of this tool. Investors ideally want to stay with a position as long as the stock is in Stage 2. They accept the reality that there will be some pretty stiffsetbacks along the way. In addition, months may go by when the stock moves sideways and consolidates before moving higher. Traders, on the other hand, realize that time is money. They not only want to sidestep all significant declines, they even want out if the stock is entering a neutral zone for several months. This makes sense because they can shift into a new stock that is ready to move into the exciting part of its cycle while the old situation simply zigs and zags. Therefore, a trader shouldn't wait for the 30-week MA to be violated on a selloff before selling. (In fact, if he can time the sale nicely when XYZ is well above the MA, the trader will often repurchase on dips back close to the MA.)
+
+![Untitled](6%20When%20to%20Sell/Untitled%201.png)
+
+## TRENDING TOWARD PROFITS
+
+![Untitled](6%20When%20to%20Sell/Untitled%202.png)
+
+In many cases, no valid trendline will form and you should simply use the trading sell-stop concept. But when an aggressive trendline does take shape, use it, because it's a way of locking in even more of the profit. At least a portion of the position should be sold when such a trendline is violated. Then the remainder can be handled via the sell-stop route, which will usually be at a somewhat lower level.
+
+When integrating trendlines into your trading game plan, start out in the same manner as you did in the prior example. Set the initial stop at 193/ 8 (point A) when you buy on the breakout at 20Jfs. Then raise the sell-stop to B as the stock rallies back toward peak G. A clear-cut trendline is one that connects at least three points. If a trendline materializes, it should be brought into your analysis of where to place your stop. After XYZ rallied off of point C, the sell-stop should be placed under C. Here's where the trendline can start to help you. Now that it's been in force for several months and has been touched at least three times, you should raise the stop further to a point under the trendline. First you'll raise it to D, then a few weeks later to E and F. Since the trendline is a rising one, you can continue raising the stop on this half of the position even if the stock moves sideways, as it did following point I. One half of your position is now protected with a stop at point C, and one half is set very tightly at rising points D, E, and finally F. Eventually the sell-stop at F is set off as the stock drifts sideways. Even if it doesn't indicate a sharp drop, it's likely to lead to a neutral trading range. This is bad news for traders, so it's good to lock in the profit on half the position. Then when real weakness sets in, the second stop at point C is hit and another fine gain is secured
+
+## LEARNING HOW TO WIN BY LEARNING HOW TO LOSE
+
+No matter how good my system is, you will not win 100% of the time. That's a promise. How you deal with this fact of life will go a long way toward determining how big a winner you become. In fact, after all my years in the market, there is absolutely no doubt in my mind that one of the real keys to winning is learning how to lose. Think about it for a moment. Is it really so terrible to take a loss on one or two positions? To most people it is, and that's why they end up making poor decisions. But to market professionals, it's a fact of life, a cost of doing business. Specialists and other pros don't lose sleep if a given position ends up in the loss column. They concern themselves with two far more important factors: (1) the net result of all their positions (as long as it is strongly positive they are happy), and (2) where they will call it quits if a given stock moves against them
+
+Promise yourselfthat you won't allow anyone loss to be blown out of proportion. First, treat your portfolio like a mutual fund; look at the overall return of the whole. Second, make a pledge that you'll never hold any stock long or short without a protective stop. This will take the emotion out of the situation and guarantee that no single position will cripple your portfolio.
+
+## THE PHILOSOPHY OF SELLING, OR DON'T GIVE BACK PROFITS NEEDLESSLY
+
+It's not enough to understand the mechanics of selling. You must also understand the winning philosophy that accompanies the methodology. Most market participants view profits and losses in a way that I can only categorize as strange. Their view also makes for odd and destructive decisions. Ask eight out of ten investors who bought stock XYZ at 40 how much they've lost now that the stock is down to 20, and they'll answer nothing! The conventional wisdom says that as long as I don't sell the stock, I haven't taken any loss; or it's just a paper loss. That's ridiculous! Your stock is only worth the price of the last print on the tape. It's an asset that can be sold any time the market is open. If you decide to cash in your chips on any given position, you can take that money and do as you wish with it. But because of this nonsensical view that a stock in which they are losing 50 percent is not a loss, they hold and hold, waiting for it to come back to even so they won't have to feel stupid. Not only are they suffering needless additional shrinkage of capital, they are missing out on the chance to shift the funds into new Stage 2 situations. The converse is also ridiculous. Ifthey bought a stock at 40 and it's run up to 80, they feel they don't have a profit because they haven't sold yet. Instead, they talk about playing with 'their' money. They should recognize that they have real profits that will be lost if not properly protected.
+
+ I strongly suggest that each weekend you tabulate the value of your portfolio. Don't worry if it swings a few percent from week to week. That's the way of the market. But if you see your assets drop by 20 to 25 percent, something is wrong. If you're using sellstops, perhaps you are taking too much risk by buying stocks that are too far above their stop-loss points. If that isn't the case, then it's possible that you are taking far too many small losses in a row because the negative market climate is whipsawing you in position after position. In such a situation, just move to the sidelines until the probabilities of success become favorable.
+---
+## 7: Selling Short: The Less Travelled Read to Profits
+
+## WHY IS SHORT SELLING SO FEARED?
+
+Many investors feel it's un-American to sell short. They believe we have to root for our companies to do well. They seem to think it is similar to cheering for your local baseball or football team, and they don't want to be disloyal. Since most Americans have a natural tendency toward optimism, short selling is often viewed as a negative pastime  
+
+My reaction to the above is simple. There is absolutely nothing wrong with recognizing the reality of both the marketplace and economy. Cycles are a fact of life, and there is nothing patriotic  about holding a stock while it enters a Stage 4 decline. In the same way that it's rational to sell and avoid a large loss when a stock starts to crash, it's also reasonable to profit from that decline.
+
+short selling actually serves a very valid economic function. Short selling increases the stock's liquidity on the downside, so when an issue gets smashed, its decline is eventually cushioned. After all, a person who has sold XYZ short has to repurchase that stock at some point. Every short sale represents future demand for the stock. When it declines and short sellers buy back the stock, this demand actually slows the drop
+
+A second bogey-man that keeps so many from selling short is that classic excuse, you can lose everything you have! The thinking (or nonthinking) goes something like this: If you buy XYZ at 40, the worst that can happen is that the company goes bankrupt and the stock ends up dropping to zero. But if you sell short, there is no upside limit. It can advance toward infinity. Since infinity brings to mind the size of the universe and other imponderables, this theoretical danger is enough to make most investors stop right in their tracks. They dismiss the idea of short selling and go back to what they perceive as being safe, such as buying Stage 4 patterns in a bear market
+
+While there is a remote theoretical possibility of a stock jumping higher and higher, thus wiping you out while you are short, there is zero possibility of that happening when you follow my methods. You've now read and digested enough of my approach to know the answer even before I tell you what it is: a protective buy-stop. This device will guarantee that you never suffer the horrible fate of infinite loss and eternal pain and suffering. It's no different from what I taught you on the buy side. In the same manner that a properly placed protective sell-stop will make it impossible for you to ever carry any stock from 40 down to zero, so, too, will an intelligently placed protective buy-stop assure that you'll never hold XYZ short as it advances from 40 to 200! Once you learn how to implement this important tool, you'll quickly see that it's nonsense to listen to your friends and relatives who warn you against the evils of shorting. You won't lose the house, car, and even the kids, as so many amateurs fear. On a worst case basis, you'll suffer a 10to 15percent loss on a position that moves against you. This is no different than what happens on the long side when one of your purchases doesn't work out and your sell-stop is set off.
+
+## COMMON MISTAKES WHEN SHORTING
+
+1. Using overvaLuation as your criteria for shorting. Don't ever fall into the trap of thinking that a high PIE means you should sell short. I've talked about the subjectivity of overvaluation before. It's such a fuzzy concept when considering short-sale candidates that you should swear off of it entirely. I could fill up page after page of this book with examples of stocks that looked to be too high based on their PIE ratios but went much higher in the months ahead.  fundamental overvaluation is not the way to uncover a choice short sale even though it is the most common method among the rank and file of market players
+2. Selling short because the stock has advanced too far. Another very destructive approach used by many traders and investors is selling short when they feel a stock has run up too far. If you like Russian roulette, this is your kind of game. But it's just a matter of time until the gun goes off and you get hit with a huge loss. People who play this game are selling short while the stock is charging ahead in Stage 2, and then they can't understand why they get clobbered. But now that you understand stage analysis, you can see why they get their heads handed to them by trying to guess a Stage 2 top
+3. Falling for the sucker short. The stock market has the equivalent of a too-good-to-be-true offer. We've all seen cases where you know that the deal is just too good to be offered for such a pittance. A closer investigation usually reveals that your instincts were correct and there really are no free lunches. In the market this takes the form of a sucker short. This is a stock that has risen so far in excess ofits apparent sensible value that it seems destined to fall. Every market cycle has a number of sucker shorts and they end up doing a nose dive-but usually long after you've been squeezed out of your short position for a great loss. Such stocks combine both factors that I've cautioned you to avoid: a high PIE, and a sharp advance. In addition, the stock usually gets a lot of media attention because ofits eye-popping runup. Finally, and most dangerous of all, it has a very large short interest! relative to the average daily trading volume. Whereas many stocks have a short interest equal to three to four times the average daily trading (which is on the high side), these too-obvious shorts often have a short position five times or more the average daily volume.
+Never forget this point: Don't ever short a stock that is above its rising 30-week MA. If you understand all that I've taught you about buying, then you know how to sell short-you just don't realize it yet. Everything is simply reversed. Just as you should never buy a stock that is trading below its 30-week MA, you should never sell short any stock that is still above its rising 30-week MA no matter how enticing it may seem.
+
+## Other SHORT-SELLING ERRORS
+
+It's also important that you don't sell short a stock that is too thin. By too thin, I mean an issue that has relatively little trading volume each day. If the average weekly volume is under 15,000 shares, look elsewhere. Remember, if it trades only a few hundred shares a day when you try to cover the stock (repurchase your shares), your buying will cause the price to rise. In addition, when a stock trades thinly, it doesn't take much buying to panic the other shorts, causing a short squeeze (shorts trying to repurchase their shares, thus driving the price higher).
+
+Another grave error is to sell short a stock that is part of a very strong group. All the principles that I've taught you on the buy side still apply, but in reverse. You want to sell short a vulnerable stock that is in a weak group, especially when the overall market is negative.
+
+## SUMMARY OF SHORT-SELLING DON'TS
+
+- Don't sell short because the PIE is too high.
+- Don't sell short because the stock has run up too much.
+- Don't sell short a sucker stock that everyone else agrees must crash.
+- Don't sell short a stock that trades thinly
+- Don't sell short a Stage 2 stock.
+- Don't sell short a stock in a strong group.
+- Don't sell short without protecting yourself with a buy-stop order.
+
+## HOW TO DO IT RIGH
+
+starting point is to look for a stock that has had a substantial advance over the past year. However, don't stop there, as so many amateurs do. It is important that you make sure your short-sale candidate is in Stage 3 with a flat MA, or, even better, an MA that is starting to decline. Also look for a stock that has trended sideways for several weeks. Moving sideways is a sign that a distributional top formation is unfolding that will help power your stock on the downside. Finally, look for a clear-cut level at or preferably below the MA that will signal the start of a Stage 4 downtrend if it's violated.
+
+## WHEN TO SELL SHORT
+
+![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled.png)
+
+The next question to resolve is: When is the best time to initiate your short sale? Is it when the initial breakdown occurs (point A), or when the pullback rally takes the stock back toward the breakdown area (point B)? Again, everything that we learned on the buy side is valid when we're shorting. Wejust have to reverse the steps.
+
+  The rules for short selling are the same. Traders should sell short their entire proposed position on the breakdown. This is especially important for traders to realize. While pullbacks toward the breakdown level do occur in better than half the cases, they nevertheless occur far less frequently than pullbacks toward breakout points. The reason is simple. Stocks decline because of fear, and when panic gets out of hand, it's simply a matter of bombs away! Nevertheless, conservative investors who want to keep their risk to a minimum should sell short only one half of the proposed position on the initial breakdown, and then short the other half on a pullback
+
+## TAKING SOME PROFITABLE STEPS
+
+### The Market.
+
+The very important starting point is the overall market trend. While I'm not going to tell you that you can never sell a stock short when the major market trend is bullish, this should be the exception, certainly not the rule. Just as I showed you back
+
+Buying National Semiconductor in a bear market should have been done as a hedge against the many short sales you had outstanding. By the same token, if you find an outstandingly negative chart pattern that one stock should be a hedge against your many longs. In general, however, it's best to keep it simple. When the market's major trend is bullish, you want to look for buys. And, conversely, when the investment climate is clearly negative, you want to look for short sales
+
+Once the major trend turns clearly bearish, as it did in early 1973 (see Chart 7-15), it becomes easy to rack up big profits on the short side. So once we are sure that all of the market averages are below the 30 week MAs and are in Stage 4, and the majority of our other longterm gauges (which I will teach you in Chapter 8) are also negative, it's time to start hunting for some good short-sale candidates.
+
+### The Group.
+
+- The next step is to isolate those market sectors that are showing significant potential vulnerability. To do this, we look at the group charts for negative formations.
+- We want to make re the group has broken below its 30-week MA. Another key is that the relative-strength line is trending lower. Finally, it's important that several charts from that sector are acting technically weak.
+
+### The Individual Chart Pattern.
+
+We don't want just an OK short that is going to go down; we want A + shorts. Here are the filters that will help you separate the champs from the chumps. Make sure the stock has had a significant runup before the top has formed. If the top unfolds after a mediocre Stage 2 advance, it's very likely to have a minor drop that will just take it back into its prior base area, which won't be a thrilling ride. But if your short-sale candidate has taken off like a rocket before the Stage 3 top forms, the probabilities are very strong that a big downhill slide is in store. The second factor requiring strict attention is whether or not there is a significant area of support close to the breakdown point.
+
+### Relative Strength.
+
+Never sell a stock short that has very positive relative strength (RS), especially if the RS line is trending higher. If such a stock breaks down and you own it, of course you'll sell it; ; but you do not want to sell that stock short.
+
+While it's OK if the relative strength is above the zero line on the Mansfield chart, it must have clearly topped out and started trending lower. It is even more negative if a breakdown on the price chart is accompanied by a drop into negative territory by the RS line. These stocks are the short sales that usually turn out to be the A + winners.
+
+### Volume
+
+Now, pay careful attention! Volume is crucial when we're dealing with upside breakouts on the buy side. You should never buy a breakout that does not have confirming volume. If you do buy one and volume doesn't confirm, then you should sell it on the first minor advance. The short side is 100% different. While it's nice if volume does pick up significantly and confirm the downside breakout, volume is not a necessary ingredient for a winning short sale. It takes power to make a stock rise, but a stock can truly fall of its own weight. 
+
+### Support
+
+The last factor to check out is how much nearby support is beneath the stock. The ideal short sale is one that has had a steep Stage 2 advance with only small congestion areas along the way. This situation will slip rapidly when the retrorockets are fired. On the other hand, a stock that has risen slowly and has a large trading zone not too far below the breakdown level will be far more resistant to decline.
+
+## NEVER TOO LATE?
+
+Thus far we've discussed short selling near the breakdown point. But is shorting feasible when a stock has already had a substantial decline? The answer is an emphatic yes. While it would be more ideal to go short near the top because the profit potential is larger, remember that the really big losers have a habit of becoming even bigger busts before they hit rock bottom. Shorting well into a Stage 4 decline is a good trader's tactic because the selloffs that immediately follow are usually fast and furious. But this tactic is only to be used if a consolidation pattern forms beneath the declining MA and then a new breakdown occurs.
+
+This type of trading is comparable to continuation buying in Stage 2. Just as continuation buys are more for traders, this formation is more for an aggressive market player and trader. But such a short does have its merits since the decline can be very rapid when it makes the renewed breakdown.
+
+## ESPECIALLY PROFITABLE FORMATIONS
+
+Head-and-shoulder top formations (especially when they come after a dynamic advance) are among the most profitable short-selling signals. While they don't occur with great frequency, they do form more often than head-and shoulder bottom patterns, and they do appear often enough to be a source of great gain. In fact, when you start to see a bevy of these formations occurring, it's a signal that a major market top is moving into place.
+
+The first ingredient of a valid head-and-shoulder top pattern is a stock which has been very strong and already had a substantial advance. The beauty of this formation is its ability to spot trend reversals. If there's no big prior upmove to reverse, forget it; it's not going to be exciting. Volume should be well above average on the advance, as the latecomers rush in close to the end of the move. Then along comes a correction, as profit-taking sets in (B-C on Chart 7-26). Once the selloff runs its course (point C), the stock then shoots ahead to another new high (point D). No problem yet, except that on this second rally, volume usually stops expanding and is often less than on the preceding rise. This is the first sign of potential trouble. The dwindling volume reflects lessened buying interest at this lofty level.
+
+![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%201.png)
+
+A second correction (D-E) then quickly sets in. This is another sign that something is starting to go wrong. After breaking to a new high (point D), the stock appears to be embarking on a new upleg as the buyers' greed glands start to work overtime. Instead, the stock only moves ahead a few points and then quickly sells off once again. The clincher that tells you weakness is setting in is how far back this second decline (D-E) carries. As I've shown you before, when dealing with support areas, the former peak (B) should act as support when the stock starts to decline. The fact that the decline instead carries the stock all the way to the prior low (C) is a distinct negative
+
+Now you have a potential left shoulder (A-B-C) and head (C-DE) as well as a trendline (C-E) connecting the two correction lows. This trendline is the potential neckline ofthe head-and-shoulder top formation and must be watched very carefully. If it breaks, watch out! Now it all hinges on the next rally. Will the upward momentum reassert itself, or is the stock getting too tired, and sellers increasingly anxious? Whatever you do, don't jump the gun. Don't anticipate that most of the pieces of the puzzle are in place for a short sale. In about one-third of the cases, these potential top formations will not move to completion and will instead end up breaking out on the upside.
+
+There are a few other subtleties that you should be aware of. The first can easily be summed up in a rhyme that I've used for years: the bigger the top, the bigger the drop. The longer this bearish formation takes to form, the more powerful the eventual downmove will be. While all head-and-shoulder top patterns are negative, one that forms in three weeks isn't as powerful as one that unfolds over a nine-month span. This makes sense because the more time the stock spends forming the pattern, the more buyers who are trapped in that top area. And it's those late-for-the-party buyers who will supply the downside fireworks when they begin to panic many points lower
+
+## PROJECTING A TARGET
+
+![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%202.png)
+
+Using Chart 7-30 as a model, take the low price that a stock hits (point A) while it is in a top area and subtract it from the highest level that the stock reaches thereafter (point B) before it breaks below the prior low (A). Since the stock peaked at 60 (point B) and the prior low (point A) was at 40, you get a difference of 20 points (60 minus 40). The next step is to subtract that 20 points from the old low (point A). 40 minus 20 points equals 20. This level then becomes a potential trading target. Just as on the long side, this measurement is usually quite accurate, and it pays to be alert for signs of a trading bottom forming near there
+
+## PROTECTING YOUR SHORT WITH A BUY-STOP
+
+To me, this is one ofthe real keys to profitable short selling. First, it will give you peace of mind when shorting. Don't underestimate the importance of mental calm; your emotions can end up overwhelming your chart-reading ability time and time again if you get nervous about market action. Second, this discipline will make sure any loss is relatively small if the short-sale position moves against you. Finally, once your stock starts crashing, it will guarantee that your profits increase as you move further and further into Stage 4.
+
+Before going further, promise yourself that you will absolutely never go short without first placing a protective buy-stop on a good- 'til-cancelled basis with your broker. Just as on the long side, calculate where the buy-stop should be placed before you dial your broker. A very important part of the process for picking a good short-sale candidate is being able to protect it with a buy-stop that is not too far from the ideal short-selling price. This negates the old short-selling bug-a-boo that the stock can run to infinity. If your short sale fulfills all the other criteria, but the protective buy-stop must be placed 30 to 40 percent from the point of short sale, look for another stock. In the same manner, if you come across two potential short sales that look equally vulnerable and fulfill all of the other criteria, but one can be protected with a to percent buystop while the second one has its buy-stop 20 percent from the shorting level, then go with the lower-risk candidate.
+
+After you sell your stock short and place the protective buystop, it's very important to know how to methodically lower the stop in the following weeks to lock in more and more of the gain
+
+![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%203.png)
+
+## USING BUY-STOPS THE TRADER'S WAY
+
+![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%204.png)
+
+## TRENDLINES ON THE DOWNSIDE
+
+If no valid trendline forms (one that hits at least three points), then simply use the trading buy-stop technique. When a clear-cut trendline does form, it certainly pays to utilize it. At least a portion of the short position should be covered when such a trendline is violated. The remainder can be protected with a buy-stop, which will usually be at a somewhat higher price than the trendline.
+
+![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%205.png)
+---
+## 8: Using the Best Long-Term Indicators to Spot Bull and Bear Markets
+
+While it's always important to keep in touch with the major trend, it's absolutely vital when the market moves into a high-risk zone (such as late 1972 and early October 1987), or a low-risk area (such as early 1975 and the summer of 1982). These are the times when false signals and whipsaws are most likely to pop up on your individual stock charts. By identifying when you are entering a high-risk area, you can build up large cash reserves and become extremely selective in your purchases. In addition, you can test the waters with a short sale or two. On the other hand, when our trusted indicators point out that the market is entering a low-risk zone, at the end of a bear market, it makes sense to start locking in profits on short sales, building up cash reserves, and getting ready to start doing selective buying.
+
+## STAGE ANALYSIS FOR THE MARKET AVERAGES
+
+ust as with stage analysis for individual stocks, once a potential Stage 3 top forms on the DJIA, you must proceed with caution. Then when the Dow breaks below its 3D-week MA and breaks down into Stage 4, it's time to become very defensive. Suspend buying even if you see a few stocks breaking out on their charts. Be sure to sell any stocks that are showing poor relative strength. Pull up your protective sell-stops as tightly as possible on your few remaining long positions. Finally, start hunting for ideal short-sale patterns.
+
+![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled.png)
+
+> While this key long-term indicator certainly isn't infallible and will give an occasional whipsaw signal, it is incredibly reliable. No bear market in the past several decades has unfolded without this gauge flashing a negative signal.
+> 
+
+![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled%201.png)
+
+![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled%202.png)
+---
+## 9: ODDS, ENDS, AND PROFITS
+
+## FUN WITH FUNDS
+
+The first area to move into is that of mutual funds. This is a game that is both easy to master and has relatively low risk. Most investors view mutual funds as very long-term investments that should be bought and locked away through thick and thin. This is foolish for several reasons. First, once you know how to time major moves, why in the world would you want to sit through a Stage 4 bear trend? 
+
+Second, more and more funds have gone the no-load or lowload route. I Finally, there are now many funds that offer both an aggressive stock fund as well as a money market fund. To induce you to keep your money in their coffers, they allow switching back and forth between funds, usually with just a phone call. This immediately sets up the potential for a very profitable trading and investing game. All we have to do is buy an aggressive fund when the market turns clearly bullish (such as in mid-1982 and late 1986), and sell and move into a money market fund when Stage 4 appears (as in January 1984 and early October 1987)
+
+> The advantage of using mutual funds to capitalize on the market's cycles is that you don't have to pore over page after page of individual stock charts. All you have to do is keep up a few charts of some of the better-acting funds along with their 30-week MAs.2 This only takes a few minutes on the weekend and is well worth the effort.
+> 
+
+Before proceeding, let's deal with the question that you're probably getting ready to ask. Since this exciting mutual-fund technique looks so easy and profitable, should you forget about stocks and use it exclusively? My answer is: for most of you, no! The potential is more dynamic in individual stocks than in funds, so it would be a mistake to totally ignore that area. But depending on your personality and the time you can allot to the market, you should work out the mix between mutual-fund switching and stock purchases. If you are very committed to the market and want to devote a couple of hours a week, you should obviously place a greater emphasis on stocks and less on funds. But even this type of investor should place some capital in the switch-fund game. I especially recommend that you use fund switching for your IRAs (Individual Retirement Accounts) and pension funds, while putting your more aggressive money into individual stocks. If, on the other hand, you have very little time available to devote to the market, then it certainly makes sense to lean much more heavily on funds than stocks
+
+---
+## 10: PUTTING IT ALL TOGETHER
+
+From now on, whether you're an investor or a trader, vow to be consistent to your system. Do not make any exceptions! Never believe that this time it's different. Always follow these steps:
+
+1. Check the market indicators for overall direction.
+2. Scan the groups so you'll know which ones to zero in on.
+3. Cull out those few stocks with the most potentially profitable formation within those favorable groups.
+
+Once you've taken these steps, here are some rules to follow:
+
+- If you're an investor, do most of your buying early in Stage 2, when major bases are being completed.
+- If you're a trader, concentrate the majority of your buying in continuation-type buy patterns that are already in Stage 2.
+- Before entering your buy order, make sure you know where your protective sell-stop will be set. If it's too far away from the purchase price, look for a new buy or wait to purchase the stock when a safer stop level forms. The converse is true when selling short.
+- Never sell a stock that's in Stages 1 or 2 (especially Stage 2).
+- Never buy a stock that's in Stage 3 or 4 (especially Stage 4).
+- Never hold a long or short without a protective stop.
+- Don't be afraid to sell short when the overall trend is bearish. Just be sure to protect the position with a buy-stop.
+- Be aware that stage analysis can be applied to any and all investments that are governed by supply and demand, which includes stocks, mutual funds, options, futures, and commodities.
+- Never guess a bottom. Learn the important lesson that it's better to be late and buy in Stage 2, than to grab a stock that looks cheap but will be 40 to 50 percent cheaper later in Stage 4.
+- Don't feel you have to be 100 percent invested at all times. Differentiate between a September 1982 situation, when the indicators and charts strongly suggested a fully invested position, versus a September 1987 position when extreme caution was demanded.
+- Buy Stage 2 strength; sell Stage 4 weakness. In other words, always be in harmony with the tape
+- Whenever there's a conflict between the price volume action and the earnings, always go with the objective message being supplied by the technical approach.
+
+While I cannot guarantee that you'll make millions in the market, I can assure y
+
+- No single commitment will ever wipe you out.
+- You'll never have your capital locked into disastrous positions that prohibit you from reversing and getting aboard a profitable new trend.
+- You'll always make decisions in a rational manner, which will lead to peace of mind and definitely improve your batting average.
+- You'll always be able to objectively judge where and when a given stock should be bought and sold
+
+## A FEW LAST SUGGESTIONS
+
+Many market books recommend that you first play on paper before risking your capital in the market. I disagree! Many athletes perform incredibly well in warm-ups, only to choke once the actual game begins. It's no different in the market. When there's no pressure on you, it's very easy to cite the proper chapter and verse Dealing with the real-life stresses caused by the market's zigs and zags while sticking to your game plan is another case! Therefore, instead of playing on paper, use only a portion of your capital until you sharpen your technical skills and reach a higher level of confidence and proficiency.
+
+A tactic that I used when I first started playing the market was to keep a diary. I strongly suggest you do likewise. In this diary enter only your losing trades. Winners always take care of themselves. While it's nice to have both your pocketbook and ego enhanced, winning teaches you nothing. Losing can be the greatest teacher of all, if properly analyzed. In the final analysis, losing can actually lead to far more winning trades. Write down the date that you bought your losing position and your reason for buying, and be honest with yourself as to why it didn't turn out. If it was merely a whipsaw, say so. But if upon later examination you realize that either the volume was inadequate, or the relative strength was lacking, or the group was negative, or you were influenced by a rumor, write down that error. After several months look for a common denominator in your losses. We all have psychological patterns. When you see what your particular destructive pattern is, it will be easy for you to retrain yourself and deal with it so your investing will become even more profitable.
+
+I also want to stress that you most definitely should not be in awe of the big-money institutions. Too many investors feel they cannot compete in today's marketplace with the so-called financial giants. This is nonsense! You actually have an advantage over the large institutions; most investors just don't realize it. The institutions are like dinosaurs; they have big bodies and move very slowly. You, however, can turn on a dime and act very quickly. In addition, most of the hot-shot money managers really haven't performed that well over a long period of time. So take responsibility for your investments instead of being intellectually lazy and letting someone else manage (or mismanage) your money.
