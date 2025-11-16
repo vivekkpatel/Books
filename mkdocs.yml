@@ -13,19 +13,19 @@ nav:
   - Home:
     - index.md
   - Self Help:
-    - Self Help/The Obstacle Is the Way.md
+    - The Obstacle Is the Way: Self Help/The Obstacle Is the Way.md
   - Biography:
-    - Biography/Educated.md
+    - Educated: Biography/Educated.md
   - Business:
-    - Business/Never Split the Difference.md
-    - Business/The Zurich Axioms.md
-    - Business/Zero to One.md
+    - Never Split the Difference: Business/Never Split the Difference.md
+    - The Zurich Axioms: Business/The Zurich Axioms.md
+    - Zero to One: Business/Zero to One.md
   - Code:
-    - Code/Computational Engineering.md
+    - Computational Engineering: Code/Computational Engineering.md
   - Fantasy:
-    - Fantasy/Blood Over Bright Haven.md
+    - Blood Over Bright Haven: Fantasy/Blood Over Bright Haven.md
   - Science Fiction:
-    - Science Fiction/Flowers for Algernon.md
+    - Flowers for Algernon: Science Fiction/Flowers for Algernon.md
 
 # Theme
 theme:
