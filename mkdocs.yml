@@ -51,11 +51,18 @@ nav:
     - AutoCAD 2012 DXF reference: Code/AutoCAD 2012 DXF reference.md
     - AutoCAD Platform Customization VBA: Code/AutoCAD Platform Customization VBA.md
     - AutoHotkey Applications: Code/AutoHotkey Applications.md
+    - C# 8.0 in a Nutshell: Code/C# 8 0 in a Nutshell.md
+    - C# in Depth: Code/C# in Depth.md
+    - Clean Code: Code/Clean Code.md
     - Computational Engineering: Code/Computational Engineering.md
+    - Dependency Injection in .NET: Code/Dependency Injection in NET.md
     - Digging Deeper into AutoHotkey: Code/Digging Deeper into AutoHotkey.md
     - Start Programming in NET for AutoCAD: Code/Start Programming in NET for AutoCAD.md
+    - Test-Driven Development By Example: Code/Test-Driven Development By Example.md
+    - The Art of Unit Testing: Code/The Art of Unit Testing With Examples in NET.md
     - The Markdown Guide: Code/The Markdown Guide.md
     - The Pragamatic Programmer: Code/The Pragamatic Programmer.md
+    - Unit Testing Principles, Practices, and Patterns: Code/Unit Testing Principles, Practices, and Patterns.md
   - Trade:
     - Best Losers Wins: Trade/Best Losers Wins.md
     - How to Trade in Stocks: Trade/How to Trade in Stocks.md
