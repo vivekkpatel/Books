@@ -2,6 +2,12 @@
 site_name: Books
 site_url: https://vivekkpatel.github.io/Books/
 use_directory_urls: false
+
+# Repository Details for "Edit on GitHub" links
+repo_name: Books
+repo_url: https://github.com/NodesAutomations/Books
+edit_uri: edit/main/docs/
+
 # Navigation Tree
 nav:
   - Home:
