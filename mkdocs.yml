@@ -17,7 +17,6 @@ nav:
     - Factfulness: Self Help/Factfulness.md
     - Getting Things Done: Self Help/Getting Things Done.md
     - How to Win Friends and Influence People: Self Help/How to Win Friends and Influence People.md
-    - Letters from a stoic: Self Help/Letters from a stoic.md
     - Make Time: Self Help/Make Time.md
     - Man's Search for Meaning: Self Help/Man's Search for Meaning.md
     - Quiet The Power of Introverts: Self Help/Quiet The Power of Introverts.md
@@ -101,6 +100,7 @@ nav:
   - Philosophy:
     - The Art of War: Philosophy/The Art of War.md
     - Ikigai: Philosophy/Ikigai.md
+    - Letters from a stoic: Philosophy/Letters from a stoic.md
 
 # Theme
 theme:
