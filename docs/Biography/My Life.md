@@ -6,4 +6,3 @@ Book Cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/book
 Status: Read
 
 > "leader should give the credit of the success to the team members. But when failure comes, leaders should absorb the failures and protect the team members."
->

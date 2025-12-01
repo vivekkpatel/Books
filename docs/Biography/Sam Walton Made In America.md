@@ -8,7 +8,7 @@
 
 > “The first one is could a Wal-Mart-type story still occur in this day and age? My answer is of course it could happen again. Somewhere out there right now there’s someone—probably hundreds of thousands of someones—with good enough ideas to go all the way. It will be done again, over and over, providing that someone wants it badly enough to do what it takes to get there. It’s all a matter of attitude and the capacity to constantly study and question the management of the business.”
 ― Sam Walton, Sam Walton: Made In America
-> 
+
 
 <aside>
 💡 "Sam Walton understands better than anyone else that no business can exist without customers. He lives by his credo, which is to make the customer the centerpiece of all his efforts. And in the process of serving Wal-Mart's customers to perfection (not quite perfection, he would say), he also serves Wal-Mart's associates, its share owners, its communities, and the rest of its stakeholders in an extraordinary fashion—almost without parallel in American business." ----ROBERTO C. GOIZUETA, chairman and CEO, the Coca-Cola Company
