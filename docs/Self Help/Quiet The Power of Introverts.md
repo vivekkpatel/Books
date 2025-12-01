@@ -4,6 +4,18 @@
 
 Introverts “have a smaller response” in the reward system, writes psychologist Nettle, “and so go less out of their way to follow up [reward] cues.” They will, “like anyone, be drawn from time to time to sex, and parties, and status, but the kick they get will be relatively small, so they are not going to break a leg to get there.”
 
+Introverts are drawn to the inner world of thought and feeling, said Jung, extroverts to the external life of people and activities. Introverts focus on the meaning they make of the events swirling around them; extroverts plunge into the events themselves. Introverts recharge their batteries by being alone; extroverts need to recharge when they don’t socialize enough.
+
+Introverts often work more slowly and deliberately. They like to focus on one task at a time and can have mighty powers of concentration. They’re relatively immune to the lures of wealth and fame.
+
+Introverts, in contrast, may have strong social skills and enjoy parties and business meetings, but after a while wish they were home in their pajamas. They prefer to devote their social energies to close friends, colleagues, and family. They listen more than they talk, think before they speak, and often feel as if they express themselves better in writing than in conversation. They tend to dislike conflict. Many have a horror of small talk, but enjoy deep discussions.
+
+Psychologists usually offer three explanations for the failure of group brainstorming. The first is social loafing: in a group, some individuals tend to sit back and let others do the work. The second is production blocking: only one person can talk or produce an idea at once, while the other group members are forced to sit passively. And the third is evaluation apprehension, meaning the fear of looking stupid in front of one’s peers.
+
+introverts “have a smaller response” in the reward system, writes psychologist Nettle, “and so go less out of their way to follow up [reward] cues.” They will, “like anyone, be drawn from time to time to sex, and parties, and status, but the kick they get will be relatively small, so they are not going to break a leg to get there.”
+
+stay true to your own nature. If you like to do things in a slow and steady way, don’t let others make you feel as if you have to race. If you enjoy depth, don’t force yourself to seek breadth. If you prefer single-tasking to multi tasking, stick to your guns. Being relatively unmoved by rewards gives you the incalculable power to go your own way. It’s up to you to use that independence to good effect.
+
 ### Free Trait Theory
 
 Little believes that fixed traits and free traits coexist. According to Free Trait Theory, we are born and culturally endowed with certain personality traits—introversion, for example—but we can and do act out of character in the service of “core personal projects.”
