@@ -1,0 +1,11 @@
+# When Breath Becomes Air by Paul Kalanithi
+
+Humans are organisms, subject to physical laws, including, alas, the one that says entropy always increases. Diseases are molecules misbehaving; the basic requirement of life is metabolism, and death its cessation.
+
+I could see that there were two strategies to cutting the time short, perhaps best exemplified by the tortoise and the hare. The hare moves as fast as possible, hands a blur, instruments clattering, falling to the floor; the skin slips open like a curtain, the skull flap is on the tray before the bone dust settles. As a result, the opening might need to be expanded a centimeter here or there because it’s not optimally placed. The tortoise, on the other hand, proceeds deliberately, with no wasted movements, measuring twice, cutting once. No step of the operation needs revisiting; everything moves in a precise, orderly fashion. If the hare makes too many minor missteps and has to keep adjusting, the tortoise wins. If the tortoise spends too much time planning each step, the hare wins.
+
+In the end, it cannot be doubted that each of us can see only a part of the picture. The doctor sees one, the patient another, the engineer a third, the economist a fourth, the pearl diver a fifth, the alcoholic a sixth, the cable guy a seventh, the sheep farmer an eighth, the Indian beggar a ninth, the pastor a tenth. Human knowledge is never contained in one person. It grows from the relationships we create between each other and the world, and still it is never complete.
+
+Everyone succumbs to finitude. I suspect I am not the only one who reaches this pluperfect state. Most ambitions are either achieved or abandoned; either way, they belong to the past. The future, instead of the ladder toward the goals of life, flattens out into a perpetual present. Money, status, all the vanities the preacher of Ecclesiastes described hold so little interest: a chasing after wind, indeed.
+
+When you come to one of the many moments in life where you must give an account of yourself, provide a ledger of what you have been, and done, and meant to the world, do not, I pray, discount that you filled a dying man’s days with a sated joy, a joy unknown to me in all my prior years, a joy that does not hunger for more and more but rests, satisfied. In this time, right now, that is an enormous thing.
