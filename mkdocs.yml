@@ -5,7 +5,7 @@ use_directory_urls: false
 
 # Repository Details for "Edit on GitHub" links
 repo_name: Books
-repo_url: https://github.com/NodesAutomations/Books
+repo_url: https://vivekkpatel.github.io/Books/
 edit_uri: edit/main/docs/
 
 # Navigation Tree
@@ -161,14 +161,3 @@ copyright: Copyright &copy; 2025 Nodes Automations
 # Footer social links
 extra:
   generator: false # remove "Generated with MkDocs" footer
-  social:
-    - icon: fontawesome/solid/globe
-      link: www.nodesautomations.com
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/NodesAutomations
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/vivekpatel-nodesautomations/
-    - icon: fontawesome/brands/github
-      link: https://github.com/orgs/NodesAutomations
-
-
