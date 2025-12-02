@@ -5,7 +5,7 @@ use_directory_urls: false
 
 # Repository Details for "Edit on GitHub" links
 repo_name: Books
-repo_url: https://vivekkpatel.github.io/Books/
+repo_url: https://github.com/vivekkpatel/Books
 edit_uri: edit/main/docs/
 
 # Navigation Tree
