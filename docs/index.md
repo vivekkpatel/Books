@@ -1,8 +1,7 @@
 # Book Notes  
-> "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me"
 
-!!! quote "Ralph Waldo"
-    *I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.*
+!!! quote "Ralph Waldo Emerson"
+    *"I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me."*
 
 ## Quick Links
 - [GoodReads](https://www.goodreads.com/user/show/65939805-vivek-patel)
