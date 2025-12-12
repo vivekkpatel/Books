@@ -6,7 +6,7 @@ The original idea behind this book is teach you how to overcome your obstacles. 
 Normally this book will explain how we approach a specific obstacle in our life. 
 It mainly focuses on thinking **every obstacle as a way to improve yourself**.
 
-## The Obstacles That Lie Before Us
+### The Obstacles That Lie Before Us
 - Today, most of our obstacles are internal, not external. Since World
  War II we have lived in some of the most prosperous times in history.
  There are fewer armies to face, fewer fatal diseases and far more safety
@@ -24,4 +24,18 @@ It mainly focuses on thinking **every obstacle as a way to improve yourself**.
  thriving amid chaos more than ever. One that will help turn our problems
  on their heads, using them as canvases on which to paint master works.
 
- > Obstacles are actually opportunities to test ourselves, to try new things and ultimately to triumph.
+> Obstacles are actually opportunities to test ourselves, to try new things and ultimately to triumph.
+
+## The Discipline of Perception
+
+!!! quote "Warren Buffet"
+    *“Be fearful when others are greedy and greedy when others are fearful."*
+
+- We must try to be objective.
+- To control emotions and keep an even keel.
+- To choose to see the good in a situation.
+- To steady our nerves.
+- To ignore what disturbs or limits others.
+- To place things in perspective.
+- To revert to the present moment.
+- To focus on what can be controlled.
