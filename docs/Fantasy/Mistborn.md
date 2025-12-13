@@ -1,5 +1,31 @@
 # Mistborn by Brandon Sanderson
 
+## The Final Empire
+> “Belief isn't simply a thing for fair times and bright days...What is belief - what is faith - if you don't continue in it after failure?...Anyone can believe in someone, or something that always succeeds...But failure...ah, now, that is hard to believe in, certainly and truly. Difficult enough to have value. Sometimes we just have to wait long enough...then we find out why exactly it was that we kept believing...There's always another secret.”
+― Brandon Sanderson, The Final Empire
+> 
+
+> “I'm not really sure why. But... do you stop loving someone just because they betray you? I don't think so. That's what makes the betrayal hurt so much - pain, frustration, anger... and I still loved her. I still do.”
+― Brandon Sanderson, The Final Empire
+> 
+
+> “The right belief is like a good cloak, I think. If it fits you well, it keeps you warm and safe. The wrong fit however, can suffocate.”
+― Brandon Sanderson, The Final Empire
+> 
+
+> “And Vin liked solitude. When you're alone, no one can betray you”
+― Brandon Sanderson, The Final Empire
+> 
+
+> “What would you think if I told you that I wasn’t an Allomancer?” Sazed asked.
+“I’d think that you were lying,” Vin said.
+“Have you known me to lie before?”
+“The best liars are those who tell the truth most of the time.”
+― Brandon Sanderson, The Final Empire
+> 
+
+"The entire point of life is find ways to get others to do your work for you. Don't you know anything about basic economics" ― Brandon Sanderson, The Final Empire
+
 ## The Well of Ascension
 
 > “A man can only lead when others accept him as their leader, and he has only as much authority as his subjects give to him. All of the brilliant ideas in the world cannot save your kingdom if no one will listen to them.”
