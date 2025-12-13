@@ -126,6 +126,65 @@ Then he waved the wand once, and the letters of his name rearranged themselves:
 I AM LORD VOLDEMORT”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
+## The Goblet of Fire
+> “If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+> 
+
+> “It matters not what someone is born, but what they grow to be.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+> 
+
+“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“Numbing the pain for a while will make it worse when you finally feel it.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“We are only as strong as we are united, as weak as we are divided.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“Percy wouldn't notice a joke if it danced naked in front of him wearing one of Dobby's hats.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“Don't talk to me."
+"Why not?"
+"Because I want to fix that in my memory for ever. Draco Malfoy, the amazing bouncing ferret...”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“Understanding is the first step to acceptance, and only with acceptance can there be recovery.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+> “It is my belief... that the truth is generally preferable to lies.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+> 
+
+> “Differences of habit and language are nothing at all if our aims are identical and our hearts are open.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+> 
+
+“Well, I certainly don't," said Percy sanctimoniously. "I shudder to think what the state of my in-tray would be if I was away from work for five days."
+"Yeah, someone might slip dragon dung in it again, eh, Perce?" said Fred.
+"That was a sample of fertilizer from Norway!" said Percy, going very red in the face. "It was nothing personal!"
+"It was," Fred whispered to Harry as they got up from the table. "We sent it.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“Who're you going with, then?" said Ron.
+"Angelina," said Fred promptly, without a trace of embarrassment.
+"What?" said Ron, taken aback. "You've already asked her?"
+"Good point," said Fred. He turned his head and called across the common room, "Oi! Angelina!"
+Angelina, who had been chatting with Alicia Spinnet near the fire, looked over at him.
+"What?" She called back.
+"Want to come to the ball with me?"
+Angelina gave Fred a sort of appraising look.
+"All right, then," she said, and she turned back to Alicia and carried on chatting with a bit of a grin on her face.
+"There you go," said Fred to Harry and Ron, "piece of cake.”
+― J.K. Rowling, Harry Potter and the Goblet of Fire
+
+“Of course we still want to know you!" Harry said, staring at Hagrid.
+"You don't think anything that Skeeter cow - sorry, Professor," he added quickly, looking at Dumbledore.
+"I have gone temporarily deaf and haven't any idea what you said, Harry," said Dumbledore, twiddling his thumbs and staring at the ceiling.”
+
 ## The Order of the Phoenix 
 > “Just because you have the emotional range of a teaspoon doesn't mean we all have.”
 ― J.K. Rowling, Harry Potter and the Order of the Phoenix
