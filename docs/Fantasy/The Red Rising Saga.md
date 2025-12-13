@@ -1,5 +1,28 @@
 # Red Rising Saga by Pierce Brown
 
+## Golden Son
+> “Home isn't where you're from, it's where you find light when all grows dark.”
+― Pierce Brown, Golden Son
+> 
+
+> “There is no greater plague to an introvert than the extrovert.”
+― Pierce Brown, Golden Son
+> 
+
+> “If you're a fox, play the hare. If you're the hare, play the fox.”
+― Pierce Brown, Golden Son
+> 
+
+> “I didn't mind that it was always about you, Darrow. That was what burned Tactus, but not me. I'm not in love with you like Mustang. I don't worship you like Sevro or the Howlers. I was a true friend. I was someone who saw your light and your dark and accepted both without judgement, without agenda...”
+― Pierce Brown, Golden Son
+> 
+
+“You're just as much an outsider as I am. I've read your dissertations."
+"You have?" She's surprised.
+"Believe it or not, I can read too." I shake my head. "It's like everyone forgets I only missed one question on the Institute's slangsmarts test."
+"Ew. You missed a question?" She wrinkles her nose as she picks a practice razor from a bench. "I suppose that's why you weren't in Minerva.”
+― Pierce Brown, Golden Son
+
 ## Morning Star
 > “A man thinks he can fly, but he is afraid to jump. A poor friend pushes him from behind.” He looks up at me. “A good friend jumps with.”
 ― Pierce Brown, Morning Star
