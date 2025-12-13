@@ -51,6 +51,28 @@ He watched it for a while, his expression oddly soft. “But I do not hope,” h
 
 ## The Wise Man's Fear 
 
+> “It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers.”
+― Patrick Rothfuss, The Wise Man's Fear
+> 
+
+> “It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That's as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.”
+― Patrick Rothfuss, The Wise Man's Fear
+> 
+
+“You can divide infinity an infinite number of times, and the resulting pieces will still be infinitely large,” Uresh said in his odd Lenatti accent. “But if you divide a non-infinite number an infinite number of times the resulting pieces are non-infinitely small. Since they are non-infinitely small, but there are an infinite number of them, if you add them back together, their sum is infinite. This implies any number is, in fact, infinite.”
+“Wow,” Elodin said after a long pause. He leveled a serious finger at the Lenatti man. “Uresh. Your next assignment is to have sex. If you do not know how to do this, see me after class.”
+― Patrick Rothfuss, The Wise Man's Fear
+
+> yes. It had flaws, but **what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That’s as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.**
+- The Wise Man's Fear (The Kingkiller Chronicle, Book 2) (Rothfuss, Patrick)
+> 
+
+> “Remember: there are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”
+― Patrick Rothfuss, The Wise Man's Fear
+> 
+
+“Teccam said the same thing: no man is brave that has never walked a hundred miles. If you want to know the truth of who you are, walk until not a person knows your name. Travel is the great leveler, the great teacher, bitter as medicine, crueler than mirror-glass. A long stretch of road will teach you more about yourself than a hundred years of quiet introspection.”
+
 > It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That’s as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.
 ---
 > “Remember: there are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”
