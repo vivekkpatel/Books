@@ -126,6 +126,37 @@ Then he waved the wand once, and the letters of his name rearranged themselves:
 I AM LORD VOLDEMORT”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
+## The Order of the Phoenix 
+> “Just because you have the emotional range of a teaspoon doesn't mean we all have.”
+― J.K. Rowling, Harry Potter and the Order of the Phoenix
+> 
+
+> “Indifference and neglect often do much more damage than outright dislike.”
+― J.K. Rowling, Harry Potter and the Order of the Phoenix
+> 
+
+“I DON'T CARE!" Harry yelled at them, snatching up a lunascope and throwing it into the fireplace. "I'VE HAD ENOUGH, I'VE SEEN ENOUGH, I WANT OUT, I WANT IT TO END, I DON'T CARE ANYMORE!"
+"You do care," said Dumbledore. He had not flinched or made a single move to stop Harry demolishing his office. His expression was calm, almost detached. "You care so much you feel as though you will bleed to death with the pain of it.”
+― J.K. Rowling, Harry Potter and the Order of the Phoenix
+
+“Ah" said Dumbledore gently, "Yes I thought we might hit that little snag!"
+"Snag?" said Fudge, his voice still vibrating with joy. "I see no snag, Dumbledore!"
+"Well," said Dumbledore apologetically, "I'm afraid I do."
+"Oh, really?"
+"Well it's just that you seem to be labouring under the delusion that I am going to -- come quietly. I am afraid I am not going to come quietly at all, Cornelius. I have absolutely no intention of being sent to Azkaban. I could break out, of course -- but what a waste of time, and frankly, I can think of a whole host of things I would rather be doing.”
+
+“Harry witnessed Professor McGonagall walking right past Peeves who was determinedly loosening a crystal chandelier and could have sworn he heard her tell the poltergeist out of the corner of her mouth, 'It unscrews the other way.”
+― J.K. Rowling, Harry Potter and the Order of the Phoenix
+
+“Hermione drew herself to her full height; her eyes were narrowed and her hair seemed to crackle with electricity.
+"No," she said, her voice quivering with anger, "but I will write to your mother.”
+― J.K. Rowling, Harry Potter and the Order of the Phoenix
+
+> “Well, obviously, she's feeling very sad, because of Cedric dying. Then I expect she's feeling confused because she liked Cedric and now she likes Harry, and she can't work out who she likes best. Then she'll be feeling guilty, thinking it's an insult to Cedric's memory to be kissing Harry at all, and she'll be worrying about what everyone else might say about her if she starts going out with Harry. And she probably can't work out what her feelings towards Harry are anyway, because he was the one who was with Cedric when Cedric died, so that's all very mixed up and painful. Oh, and she's afraid she's going to be thrown off the Ravenclaw Quidditch team because she's flying so badly."
+A slightly stunned silence greeted the end of this speech, then Ron said, "One person can't feel all that at once, they'd explode.”
+― J.K. Rowling, Harry Potter and the Order of the Phoenix
+>
+
 ## The Half-Blood Prince
 > “It is the unknown we fear when we look upon death and darkness, nothing more.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince.
