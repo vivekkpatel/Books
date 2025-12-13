@@ -1,5 +1,18 @@
 # Bobiverse by Dennis E Taylor
 
+## We are Bob
+“Since I doubt, I think; since I think, I exist.”
+― Dennis E. Taylor, We Are Legion
+
+“People's capacity for turning dogmatic stupidity into political movements never ceased to amaze me. We've knocked off 99.9% of the human race and somehow the crazies still manage to survive. It just defies the odds.”
+― Dennis E. Taylor, We Are Legion
+
+“Point is, that’s when I really realized that I don’t think like most people. I’m fine with solitude. In fact, I get antsy when I’m around people for too long a period without respite.” The”
+― Dennis E. Taylor, We Are Legion
+
+“Thus, what is of supreme importance in war is to attack the enemy's strategy. … Sun Tzu, Art of War”
+― Dennis E. Taylor, We Are Legion
+
 ## For We are Many
 > “Just when you start to get ahead in the rat race, the universe delivers bigger rats.”
 ― Dennis E. Taylor, For We Are Many
