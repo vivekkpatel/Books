@@ -1,5 +1,73 @@
 # Harry Potter by J K Rowling
 
+## The Chamber of Secrets
+> “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+> 
+
+“Well, you're expelling us aren't you?" said Ron.
+"Not today, Mr. Weasley."
+Snape looked as though Christmas had been canceled.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+
+“Harry — I think I've just understood something! I've got to go to the library!”
+And she sprinted away, up the stairs.
+“What does she understand?” said Harry distractedly, still looking around, trying to tell where the voice had come from.
+“Loads more than I do,” said Ron, shaking his head.
+“But why’s she got to go to the library?”
+“Because that’s what Hermione does,” said Ron, shrugging. “When in doubt, go to the library.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+
+> Your aunt and uncle will be proud, though, won't they?" said Hermione as they got off the train and joined the crowd thronging toward the enchanted barrier. "When they hear what you did this year?"
+"Proud?" said Harry. "Are you crazy? All those times I could've died, and I didn't manage it? They'll be furious...”
+― J.K Rowling, Harry Potter and the Chamber of Secrets
+> 
+
+> “You will find that I will only truly have left this school when none here are loyal to me.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+> 
+
+“Fred and George, however, found all this very funny. They went out of
+their way to march ahead of Harry down the corridors, shouting, "Make way for
+the Heir of Slytherin, seriously evil wizard coming through ......
+
+Percy was deeply disapproving of this behavior.
+
+"It is not a laughing matter," he said coldly.
+
+"Oh, get out of the way, Percy," said Fred. "Harry's in a hurry."
+
+"Yeah, he's off to the Chamber of Secrets for a cup of tea with his fanged
+servant," said George, chortling.
+
+Ginny didn't find it amusing either.
+
+"Oh, don't," she wailed every time Fred asked Harry loudly who he was
+planning to attack next, or when George pretended to ward Harry off with a large
+clove of garlic when they met.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+
+> “If he doesn't stop trying to save your life he's going to kill you.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+> 
+
+> “Hang on . . .” Harry muttered to Ron. “There’s an empty chair at the staff table. . . . Where’s Snape?”
+"Maybe he's ill!" said Ron hopefully.
+“Maybe he’s left,” said Harry, “because he missed out on the Defense Against the Dark Arts job again!”
+“Or he might have been sacked!” said Ron enthusiastically. “I mean, everyone hates him —”
+“Or maybe,” said a very cold voice right behind them, “he’s waiting to hear why you two didn’t arrive on the school train.”
+Harry spun around. There, his black robes rippling in a cold breeze, stood Severus Snape.”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+> 
+
+“Voldemort,” said Riddle softly, “is my past, present, and future, Harry Potter. . . .”
+He pulled Harry’s wand from his pocket and began to trace it through the air, writing three shimmering words:
+TOM MARVOLO RIDDLE
+Then he waved the wand once, and the letters of his name rearranged themselves:
+I AM LORD VOLDEMORT”
+― J.K. Rowling, Harry Potter and the Chamber of Secrets
+
+## The Half-Blood Prince
 > “It is the unknown we fear when we look upon death and darkness, nothing more.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince.
 > 
