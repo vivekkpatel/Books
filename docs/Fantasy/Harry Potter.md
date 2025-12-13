@@ -1,5 +1,64 @@
 # Harry Potter by J K Rowling
 
+## The Philosopher's Stone
+> “It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
+― J.K. Rowling, Harry Potter and the Sorcerer's Stone
+
+“Can you think what the Mirror of Erised shows us all?" Harry shook his head.
+
+"Let me explain. The happiest man on earth would be able to use the Mirror of Erised like a normal mirror, that is, he would look into it and see himself exactly as he is. Does that help."
+Harry thought. Then he said slowly, "It shows us what we want... whatever we want..."
+"Yes and no," said Dumbledore quietly.
+"It shows us nothing more or less than the deepest, most desperate desire of our hearts. You, who have never known your family, see them standing around you. Ronald Weasley, who has always been overshadowed by his brothers, sees himself standing alone, the best of all of them. However, this mirror will give us neither knowledge or truth. Men have wasted away before it, entranced by what they have seen, or been driven mad, not knowing if what it shows is real or even possible.
+
+"The Mirror will be moved to a new home tomorrow, Harry, and I ask you not to go looking for it again. If you ever do run across it, you will now be prepared. It does not do to dwell on dreams and forget to live, remember that. Now, why don't you put that admirable cloak back on and get off to bed.”
+― J.K. Rowling, Harry Potter and the Sorcerer's Stone
+
+“There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.”
+― J. K. Rowling, Harry Potter and the Sorcerer's Stone
+
+> “What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally the whole school knows.”
+― J. K. Rowling, Harry Potter and the Sorcerer's Stone
+> 
+
+“Curious indeed how these things happen. The wand chooses the wizard, remember...I think we must expect great things from you, Mr. Potter... After all, He-Who-Must-Not-Be-Named did great things — terrible, yes, but great.”
+― J.K. Rowling, Harry Potter and the Sorcerer's Stone
+
+```
+“Oh,you may not think I'm pretty,
+But don't judge on what you see,
+I'll eat myself if you can find
+A smarter hat than me.
+You can keep your bowlers black,
+Your tops hats sleek and tall,
+For I'm the Hogwarts Sorting Hat
+And I can cap them all.
+There's nothing hidden in your head
+The Sorting Hat can't see,
+So try me on and I will tell you
+Where you ought to be.
+You might belong in Gryffindor,
+Where dwell brave of heart,
+Their daring, nerve, and chivalry
+Set Gryffindors apart;
+You might belong in Hufflepuff,
+Where they are just and loyal,
+Those patient Hufflepuffs are true
+And unafraid of toil;
+Or yet wise old Ravenclaw,
+If you've a ready mind,
+Where those of wit and learning,
+Will always find their kind;
+Or perhaps in Slytherin
+You'll make your real friends,
+Those cunning folk use any means
+To achive their ends.
+So put me on! Don't be afraid!
+And you won't get in a flap!
+You're safe in my hands(though I have none)
+For I'm a Thinking Cap!!”
+```
+
 ## The Chamber of Secrets
 > “It is our choices, Harry, that show what we truly are, far more than our abilities.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
