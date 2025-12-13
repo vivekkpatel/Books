@@ -1,5 +1,16 @@
 # The Stormlight Archive by Brandon Sanderson
 
+## Words of Radiance
+“He saw it in her eyes. The anguish, the frustration. The terrible nothing that clawed inside and sought to smother her. She knew. It was there, inside. She had been broken.
+
+Then she smiled. Oh, storms. She smiled anyway.
+
+It was the single most beautiful thing he’d seen in his entire life.”
+― Brandon Sanderson, Words of Radiance
+
+> “Honor is dead. But I'll see what I can do.”
+ ― Brandon Sanderson, Words of Radiance
+
 ## Oathbringer 
 
 > “Sometimes a hypocrite is nothing more than a man in the process of changing.”
