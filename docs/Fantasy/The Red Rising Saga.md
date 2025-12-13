@@ -55,3 +55,18 @@ I blanch. "What?"
 > “Once I thought that writing this book would be impossible. It was a skyscraper, massive and complete and unbearably far off. It taunted me from the horizon. But do we ever look at such buildings and assume they sprung up overnight? No. We’ve seen the traffic congestion that attends them. The skeleton of beams and girders. The swarm of builders and the rattle of cranes… Everything grand is made from a series of ugly little moments. Everything worthwhile by hours of self-doubt and days of drudgery. All the works by people you and I admire sit atop a foundation of failures. So whatever your project, whatever your struggle, whatever your dream, keep toiling, because the world needs your skyscraper. Per aspera, ad astra! —Pierce Brown”
 ― Pierce Brown, Morning Star
 >
+
+## Dark Age
+> “You asked, what do I fear? I fear a man who believes in good. For he can excuse any evil.”
+― Pierce Brown, Dark Age
+> 
+
+> “I no longer trust stillness. Stillness is the enemy taking careful aim.”
+― Pierce Brown, Dark Age
+> 
+
+“I’ll never get used to seeing the fear Sevro wakes in people. Deep down they know Darrow is operating on a framework of logic. No one, not even me, believes that Sevro is completely sane.”
+― Pierce Brown, Dark Age
+
+“Only a fool gives a gift when the first is valued so little,”
+― Pierce Brown, Dark Age
