@@ -1,5 +1,74 @@
 # Six of Crows by Leigh Bardugo
 
+## Six of Crows
+> “Many boys will bring you flowers. But someday you'll meet a boy who will learn your favorite flower, your favorite song, your favorite sweet. And even if he is too poor to give you any of them, it won't matter because he will have taken the time to know you as no one else does. Only that boy earns your heart.”
+― Leigh Bardugo, Six of Crows
+> 
+
+> “Kaz leaned back. "What's the easiest way to steal a man's wallet?"
+"Knife to the throat?" asked Inej.
+"Gun to the back?" said Jesper.
+"Poison in his cup?" suggested Nina.
+"You're all horrible," said Matthias.”
+“The easiest way to steal a man’s wallet is to tell him you’re going to steal his watch. You take his attention and direct it where you want it to go.”
+― Leigh Bardugo, Six of Crows
+> 
+
+“No mourners. No funerals. Among them, it passed for 'good luck.”
+― Leigh Bardugo, Six of Crows
+
+> “When everyone knows you’re a monster, you needn’t waste time doing every monstrous thing.”
+― Leigh Bardugo, Six of Crows
+> 
+
+“He needed to tell her...what? That she was lovely and brave and better than anything he deserved. That he was twisted, crooked, wrong, but not so broken that he couldn't pull himself together into some semblance of a man for her. That without meaning to, he'd begun to lean on her, to look for her, to need her near. He needed to thank her for his new hat.”
+― Leigh Bardugo, Six of Crows
+
+> “I have been made to protect you. Only in death will I be kept from this oath.”
+― Leigh Bardugo, Six of Crows
+> 
+
+“Please, my darling Inej, treasure of my heart, won’t you do me the honor of acquiring me a new hat?”
+― Leigh Bardugo, Six of Crows
+
+> “I want you to stay. I want you to … I want you.” “You want me.” She turned the words over. Gently, she squeezed his hand. “And how will you have me, Kaz?” He looked at her then, eyes fierce, mouth set. It was the face he wore when he was fighting. “How will you have me?” she repeated. “Fully clothed, gloves on, your head turned away so our lips can never touch?”<...>“I will have you without armour, Kaz Brekker. Or I will not have you at all.”
+― Leigh Bardugo, Six of Crows
+> 
+
+“This isn’t … it isn’t a trick, is it?” Her voice was smaller than she wanted it to be.
+
+The shadow of something dark moved across Kaz’s face. “If it were a trick, I’d promise you safety. I’d offer you happiness. I don’t know if that exists in the Barrel, but you’ll find none of it with me.”
+
+For some reason, those words had comforted her. Better terrible truths than kind lies.
+
+“All right,” she said. “How do we begin?”
+
+“Let’s start by getting out of here and finding you some proper clothes. Oh, and Inej,” he said as he led her out of the salon, “don’t ever sneak up on me again.”
+― Leigh Bardugo, Six of Crows
+
+“How do you get your information, Mister Brekker?"
+"You might say I'm a lockpick."
+"You must be a very gifted one."
+"I am indeed." Kaz leaned back slightly. "You see, every man is a safe, a vault of secrets and longings. Now, there are those who take the brute's way, but I prefer a gentler approach - the right pressure applied at the right moment, in the right place. It's a delicate thing."
+"Do you always speak in metaphors, Mister Brekker?"
+Kaz smiled. "It's not a metaphor."
+He was out of his chair before his chains hit the ground.”
+― Leigh Bardugo, Six of Crows
+
+“A liar, a thief, and utterly without conscience. But he'll keep to any deal you strike with him.”
+― Leigh Bardugo, Six of Crows
+
+“Nina—” Inej murmured.
+“Don’t you start in on me.”
+“It will all work out. Let Kaz do what he does best.”
+“He’s horrible.”
+“But effective. Being angry at Kaz for being ruthless is like being angry at a stove for being hot. You know what he is.”
+Nina crossed her arms. “I’m mad at you, too.”
+“Me? Why?”
+“I don’t know yet. I just am.”
+― Leigh Bardugo, Six of Crows
+
+## Crooked Kingdom
 > “Crows remember human faces. They remember the people who feed them, who are kind to them. And the people who wrong them too. They don’t forget. They tell each other who to look after and who to watch out for.”
 ― Leigh Bardugo, Crooked Kingdom
 > 
