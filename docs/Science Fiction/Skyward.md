@@ -48,3 +48,20 @@ I dove toward the enemy bomber
 “Move it to number two.”
 “All right, I . . . Oh.”
 ― Brandon Sanderson, Skyward
+
+## Starsight
+“That's what war is," Cobb told me. "A bunch of sorry, desperate fools on both sides, just trying to stay alive. That's the part that those stories you love leave out, isn't it? It's always more convenient when you can fight a dragon. Something you don't have to worry you'll start caring about.”
+― Brandon Sanderson, Starsight
+
+“So, you’re worried about what?” M-Bot said. “That your shadow might take your place?” “No,” I whispered. “I worry that I’m already the shadow.”
+― Brandon Sanderson, Starsight
+
+“A hero does not choose her trials. She steps into the darkness, then she faces what comes next.”
+― Brandon Sanderson, Starsight
+
+“When you’re young, you can assume that everyone older than you has life figured out. Once you get command yourself, you realize we’re all just the same kids wearing older bodies.”
+― Brandon Sanderson, Starsight
+
+“All right, M-Bot," I said. "We have a problem. We might need to hijack that entire carrier ship."
+"Excellent," M-Bot said. "Would you like your corpse cremated or ejected into space?”
+― Brandon Sanderson, Starsight
