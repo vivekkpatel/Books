@@ -277,3 +277,59 @@ Dumbledore opened his mouth to speak and then closed it again. Fawkes the phoeni
 Am I about to discover where you, Ron, and Hermione disappeared to while you were supposed to be in the back room of Fred and George's shop?'
 How did you...?'
 Harry, please. You're talking to the man who raised Fred and George.”
+
+## The Deathly Hallows
+
+> “Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+> 
+
+“We're all human, aren't we? Every human life is worth the same, and worth saving.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+
+> “How do you feel, Georgie?" whispered Mrs. Weasley.
+George's fingers groped for the side of his head.
+"Saintlike," he murmured.
+"What's wrong with him?" croaked Fred, looking terrified. "Is his mind affected?"
+"Saintlike," repeated George, opening his eyes and looking up at his brother. "You see...I'm HOLEY, Fred, geddit?”
+“Holey? You have the the whole world of ear-related humor before you, you go for holey?”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+> 
+
+“There was a clatter as the basilisk fangs cascaded out of Hermione's arms. Running at Ron, she flung them around his neck and kissed him full on the mouth. Ron threw away the fangs and broomstick he was holding and responded with such enthusiasm that he lifted Hermione off her feet.
+"Is this the moment?" Harry asked weakly, and when nothing happened except that Ron and Hermione gripped each other still more firmly and swayed on the spot, he raised his voice. "OI! There's a war going on here!"
+Ron and Hermione broke apart, their arms still around each other.
+"I know, mate," said Ron, who looked as though he had recently been hit on the back of the head with a Bludger, "so it's now or never, isn't it?"
+"Never mind that, what about the Horcrux?" Harry shouted. "D'you think you could just --- just hold it in, until we've got the diadem?"
+"Yeah --- right --- sorry ---" said Ron, and he and Hermione set about gathering up fangs, both pink in the face.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+
+> “It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it. Those who, like you, have leadership thrust upon them, and take up the mantle because they must, and find to their own surprise that they wear it well.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+> 
+
+> “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.”
+― JK Rowling, Harry Potter and the Deathly Hallows
+> 
+
+> “Here lies Dobby, a free elf.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+> 
+
+> “Snape's patronus was a doe,' said Harry, 'the same as my mother's because he loved her for nearly all of his life, from when they were children.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+> 
+
+> “But this is touching, Severus,” said Dumbledore seriously. “Have you grown to care for the boy, after all?”
+“For him?” shouted Snape. “Expecto Patronum!”
+From the tip of his wand burst the silver doe. She landed on the office floor, bounded once across the office, and soared out of the window. Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.
+“After all this time?”
+“Always,” said Snape.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+> 
+
+“So that's little Scorpious. Make sure you beat him in every test, Rosie. Thank god you've inherited your mother's brains.”
+― J.K. Rowling, Harry Potter and the Deathly Hallows
+
+“Would you like me to [kill you] now?" asked Snape, his voice heavy with irony. "Or would you like a few moments to compose an epitaph?”
+― J. K. Rowling, Harry Potter and the Deathly Hallows
