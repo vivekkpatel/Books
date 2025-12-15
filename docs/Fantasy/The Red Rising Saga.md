@@ -1,5 +1,60 @@
 # Red Rising Saga by Pierce Brown
 
+## Red Rising
+> “You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.”
+― Pierce Brown, Red Rising
+> 
+
+> “The measure of a man is what he does when he has power.”
+― Pierce Brown, Red Rising
+> 
+
+“I live for the dream that my children will be born free. That they will be what they like. That they will own the land their father gave them.'
+'I live for you,' I say sadly.
+She kisses my cheek. 'Then you must live for more.”
+― Pierce Brown, Red Rising
+
+> “Funny how a single word can change everything in your life."
+"It is not funny at all. Steel is power. Money is power. But of all the things in all the worlds, words are power.”
+― Pierce Brown, Red Rising
+> 
+
+```
+🎵 “My love, my love
+Remember the cries
+When winter died for spring skies
+They roared and roared
+But we grabbed our seed
+And sowed a song
+Against their greed
+
+And
+Down in the vale
+Hear the reaper swing, the reaper swing
+the reaper swing
+Down in the vale
+Hear the reaper sing
+A tale of winter done
+
+My son, my son
+Remember the chains
+When gold ruled with iron reins
+We roared and roared
+And twisted and screamed
+For ours, a vale
+of better dreams”
+― Pierce Brown, Red Rising
+```
+
+“I’ve hidden from everyone but you,” Mustang says. “It keeps me alive and ticking.”
+“What’s your plan?” I ask.
+She laughs at herself. “To be alive and ticking.”
+“You’re better at it than I am.”
+“How do you mean?”
+“No one in your House would have betrayed you.”
+“Because I didn’t rule like you,” she says. “You have to remember, people don’t like being told what to do. You can treat your friends like servants and they’ll love you, but you tell them they’re servants and they’ll kill you. ...”
+― Pierce Brown, Red Rising
+
 ## Golden Son
 > “Home isn't where you're from, it's where you find light when all grows dark.”
 ― Pierce Brown, Golden Son
