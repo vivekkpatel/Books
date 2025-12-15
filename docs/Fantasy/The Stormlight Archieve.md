@@ -1,5 +1,21 @@
 # The Stormlight Archive by Brandon Sanderson
 
+## The Way of Kings
+> “The purpose of a storyteller is not to tell you how to think, but to give you questions to think upon.”
+― Brandon Sanderson, The Way of Kings
+> 
+
+```
+📢 “Life before Death.
+Strength before Weakness.
+Journey before Destination.”
+― Brandon Sanderson, The Way of Kings
+```
+
+> “I once saw a spindly man carrying a stone larger than his head upon his back. He stumbled beneath the weight, shirtless under the sun, wearing only a loincloth. He tottered down a busy thoroughfare. People made way for him. Not because they sympathized with him, but because they feared the momentum of his steps. You dare not impede one such as this. The monarch is like this man, stumbling along, the weight of a kingdom on his shoulders. Many give way before him, but so few are willing to step in and help carry the stone. They do not wish to attach themselves to the work, lest they condemn themselves to a life full of extra burdens. I left my carriage that day and took up the stone, lifting it for the man. I believe my guards were embarrassed. One can ignore a poor shirtless wretch doing such labor, but none ignore a king sharing the load. Perhaps we should switch places more often. If a king is seen to assume the burden of the poorest of men, perhaps there will be those who will help him with his own load, so invisible, yet so daunting.”
+― Brandon Sanderson, The Way of Kings
+>
+
 ## Words of Radiance
 “He saw it in her eyes. The anguish, the frustration. The terrible nothing that clawed inside and sought to smother her. She knew. It was there, inside. She had been broken.
 
