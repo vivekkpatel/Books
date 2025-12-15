@@ -1,5 +1,18 @@
 # Ender's Saga by Orson Scott Card
 
+## Ender's Game
+> “In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. I think it’s impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. And then, in that very moment when I love them.... I destroy them.”
+― Orson Scott Card, Ender's Game
+> 
+
+“I don't care if I pass your test, I don't care if I follow your rules. If you can cheat, so can I. I won't let you beat me unfairly - I'll beat you unfairly first.
+
+― Orson Scott Card, Ender's Game
+
+> “I need you to be clever, Bean. I need you to think of solutions to problems we haven't seen yet. I want you to try things that no one has ever tried because they're absolutely stupid.”
+― Orson Scott Card, Ender's Game
+>
+
 ## Speaker of the Dead
 > “This is how humans are: We question all our beliefs, except for the ones that we really believe in, and those we never think to question.”
 ― Orson Scott Card, Speaker for the Dead
