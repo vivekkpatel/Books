@@ -6,6 +6,11 @@
 ## Quick Links
 - [GoodReads](https://www.goodreads.com/user/show/65939805-vivek-patel)
 - [Download Quotes.json](Quotes.json)
+- [libgen](https://libgen.li/)
+- [Anna’s Archive](https://annas-archive.org/)
+- [Z Library](https://z-library.sk/)
+- [AudioBook Bay](https://audiobookbay.lu/)
+- [AudioBook Bay](http://audiobookbay.se/)
 
 ## All Time Favorites Fiction 🧙‍♂️
 - Beware of Chicken
