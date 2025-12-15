@@ -111,6 +111,21 @@ I blanch. "What?"
 ― Pierce Brown, Morning Star
 >
 
+## Iron Gold 
+“I know it may be impossible to believe now, when everything is dark and broken, but you will survive this pain, little one. Pain is a memory. You will live and you will struggle and you will find joy. And you will remember your family from this breath to your dying days, because love does not fade. Love is the stars, and its light carries on long after death.”
+― Pierce Brown, Iron Gold
+
+“Sevro sniffs my neck and makes a noise of distaste. “By Jove. You wretch. Did you dip yourself in piss before the occasion?” “It’s cologne,” I say. “Mustang bought it for me last Solstice.” He’s quiet for a moment. “Is it made out of piss?”
+
+“They all want a part of it. A part of the pain that's not theirs. Nod their heads. Wrinkle their foreheads. Now they want to pity it, gorge on my pain. And when they're done or bored or too sad, they whisk themselves away to stare at a screen or stuff their fat faces, thinking 'How lucky am I to be me.' And they they forget the pain and say we should be good citizens. Get a job. Assimilate..
+
+They planted us in stones, watered us with pain, and now marvel how we have thorns.”
+― Pierce Brown, Iron Gold
+
+> “I put him and Victra in the west wing so we can actually get some sleep. Last time, I woke up in the middle of the night thinking a coyote was caught in the air recycler. I swear, at the pace they’re going they’ll be able to single-handedly populate Pluto in a few years.”
+― Pierce Brown, Iron Gold
+>
+
 ## Dark Age
 > “You asked, what do I fear? I fear a man who believes in good. For he can excuse any evil.”
 ― Pierce Brown, Dark Age
