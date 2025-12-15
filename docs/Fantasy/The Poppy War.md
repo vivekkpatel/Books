@@ -45,3 +45,29 @@
 
 “This isn’t a garden,” she said. “This is a drug farm.” Now she really wanted to meet the Lore Master. Kitay sat down next to her. “You know, the great shamans of legend used to ingest drugs before battle. Gave them magical powers, so the stories say.” He smiled. “You think that’s what the Lore Master teaches?” “Honestly?” Rin picked at the grass. “I think he just comes in here to get high.”
 ― R.F. Kuang, The Poppy War
+
+## The Dragon Republic
+
+“Fire and water looked so lovely together. It was a pity they destroyed each other by nature.”
+― R.F. Kuang, The Dragon Republic
+
+“Between us, we have the fire and the water. I'm quite sure that together, we can take on the wind.”
+― R.F. Kuang, The Dragon Republic
+
+“People will seek to use you or destroy you. If you want to live, you must pick a side. So do not shirk from war, child. Do not flinch from suffering. When you hear screaming, run toward it.”
+― R.F. Kuang, The Dragon Republic
+
+“She had a weapon now. She wasn't defenseless against him. She'd never been defenseless. She had just never thought to look.”
+― R.F. Kuang, The Dragon Republic
+
+“If nothing lasted and the world did not exist, all that meant was that reality was not fixed. The illusion she lived in was fluid and mutable, and could be easily altered by someone willing to rewrite the script of reality.”
+― R.F. Kuang, The Dragon Republic
+
+“This was not a world of men. It was a world of gods, a time of great powers. It was the era of divinity walking in man, of wind and water and fire. And in warfare, she who held the power asymmetry was the inevitable victor.”
+― R.F. Kuang, The Dragon Republic
+
+“You will die thinking I have abandoned you all. But I do not hesitate to say that I value the lives of my people far more than I have ever valued you.”
+― R.F. Kuang, The Dragon Republic
+
+“I know the vision you dreamed of for this nation and I know I may have destroyed it. But my first obligation is not to the unborn people of this country's future, but the people who are suffering now, who pass their days in fear because of the war that you have brought to their doorstep.”
+― R.F. Kuang, The Dragon Republic
