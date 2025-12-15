@@ -43,3 +43,8 @@
 > “It's easy to believe in something when you win all the time. The losses are what define a man's faith.”
 ― Brandon Sanderson, The Well of Ascension
 >
+
+## The Hero of Ages
+
+> “Elend smiled. "Oh, come on. You have to admit that you're unusual, Vin. You're like some strange mixture of a noblewoman, a street urchin, and a cat. Plus, you've mangaged - in our short three years together - to kill not only my god, but my father, my brother, and my fiancée. That's kind of like a homicidal hat trick.”
+>
