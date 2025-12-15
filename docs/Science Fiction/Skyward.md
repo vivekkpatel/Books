@@ -1,5 +1,6 @@
 # Skyward by Brandon Sanderson
 
+## Skyward
 > “You get to choose who you are. Legacy, memories of the past, can serve us well. But we cannot let them define us. When heritage becomes a box instead of an inspiration, it has gone too far.”
 ― Brandon Sanderson, Skyward
 > 
