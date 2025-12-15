@@ -58,6 +58,34 @@ And you won't get in a flap!
 You're safe in my hands(though I have none)
 For I'm a Thinking Cap!!”
 ```
+## The Prisoner of Azkaban
+> “I solemnly swear that I am up to no good.”
+― J.K. Rowling, Harry Potter and the Prisoner of Azkaban
+> 
+
+“Mr. Moony presents his compliments to Professor Snape, and begs him to keep his abnormally large nose out of other people's business.
+Mr. Prongs agrees with Mr. Moony, and would like to add that Professor Snape is an ugly git.
+Mr. Padfoot would like to register his astonishment that an idiot like that ever became a professor.
+Mr. Wormtail bids Professor Snape good day, and advises him to wash his hair, the slimeball.”
+― J.K. Rowling, Harry Potter and the Prisoner of Azkaban
+
+“What was there to be gained by fighting the most evil wizard who has ever existed?" said Black, with a terrible fury in his face. "Only innocent lives, Peter!"
+"You don't understand!" whined Pettigrew. "He would have killed me, Sirius!"
+"THEN YOU SHOULD HAVE DIED!" roared Black. "DIED RATHER THAN BETRAY YOUR FRIENDS, AS WE WOULD HAVE DONE FOR YOU!”
+― J.K. Rowling, Harry Potter and the Prisoner of Azkaban
+
+“And it's Gryfindor in possession again, as Johnson takes the Quaffle— Flint alongside her —poke him in the eye, Angelina —it was a joke, professor, it was a joke...”
+― J.K. Rowling, Harry Potter and the Prisoner of Azkaban
+
+“Have you ever seen anything quite as pathetic?" said Malfoy. "And he’s supposed to be our teacher!"
+Harry and Ron both made furious moves toward Malfoy, but Hermione got there first - SMACK!
+She had slapped Malfoy across the face with all the strength she could muster. Malfoy staggered. Harry, Ron, Crabbe, and Goyle stood flabbergasted as Hermione raised her hand again.
+"Don’t you dare call Hagrid pathetic you foul—you evil—"
+"Hermione!" said Ron weakly and he tried to grab her hand as she swung it back.
+"Get off Ron!"
+Hermione pulled out her wand. Malfoy stepped backward. Crabbe and Goyle looked at him for instructions, thoroughly bewildered.
+"C’mon," Malfoy muttered, and in a moment, all three of them had disappeared into the passageway to the dungeons.
+"Hermione!" Ron said again, sounding both stunned and impressed.”
 
 ## The Chamber of Secrets
 > “It is our choices, Harry, that show what we truly are, far more than our abilities.”
