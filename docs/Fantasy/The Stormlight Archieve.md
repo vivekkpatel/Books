@@ -65,6 +65,19 @@ These are the men who actually change the world. And they terrify me. For men ne
 ― Brandon Sanderson, Oathbringer
 >
 
+## Dawnshard 
+Most of Rysn’s contemporaries entered a discussion asking, “What can I get from this?” Rysn had been disabused of that notion early in her training. Her babsk taught a different way of seeing the world, training her to ask, “What need can I fulfill?” That was the true purpose of a merchant. To find complementary needs, then bridge the distance between them so everyone benefited.
+― Brandon Sanderson, Dawnshard
+
+It wasn’t about what you could get from people, but what you could get for them that made a successful merchant.
+― Brandon Sanderson, Dawnshard
+
+“Did your master have any wisdom to share about traitors?” Nikli asked. “About how to deal with someone you trust who turns against you?”
+“I asked him, on another occasion, to explain. He said, ‘Rysn, being cheated is a terrible feeling. Being cheated by someone you love is worse. Discovering such a deception is like finding yourself in a deep dark ocean with nothing around you but formless shadows of things you once thought you understood and enjoyed. It is painful beyond explanation. But that is never a reason to pretend it can’t happen. So read those contracts again. Just in case.’
+
+“Aluminum,” she explained as Rysn peered inside. “It blocks spanreed communication, something we only recently discovered.” 
+― Brandon Sanderson, Dawnshard
+
 ## Rhythem of War
 
 “Extinction is the natural escalation of this war,” Leshwi whispered. “If you forget why you are fighting, then victory itself becomes the goal.”
