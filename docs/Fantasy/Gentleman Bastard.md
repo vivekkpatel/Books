@@ -56,3 +56,17 @@ At last the ritual came to Bug; the boy raised his glass a bit shakily and yelle
 “We’re only doing this because nobody else in Camorr is good enough to pull this off, and nobody else is dumb enough to get stuck doing it in the first place.”
 “Bastard!” They shouted in unison, forgetting their surroundings for a bare moment.”
 ― Scott Lynch, The Lies of Locke Lamora
+
+## The Republic of Thieves
+
+“A boy may be as disagreeable as he pleases, but when a girl refuses to crap sunshine on command, the world mutters darkly about her moods.” ― Scott Lynch, The Republic of Thieves
+
+“Quit being so hard on yourself. We are what we are; we love what we love. We don't need to justify it to anyone... not even to ourselves.” ― Scott Lynch, The Republic of Thieves
+
+“I don't expect life to make sense," he said after a few moments, "but it could certainly be pleasant if it would stop kicking us in the balls.” ― Scott Lynch, The Republic of Thieves
+
+“He said that life boils down to standing in line to get shit dropped on your head. Everyone's got a place in the queue, you can't get out of it, and just when you start to congratulate yourself on surviving your dose of shit, you discover that the line is actually circular.” ― Scott Lynch, The Republic of Thieves
+
+“Yeah, but if I don't start my nervous pacing now, I'll never have it all done in time.” ― Scott Lynch, The Republic of Thieves
+
+“Didn't Chains tell you about the Golden Theological Principle?" "The what?" "The single congruent aspect of every known religion. The one shared, universal assumption about the human condition." "What is it?" "He said that life boils down to standing in line to get shit dropped on your head. Everyone's got a place in the queue, you can't get out of it, and just when you start to congratulate yourself on surviving your dose of shit, you discover that line is actually circular.” ― Scott Lynch, The Republic of Thieves
