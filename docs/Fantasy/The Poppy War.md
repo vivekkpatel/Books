@@ -71,3 +71,7 @@
 
 “I know the vision you dreamed of for this nation and I know I may have destroyed it. But my first obligation is not to the unborn people of this country's future, but the people who are suffering now, who pass their days in fear because of the war that you have brought to their doorstep.”
 ― R.F. Kuang, The Dragon Republic
+
+## The Burning God
+
+“Here’s a prophecy for you, she’d said. One will die. One will rule. And one will sleep for eternity.”
