@@ -21,3 +21,17 @@
 
 “moon, they’d be fighting in the dark. “It’s late,” said Oyibo, avoiding Tau’s eyes. Tau had conscripted his help after Yaw stopped showing up. “One,” Tau said. “Only one more.” “It’s just… it’s just you keep saying that…”
 ― Evan Winter, The Rage of Dragons
+
+## The Fires of Vengence
+
+“Rage is love...twisted in on itself. Rage reaches into the world when we can no longer contain the hurt of being treated as if our life and loves do not matter. Rage, and its consequences, are what we get when the world refuses to change for anything less.” 
+― Evan Winter, The Fires of Vengeance
+
+“Rage reaches into the world when we can no longer contain the hurt of being treated as if our life and loves do not matter. Rage, and its consequences, are what we get when the world refuses to change for anything less.”
+
+“only path to becoming what others cannot is to suffer what others will not.” 
+― Evan Winter, The Fires of Vengeance
+
+“There’s more of us than them, and when we finally refuse to survive on the scraps they throw us, our numbers will make all the difference.”
+
+“You call me a monster because I won’t let you treat me like my life is worthless, a thing to be used and thrown away?” it said. “You call me a monster because I refuse to live like you think I deserve? If that’s what you mean by monster, watch me be monstrous!”
