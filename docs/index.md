@@ -21,6 +21,7 @@
 - Atomic Habits
 - Deep Work
 - How Legendary Traders Made Millions
+- How to make money in stocks
 - How to Win Friends and Influence People
 - Never Split the Difference
 - Show Your Work!
