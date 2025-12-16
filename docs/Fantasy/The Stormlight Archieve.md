@@ -64,3 +64,8 @@ These are the men who actually change the world. And they terrify me. For men ne
 > “The longer you live, the more you fail. Failure is the mark of a life well lived. In turn, the only way to live without failure is to be of no use to anyone. Trust me, I’ve practiced.”
 ― Brandon Sanderson, Oathbringer
 >
+
+## Rhythem of War
+
+“Extinction is the natural escalation of this war,” Leshwi whispered. “If you forget why you are fighting, then victory itself becomes the goal.”
+ ― Brandon Sanderson, Rhythm of War
