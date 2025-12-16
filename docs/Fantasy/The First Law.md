@@ -110,3 +110,11 @@ He pressed his tongue into one of his few remaining teeth. Life is not fair.”
 
 “Wine can keep a happy man happy, on occasion. A sad one it always makes worse.”
 ― Joe Abercrombie, Last Argument of Kings
+
+## Best Served Cold
+
+“You were a hero round these parts. That's what they call you when you kill so many people the word murderer falls short.” ― Joe Abercrombie, Best Served Cold
+
+“That was the difference between a hero and a villain, a soldier and a murderer, a victory and a crime. Which side of a river you called home.” ― Joe Abercrombie, Best Served Cold
+
+“One cannot grow without pain. One cannot improve without it. Suffering drives us to achieve great things.” ― Joe Abercrombie, Best Served Cold
