@@ -1,5 +1,6 @@
 # Anne of Green Gables by Lucy Maud Montgomery
 
+##  Anne of Green Gables
 > “It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will.”
 ― Lucy Maud Montgomery, Anne of Green Gables
 > 
@@ -35,3 +36,24 @@
 > “Well now, I'd rather have you than a dozen boys, Anne,' said Matthew patting her hand. 'Just mind you that — rather than a dozen boys. Well now, I guess it wasn't a boy that took the Avery scholarship, was it? It was a girl — my girl — my girl that I'm proud of.”
 ― L.M. Montgomery, Anne of Green Gables
 >
+
+## Anne of Avonlea
+
+“Well, we all make mistakes, dear, so just put it behind you. We should regret our mistakes and learn from them, but never carry them forward into the future with us.”
+ ― L.M. Montgomery, Anne of Avonlea
+
+“After all," Anne had said to Marilla once, "I believe the nicest and sweetest days are not those on which anything very splendid or wonderful or exciting happens but just those that bring simple little pleasures, following one another softly, like pearls slipping off a string.” 
+― L.M. Montgomery, Anne of Avonlea
+
+“Oh, sometimes I think it is of no use to make friends. They only go out of your life after awhile and leave a hurt that is worse than the emptiness before they came.”
+― L.M. Montgomery, Anne of Avonlea
+
+“For a moment Anne's heart fluttered queerly and for the first time her eyes faltered under Gilbert's gaze and a rosy flush stained the paleness of her face. It was as if a veil that had hung before her inner consciousness had been lifted, giving to her view a revelation of unsuspected feelings and realities. Perhaps, after all, romance did not come into one's life with pomp and blare, like a gay knight riding down; perhaps it crept to one's side like an old friend through quiet ways; perhaps it revealed itself in seeming prose, until some sudden shaft of illumination flung athwart its pages betrayed the rhythm and the music, perhaps. . . perhaps. . .love unfolded naturally out of a beautiful friendship, as a golden-hearted rose slipping from its green sheath. ” 
+
+― L.M. Montgomery, Anne of Avonlea
+
+“Yes, it's beautiful,' said Gilbert, looking steadily down into Anne's uplifted face, 'but wouldn't it have been more beautiful still, Anne, if there had been no separation or misunderstanding . . . if they had come hand in hand all the way through life, with no memories behind them but those which belonged to each other?” 
+― L.M. Montgomery, Anne of Avonlea
+
+“…I think,' concluded Anne, hitting on a very vital truth, 'that we always love best the people who need us.” 
+― L.M. Montgomery, Anne of Avonlea
