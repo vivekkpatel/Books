@@ -1,3 +1,7 @@
+---
+title: Just for Fun
+---
+
 # Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds
 
 > “Intelligence is the ability to avoid doing work, yet getting the work done.”

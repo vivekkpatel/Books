@@ -1,3 +1,7 @@
+---
+title: Bricklin on Technology
+---
+
 # Bricklin on Technology by Dan Bricklin
 
 People in different fields of endeavor are often motivated by different drives. They get great joy out of satisfying those drives. For example, teachers feel rewarded when they successfully help students who are struggling to discover the key to a new concept or when they introduce a child to a field that becomes their life’s work. Some people are driven by wanting to “win” no matter what the field. Others are driven by wanting to help others who are in need, in pain, or suffering. Yet others are driven by wanting to express themselves in some medium, such as paint or song, and bring new beauty or understanding into the world.

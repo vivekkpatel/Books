@@ -1,3 +1,7 @@
+---
+title: Shoe Dog
+---
+
 # Shoe Dog by Phil Knight
 
 > “Don’t tell people how to do things, tell them what to do and let them surprise you with their results.”

@@ -1,3 +1,7 @@
+---
+title: The Glass Castle
+---
+
 # The Glass Castle by Jeannette Walls
 
 “You should never hate anyone, even your worst enemies. Everyone has something good about them. You have to find the redeeming quality and love the person for that.”

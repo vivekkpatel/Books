@@ -1,3 +1,7 @@
+---
+title: Educated
+---
+
 # Educated by Tara Westover
 
 > “You can love someone and still choose to say goodbye to them,” she says now. “You can miss a person every day, and still be glad that they are no longer in your life.”

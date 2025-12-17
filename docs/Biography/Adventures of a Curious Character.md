@@ -1,3 +1,7 @@
+---
+title: Adventures of a Curious Character
+---
+
 # "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard P. Feynman
 
 > “All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't.”

@@ -1,3 +1,7 @@
+---
+title: Alibaba
+---
+
 # Alibaba : The House That Jack Ma Built by Duncan Clark
 
 > “Today is brutal, tomorrow is more brutal, but the day after tomorrow is beautiful. However, the majority of people will die tomorrow night .”

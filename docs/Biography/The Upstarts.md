@@ -1,3 +1,7 @@
+---
+title: The Upstarts
+---
+
 # The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World by Brad Stone
 
 > “Chesky was moving slowly, but at the same time, he was frustrated that his imagined success wasn’t arriving quickly enough. “Every day I was working on it and thinking, Why isn’t it happening faster?” he told me.4 “When you’re starting a company it never goes at the pace you want or the pace you expect. You imagine everything to be linear, ‘I’m going to do this, then this is going to happen and this is going to happen.’ You’re imagining steps and they’re progressive. You start, you build it, and you think everyone’s going to care. But no one cares, not even your friends.”

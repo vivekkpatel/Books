@@ -1,3 +1,7 @@
+---
+title: When Breath Becomes Air
+---
+
 # When Breath Becomes Air by Paul Kalanithi
 
 Humans are organisms, subject to physical laws, including, alas, the one that says entropy always increases. Diseases are molecules misbehaving; the basic requirement of life is metabolism, and death its cessation.

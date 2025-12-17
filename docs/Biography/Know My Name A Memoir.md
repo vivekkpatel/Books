@@ -1,3 +1,7 @@
+---
+title: Know My Name A Memoir
+---
+
 # Know My Name: A Memoir by Chanel Miller
 
 > “In fact I need you to know it was all true. The friendly guy who helps you move and assists senior citizens in the pool is the same guy who assaulted me. One person can be capable of both. Society often fails to wrap its head around the fact that these truths often coexist, they are not mutually exclusive. Bad qualities can hide inside a good person. That's the terrifying part.”

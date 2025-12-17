@@ -1,3 +1,7 @@
+---
+title: Steve Jobs
+---
+
 # Steve Jobs by Walter Isaacson
 
 > “One way to remember who you are is to remember who your heroes are.”

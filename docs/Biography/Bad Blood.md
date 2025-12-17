@@ -1,3 +1,7 @@
+---
+title: Bad Blood
+---
+
 # Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
 
 “When the officer asked what he’d taken, Sunny blurted out in his accented English, “He stole property in his mind.” 

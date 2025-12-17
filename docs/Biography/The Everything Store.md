@@ -1,3 +1,7 @@
+---
+title: The Everything Store
+---
+
 # The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone
 
 > It’s one thing to have a good idea, but it’s another to have confidence in a person to execute it,

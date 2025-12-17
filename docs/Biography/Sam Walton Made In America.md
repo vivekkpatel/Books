@@ -1,3 +1,7 @@
+---
+title: Sam Walton Made In America
+---
+
 # Sam Walton: Made In America by Sam Walton
 
 “Sam Walton: I had to pick myself up and get on with it, do it all over again, only even better this time.”

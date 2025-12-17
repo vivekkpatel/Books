@@ -1,3 +1,7 @@
+---
+title: Wild
+---
+
 # Wild: From Lost to Found on the Pacific Crest Trail by Cheryl Strayed
 
 > “I knew that if I allowed fear to overtake me, my journey was doomed. Fear, to a great extent, is born of a story we tell ourselves, and so I chose to tell myself a different story from the one women are told. I decided I was safe. I was strong. I was brave. Nothing could vanquish me.”
