@@ -5,23 +5,20 @@ title: The Red Rising Saga
 # Red Rising Saga by Pierce Brown
 
 ## Red Rising
-> “You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.”
+“You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.”
 ― Pierce Brown, Red Rising
-> 
 
-> “The measure of a man is what he does when he has power.”
+“The measure of a man is what he does when he has power.”
 ― Pierce Brown, Red Rising
-> 
 
 “I live for the dream that my children will be born free. That they will be what they like. That they will own the land their father gave them.'
 'I live for you,' I say sadly.
 She kisses my cheek. 'Then you must live for more.”
 ― Pierce Brown, Red Rising
 
-> “Funny how a single word can change everything in your life."
+“Funny how a single word can change everything in your life."
 "It is not funny at all. Steel is power. Money is power. But of all the things in all the worlds, words are power.”
 ― Pierce Brown, Red Rising
-> 
 
 ```
 🎵 “My love, my love
@@ -60,21 +57,17 @@ She laughs at herself. “To be alive and ticking.”
 ― Pierce Brown, Red Rising
 
 ## Golden Son
-> “Home isn't where you're from, it's where you find light when all grows dark.”
+“Home isn't where you're from, it's where you find light when all grows dark.”
 ― Pierce Brown, Golden Son
-> 
 
-> “There is no greater plague to an introvert than the extrovert.”
+“There is no greater plague to an introvert than the extrovert.”
 ― Pierce Brown, Golden Son
-> 
 
-> “If you're a fox, play the hare. If you're the hare, play the fox.”
+“If you're a fox, play the hare. If you're the hare, play the fox.”
 ― Pierce Brown, Golden Son
-> 
 
-> “I didn't mind that it was always about you, Darrow. That was what burned Tactus, but not me. I'm not in love with you like Mustang. I don't worship you like Sevro or the Howlers. I was a true friend. I was someone who saw your light and your dark and accepted both without judgement, without agenda...”
+“I didn't mind that it was always about you, Darrow. That was what burned Tactus, but not me. I'm not in love with you like Mustang. I don't worship you like Sevro or the Howlers. I was a true friend. I was someone who saw your light and your dark and accepted both without judgement, without agenda...”
 ― Pierce Brown, Golden Son
-> 
 
 “You're just as much an outsider as I am. I've read your dissertations."
 "You have?" She's surprised.
@@ -83,9 +76,8 @@ She laughs at herself. “To be alive and ticking.”
 ― Pierce Brown, Golden Son
 
 ## Morning Star
-> “A man thinks he can fly, but he is afraid to jump. A poor friend pushes him from behind.” He looks up at me. “A good friend jumps with.”
+“A man thinks he can fly, but he is afraid to jump. A poor friend pushes him from behind.” He looks up at me. “A good friend jumps with.”
 ― Pierce Brown, Morning Star
-> 
 
 “Sevro." I lean forward. "Your eyes..."
 He leans in close. "Do you like 'em?"
@@ -104,16 +96,14 @@ I blanch. "What?"
 "Finders keepers," I say with a shrug.”
 ― Pierce Brown, Morning Star
 
-> “What is pride without honor? What is honor without truth? Honor is not what you say. It is not what you read.” Romulus thumps his chest. “Honor is what you do.”
+“What is pride without honor? What is honor without truth? Honor is not what you say. It is not what you read.” Romulus thumps his chest. “Honor is what you do.”
 ― Pierce Brown, Morning Star
-> 
 
 “Death begets death begets death.”
 ― pierce brown , Morning Star
 
-> “Once I thought that writing this book would be impossible. It was a skyscraper, massive and complete and unbearably far off. It taunted me from the horizon. But do we ever look at such buildings and assume they sprung up overnight? No. We’ve seen the traffic congestion that attends them. The skeleton of beams and girders. The swarm of builders and the rattle of cranes… Everything grand is made from a series of ugly little moments. Everything worthwhile by hours of self-doubt and days of drudgery. All the works by people you and I admire sit atop a foundation of failures. So whatever your project, whatever your struggle, whatever your dream, keep toiling, because the world needs your skyscraper. Per aspera, ad astra! —Pierce Brown”
+“Once I thought that writing this book would be impossible. It was a skyscraper, massive and complete and unbearably far off. It taunted me from the horizon. But do we ever look at such buildings and assume they sprung up overnight? No. We’ve seen the traffic congestion that attends them. The skeleton of beams and girders. The swarm of builders and the rattle of cranes… Everything grand is made from a series of ugly little moments. Everything worthwhile by hours of self-doubt and days of drudgery. All the works by people you and I admire sit atop a foundation of failures. So whatever your project, whatever your struggle, whatever your dream, keep toiling, because the world needs your skyscraper. Per aspera, ad astra! —Pierce Brown”
 ― Pierce Brown, Morning Star
->
 
 ## Iron Gold 
 “I know it may be impossible to believe now, when everything is dark and broken, but you will survive this pain, little one. Pain is a memory. You will live and you will struggle and you will find joy. And you will remember your family from this breath to your dying days, because love does not fade. Love is the stars, and its light carries on long after death.”
@@ -126,18 +116,15 @@ I blanch. "What?"
 They planted us in stones, watered us with pain, and now marvel how we have thorns.”
 ― Pierce Brown, Iron Gold
 
-> “I put him and Victra in the west wing so we can actually get some sleep. Last time, I woke up in the middle of the night thinking a coyote was caught in the air recycler. I swear, at the pace they’re going they’ll be able to single-handedly populate Pluto in a few years.”
+“I put him and Victra in the west wing so we can actually get some sleep. Last time, I woke up in the middle of the night thinking a coyote was caught in the air recycler. I swear, at the pace they’re going they’ll be able to single-handedly populate Pluto in a few years.”
 ― Pierce Brown, Iron Gold
->
 
 ## Dark Age
-> “You asked, what do I fear? I fear a man who believes in good. For he can excuse any evil.”
+“You asked, what do I fear? I fear a man who believes in good. For he can excuse any evil.”
 ― Pierce Brown, Dark Age
-> 
 
-> “I no longer trust stillness. Stillness is the enemy taking careful aim.”
+“I no longer trust stillness. Stillness is the enemy taking careful aim.”
 ― Pierce Brown, Dark Age
-> 
 
 “I’ll never get used to seeing the fear Sevro wakes in people. Deep down they know Darrow is operating on a framework of logic. No one, not even me, believes that Sevro is completely sane.”
 ― Pierce Brown, Dark Age

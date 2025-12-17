@@ -21,10 +21,10 @@ title: Blood Over Bright Haven
 
 ## Quotes
 
-> How a person felt about action don't matter, only the actions themselves mattered.
+How a person felt about action don't matter, only the actions themselves mattered.
 
-> It's much easier to TELL yourself you're a good person than it is to actually be one.
+It's much easier to TELL yourself you're a good person than it is to actually be one.
 
 >All those jobs involve people, and I’m terrible with people. Magic is the one area where I can shut myself in a room with my books and my thoughts and come out more powerful than I went in. It doesn’t matter how big, or strong, or pretty you are in magic. It doesn’t matter how much people like you. With my fingers on the keys of a spellograph, if I can just think hard enough, I’m the most powerful person in the world. 
 
-> Truth over delusion. Growth over comfort.
+Truth over delusion. Growth over comfort.

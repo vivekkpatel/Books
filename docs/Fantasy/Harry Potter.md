@@ -5,7 +5,7 @@ title: Harry Potter
 # Harry Potter by J K Rowling
 
 ## The Philosopher's Stone
-> “It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
+“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
 ― J.K. Rowling, Harry Potter and the Sorcerer's Stone
 
 “Can you think what the Mirror of Erised shows us all?" Harry shook his head.
@@ -21,9 +21,8 @@ Harry thought. Then he said slowly, "It shows us what we want... whatever we wan
 “There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.”
 ― J. K. Rowling, Harry Potter and the Sorcerer's Stone
 
-> “What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally the whole school knows.”
+“What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally the whole school knows.”
 ― J. K. Rowling, Harry Potter and the Sorcerer's Stone
-> 
 
 “Curious indeed how these things happen. The wand chooses the wizard, remember...I think we must expect great things from you, Mr. Potter... After all, He-Who-Must-Not-Be-Named did great things — terrible, yes, but great.”
 ― J.K. Rowling, Harry Potter and the Sorcerer's Stone
@@ -63,9 +62,8 @@ You're safe in my hands(though I have none)
 For I'm a Thinking Cap!!”
 ```
 ## The Prisoner of Azkaban
-> “I solemnly swear that I am up to no good.”
+“I solemnly swear that I am up to no good.”
 ― J.K. Rowling, Harry Potter and the Prisoner of Azkaban
-> 
 
 “Mr. Moony presents his compliments to Professor Snape, and begs him to keep his abnormally large nose out of other people's business.
 Mr. Prongs agrees with Mr. Moony, and would like to add that Professor Snape is an ugly git.
@@ -92,9 +90,8 @@ Hermione pulled out her wand. Malfoy stepped backward. Crabbe and Goyle looked a
 "Hermione!" Ron said again, sounding both stunned and impressed.”
 
 ## The Chamber of Secrets
-> “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+“It is our choices, Harry, that show what we truly are, far more than our abilities.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
-> 
 
 “Well, you're expelling us aren't you?" said Ron.
 "Not today, Mr. Weasley."
@@ -109,14 +106,12 @@ And she sprinted away, up the stairs.
 “Because that’s what Hermione does,” said Ron, shrugging. “When in doubt, go to the library.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
-> Your aunt and uncle will be proud, though, won't they?" said Hermione as they got off the train and joined the crowd thronging toward the enchanted barrier. "When they hear what you did this year?"
+Your aunt and uncle will be proud, though, won't they?" said Hermione as they got off the train and joined the crowd thronging toward the enchanted barrier. "When they hear what you did this year?"
 "Proud?" said Harry. "Are you crazy? All those times I could've died, and I didn't manage it? They'll be furious...”
 ― J.K Rowling, Harry Potter and the Chamber of Secrets
-> 
 
-> “You will find that I will only truly have left this school when none here are loyal to me.”
+“You will find that I will only truly have left this school when none here are loyal to me.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
-> 
 
 “Fred and George, however, found all this very funny. They went out of
 their way to march ahead of Harry down the corridors, shouting, "Make way for
@@ -138,18 +133,16 @@ planning to attack next, or when George pretended to ward Harry off with a large
 clove of garlic when they met.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
-> “If he doesn't stop trying to save your life he's going to kill you.”
+“If he doesn't stop trying to save your life he's going to kill you.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
-> 
 
-> “Hang on . . .” Harry muttered to Ron. “There’s an empty chair at the staff table. . . . Where’s Snape?”
+“Hang on . . .” Harry muttered to Ron. “There’s an empty chair at the staff table. . . . Where’s Snape?”
 "Maybe he's ill!" said Ron hopefully.
 “Maybe he’s left,” said Harry, “because he missed out on the Defense Against the Dark Arts job again!”
 “Or he might have been sacked!” said Ron enthusiastically. “I mean, everyone hates him —”
 “Or maybe,” said a very cold voice right behind them, “he’s waiting to hear why you two didn’t arrive on the school train.”
 Harry spun around. There, his black robes rippling in a cold breeze, stood Severus Snape.”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
-> 
 
 “Voldemort,” said Riddle softly, “is my past, present, and future, Harry Potter. . . .”
 He pulled Harry’s wand from his pocket and began to trace it through the air, writing three shimmering words:
@@ -159,13 +152,11 @@ I AM LORD VOLDEMORT”
 ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
 ## The Goblet of Fire
-> “If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”
+“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”
 ― J.K. Rowling, Harry Potter and the Goblet of Fire
-> 
 
-> “It matters not what someone is born, but what they grow to be.”
+“It matters not what someone is born, but what they grow to be.”
 ― J.K. Rowling, Harry Potter and the Goblet of Fire
-> 
 
 “Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”
 ― J.K. Rowling, Harry Potter and the Goblet of Fire
@@ -187,13 +178,11 @@ I AM LORD VOLDEMORT”
 “Understanding is the first step to acceptance, and only with acceptance can there be recovery.”
 ― J.K. Rowling, Harry Potter and the Goblet of Fire
 
-> “It is my belief... that the truth is generally preferable to lies.”
+“It is my belief... that the truth is generally preferable to lies.”
 ― J.K. Rowling, Harry Potter and the Goblet of Fire
-> 
 
-> “Differences of habit and language are nothing at all if our aims are identical and our hearts are open.”
+“Differences of habit and language are nothing at all if our aims are identical and our hearts are open.”
 ― J.K. Rowling, Harry Potter and the Goblet of Fire
-> 
 
 “Well, I certainly don't," said Percy sanctimoniously. "I shudder to think what the state of my in-tray would be if I was away from work for five days."
 "Yeah, someone might slip dragon dung in it again, eh, Perce?" said Fred.
@@ -218,13 +207,11 @@ Angelina gave Fred a sort of appraising look.
 "I have gone temporarily deaf and haven't any idea what you said, Harry," said Dumbledore, twiddling his thumbs and staring at the ceiling.”
 
 ## The Order of the Phoenix 
-> “Just because you have the emotional range of a teaspoon doesn't mean we all have.”
+“Just because you have the emotional range of a teaspoon doesn't mean we all have.”
 ― J.K. Rowling, Harry Potter and the Order of the Phoenix
-> 
 
-> “Indifference and neglect often do much more damage than outright dislike.”
+“Indifference and neglect often do much more damage than outright dislike.”
 ― J.K. Rowling, Harry Potter and the Order of the Phoenix
-> 
 
 “I DON'T CARE!" Harry yelled at them, snatching up a lunascope and throwing it into the fireplace. "I'VE HAD ENOUGH, I'VE SEEN ENOUGH, I WANT OUT, I WANT IT TO END, I DON'T CARE ANYMORE!"
 "You do care," said Dumbledore. He had not flinched or made a single move to stop Harry demolishing his office. His expression was calm, almost detached. "You care so much you feel as though you will bleed to death with the pain of it.”
@@ -243,36 +230,30 @@ Angelina gave Fred a sort of appraising look.
 "No," she said, her voice quivering with anger, "but I will write to your mother.”
 ― J.K. Rowling, Harry Potter and the Order of the Phoenix
 
-> “Well, obviously, she's feeling very sad, because of Cedric dying. Then I expect she's feeling confused because she liked Cedric and now she likes Harry, and she can't work out who she likes best. Then she'll be feeling guilty, thinking it's an insult to Cedric's memory to be kissing Harry at all, and she'll be worrying about what everyone else might say about her if she starts going out with Harry. And she probably can't work out what her feelings towards Harry are anyway, because he was the one who was with Cedric when Cedric died, so that's all very mixed up and painful. Oh, and she's afraid she's going to be thrown off the Ravenclaw Quidditch team because she's flying so badly."
+“Well, obviously, she's feeling very sad, because of Cedric dying. Then I expect she's feeling confused because she liked Cedric and now she likes Harry, and she can't work out who she likes best. Then she'll be feeling guilty, thinking it's an insult to Cedric's memory to be kissing Harry at all, and she'll be worrying about what everyone else might say about her if she starts going out with Harry. And she probably can't work out what her feelings towards Harry are anyway, because he was the one who was with Cedric when Cedric died, so that's all very mixed up and painful. Oh, and she's afraid she's going to be thrown off the Ravenclaw Quidditch team because she's flying so badly."
 A slightly stunned silence greeted the end of this speech, then Ron said, "One person can't feel all that at once, they'd explode.”
 ― J.K. Rowling, Harry Potter and the Order of the Phoenix
->
 
 ## The Half-Blood Prince
-> “It is the unknown we fear when we look upon death and darkness, nothing more.”
+“It is the unknown we fear when we look upon death and darkness, nothing more.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince.
-> 
 
-> “Dumbledore says people find it far easier to forgive others for being wrong than being right.”
+“Dumbledore says people find it far easier to forgive others for being wrong than being right.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince
-> 
 
-> “The thing about growing up with Fred and George," said Ginny thoughtfully, "is that you sort of start thinking anything's possible if you've got enough nerve.”
+“The thing about growing up with Fred and George," said Ginny thoughtfully, "is that you sort of start thinking anything's possible if you've got enough nerve.”
 ― J. K. Rowling, Harry Potter and the Half-Blood Prince
-> 
 
-> “It was, he thought, the difference between being dragged into the arena to face a battle to the death and walking into the arena with your head held high. Some people, perhaps, would say that there was little to choose between the two ways, but Dumbledore knew - and so do I, thought Harry, with a rush of fierce pride, and so did my parents - that there was all the difference in the world.”
+“It was, he thought, the difference between being dragged into the arena to face a battle to the death and walking into the arena with your head held high. Some people, perhaps, would say that there was little to choose between the two ways, but Dumbledore knew - and so do I, thought Harry, with a rush of fierce pride, and so did my parents - that there was all the difference in the world.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince
-> 
 
-> “You'd think people had better things to gossip about," said Ginny as she sat on the common room floor, leaning against Harry’s legs and reading the Daily Prophet. "Three Dementor attacks in a week, and all Romilda Vane does is ask me if it’s true you’ve got a Hippogriff tattooed across your chest."
+“You'd think people had better things to gossip about," said Ginny as she sat on the common room floor, leaning against Harry’s legs and reading the Daily Prophet. "Three Dementor attacks in a week, and all Romilda Vane does is ask me if it’s true you’ve got a Hippogriff tattooed across your chest."
 Ron and Hermione both roared with laughter. Harry ignored them.
 What did you tell her?"
 I told her it's a Hungarian Horntail," said Ginny, turning a page of the newspaper idly. "Much more macho."
 Thanks," said Harry, grinning. "And what did you tell her Ron’s got?"
 A Pygmy Puff, but I didn’t say where.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince
-> 
 
 “He accused me of being Dumbledore's man through and through."
 "How very rude of him."
@@ -292,9 +273,8 @@ Dumbledore opened his mouth to speak and then closed it again. Fawkes the phoeni
 "I care. How do you think I'd feel if this was your funeral...and it was my fault...”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince
 
-> “I make mistakes like the next man. In fact, being--forgive me--rather cleverer than most men, my mistakes tend to be correspondingly huger.”
+“I make mistakes like the next man. In fact, being--forgive me--rather cleverer than most men, my mistakes tend to be correspondingly huger.”
 ― J.K. Rowling, Harry Potter and the Half-Blood Prince
-> 
 
 “For future reference, Harry, it is raspberry...although of course, if I were a Death Eater, I would have been sure to research my own jam preferences before impersonating myself.”
 ― J. K. Rowling, Harry Potter and the Half-Blood Prince
@@ -312,21 +292,19 @@ Harry, please. You're talking to the man who raised Fred and George.”
 
 ## The Deathly Hallows
 
-> “Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”
+“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
-> 
 
 “We're all human, aren't we? Every human life is worth the same, and worth saving.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
 
-> “How do you feel, Georgie?" whispered Mrs. Weasley.
+“How do you feel, Georgie?" whispered Mrs. Weasley.
 George's fingers groped for the side of his head.
 "Saintlike," he murmured.
 "What's wrong with him?" croaked Fred, looking terrified. "Is his mind affected?"
 "Saintlike," repeated George, opening his eyes and looking up at his brother. "You see...I'm HOLEY, Fred, geddit?”
 “Holey? You have the the whole world of ear-related humor before you, you go for holey?”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
-> 
 
 “There was a clatter as the basilisk fangs cascaded out of Hermione's arms. Running at Ron, she flung them around his neck and kissed him full on the mouth. Ron threw away the fangs and broomstick he was holding and responded with such enthusiasm that he lifted Hermione off her feet.
 "Is this the moment?" Harry asked weakly, and when nothing happened except that Ron and Hermione gripped each other still more firmly and swayed on the spot, he raised his voice. "OI! There's a war going on here!"
@@ -336,29 +314,24 @@ Ron and Hermione broke apart, their arms still around each other.
 "Yeah --- right --- sorry ---" said Ron, and he and Hermione set about gathering up fangs, both pink in the face.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
 
-> “It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it. Those who, like you, have leadership thrust upon them, and take up the mantle because they must, and find to their own surprise that they wear it well.”
+“It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it. Those who, like you, have leadership thrust upon them, and take up the mantle because they must, and find to their own surprise that they wear it well.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
-> 
 
-> “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.”
+“Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.”
 ― JK Rowling, Harry Potter and the Deathly Hallows
-> 
 
-> “Here lies Dobby, a free elf.”
+“Here lies Dobby, a free elf.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
-> 
 
-> “Snape's patronus was a doe,' said Harry, 'the same as my mother's because he loved her for nearly all of his life, from when they were children.”
+“Snape's patronus was a doe,' said Harry, 'the same as my mother's because he loved her for nearly all of his life, from when they were children.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
-> 
 
-> “But this is touching, Severus,” said Dumbledore seriously. “Have you grown to care for the boy, after all?”
+“But this is touching, Severus,” said Dumbledore seriously. “Have you grown to care for the boy, after all?”
 “For him?” shouted Snape. “Expecto Patronum!”
 From the tip of his wand burst the silver doe. She landed on the office floor, bounded once across the office, and soared out of the window. Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.
 “After all this time?”
 “Always,” said Snape.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows
-> 
 
 “So that's little Scorpious. Make sure you beat him in every test, Rosie. Thank god you've inherited your mother's brains.”
 ― J.K. Rowling, Harry Potter and the Deathly Hallows

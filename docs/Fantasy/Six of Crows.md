@@ -5,39 +5,34 @@ title: Six of Crows
 # Six of Crows by Leigh Bardugo
 
 ## Six of Crows
-> “Many boys will bring you flowers. But someday you'll meet a boy who will learn your favorite flower, your favorite song, your favorite sweet. And even if he is too poor to give you any of them, it won't matter because he will have taken the time to know you as no one else does. Only that boy earns your heart.”
+“Many boys will bring you flowers. But someday you'll meet a boy who will learn your favorite flower, your favorite song, your favorite sweet. And even if he is too poor to give you any of them, it won't matter because he will have taken the time to know you as no one else does. Only that boy earns your heart.”
 ― Leigh Bardugo, Six of Crows
-> 
 
-> “Kaz leaned back. "What's the easiest way to steal a man's wallet?"
+“Kaz leaned back. "What's the easiest way to steal a man's wallet?"
 "Knife to the throat?" asked Inej.
 "Gun to the back?" said Jesper.
 "Poison in his cup?" suggested Nina.
 "You're all horrible," said Matthias.”
 “The easiest way to steal a man’s wallet is to tell him you’re going to steal his watch. You take his attention and direct it where you want it to go.”
 ― Leigh Bardugo, Six of Crows
-> 
 
 “No mourners. No funerals. Among them, it passed for 'good luck.”
 ― Leigh Bardugo, Six of Crows
 
-> “When everyone knows you’re a monster, you needn’t waste time doing every monstrous thing.”
+“When everyone knows you’re a monster, you needn’t waste time doing every monstrous thing.”
 ― Leigh Bardugo, Six of Crows
-> 
 
 “He needed to tell her...what? That she was lovely and brave and better than anything he deserved. That he was twisted, crooked, wrong, but not so broken that he couldn't pull himself together into some semblance of a man for her. That without meaning to, he'd begun to lean on her, to look for her, to need her near. He needed to thank her for his new hat.”
 ― Leigh Bardugo, Six of Crows
 
-> “I have been made to protect you. Only in death will I be kept from this oath.”
+“I have been made to protect you. Only in death will I be kept from this oath.”
 ― Leigh Bardugo, Six of Crows
-> 
 
 “Please, my darling Inej, treasure of my heart, won’t you do me the honor of acquiring me a new hat?”
 ― Leigh Bardugo, Six of Crows
 
-> “I want you to stay. I want you to … I want you.” “You want me.” She turned the words over. Gently, she squeezed his hand. “And how will you have me, Kaz?” He looked at her then, eyes fierce, mouth set. It was the face he wore when he was fighting. “How will you have me?” she repeated. “Fully clothed, gloves on, your head turned away so our lips can never touch?”<...>“I will have you without armour, Kaz Brekker. Or I will not have you at all.”
+“I want you to stay. I want you to … I want you.” “You want me.” She turned the words over. Gently, she squeezed his hand. “And how will you have me, Kaz?” He looked at her then, eyes fierce, mouth set. It was the face he wore when he was fighting. “How will you have me?” she repeated. “Fully clothed, gloves on, your head turned away so our lips can never touch?”<...>“I will have you without armour, Kaz Brekker. Or I will not have you at all.”
 ― Leigh Bardugo, Six of Crows
-> 
 
 “This isn’t … it isn’t a trick, is it?” Her voice was smaller than she wanted it to be.
 
@@ -73,48 +68,41 @@ Nina crossed her arms. “I’m mad at you, too.”
 ― Leigh Bardugo, Six of Crows
 
 ## Crooked Kingdom
-> “Crows remember human faces. They remember the people who feed them, who are kind to them. And the people who wrong them too. They don’t forget. They tell each other who to look after and who to watch out for.”
+“Crows remember human faces. They remember the people who feed them, who are kind to them. And the people who wrong them too. They don’t forget. They tell each other who to look after and who to watch out for.”
 ― Leigh Bardugo, Crooked Kingdom
-> 
 
-> “Have any of you wondered what I did with all the cash Pekka Rollins gave us?"
+“Have any of you wondered what I did with all the cash Pekka Rollins gave us?"
 "Guns?" asked Jesper.
 "Ships?" queried Inej.
 "Bombs?" suggested Wylan.
 "Political bribes?" offered Nina. They all looked at Matthias. "This is where you tell us how awful we are," she whispered.”
 ― Leigh Bardugo, Crooked Kingdom
-> 
 
-> “I don’t hold a grudge. I cradle it. I coddle it. I feed it fine cuts of meat and send it to the best schools. I nurture my grudges.”
+“I don’t hold a grudge. I cradle it. I coddle it. I feed it fine cuts of meat and send it to the best schools. I nurture my grudges.”
 ― Leigh Bardugo, Crooked Kingdom
-> 
 
-> “Meeting you was a disaster.”
+“Meeting you was a disaster.”
 She raised a brow. “Thank you.”
 Djel, he was terrible at this. He stumbled on, trying to make her understand. “But I am grateful for that disaster. I needed a catastrophe to shake me from the life I knew. You were an earthquake, a landslide.”
 “I,” she said, planting a hand on her hip, “am a delicate flower.”
 “You aren’t a flower, you’re every blossom in the wood blooming at once. You are a tidal wave. You’re a stampede. You are overwhelming.”
 ― Leigh Bardugo, Crooked Kingdom
-> 
 
-> “You’re stupid about a lot of things, Wylan, but you are not stupid. And if I ever hear you call yourself a moron again, I’m going to tell Matthias you tried to kiss Nina. With tongue.”
+“You’re stupid about a lot of things, Wylan, but you are not stupid. And if I ever hear you call yourself a moron again, I’m going to tell Matthias you tried to kiss Nina. With tongue.”
 Wylan wiped his nose on his sleeve. “He’ll never believe it.”
 “Then I’ll tell Nina you tried to kiss Matthias. With tongue.”
 ― Leigh Bardugo, Crooked Kingdom.
-> 
 
-> “He thumbed quickly through the ledger and said, “When people see a cripple walking down the street, leaning on his cane, what do they feel?” Wylan looked away. People always did when Kaz talked about his limp, as if he didn’t know what he was or how the world saw him. “They feel pity. Now, what do they think when they see me coming?”
+“He thumbed quickly through the ledger and said, “When people see a cripple walking down the street, leaning on his cane, what do they feel?” Wylan looked away. People always did when Kaz talked about his limp, as if he didn’t know what he was or how the world saw him. “They feel pity. Now, what do they think when they see me coming?”
 Wylan’s mouth quirked up at the corner. “They think they’d better cross the street.”
 Kaz tossed the ledger back in the safe. “You’re not weak because you can’t read. You’re weak because you’re afraid of people seeing your weakness. You’re letting shame decide who you are.”
 ― Leigh Bardugo, Crooked Kingdom
-> 
 
 “Until this moment, Wylan hadn't quite understood how much they meant to him. His father would have sneered at these thugs and thieves, a disgraced soldier, a gambler who couldn't keep out of the red. But they were his first friends, his only friends, and Wylan knew that even if he'd had his pick of a thousand companions, these would have been the people he chose.”
 ― Leigh Bardugo, Crooked Kingdom
 
-> “You can only sharpen a blade so far,” Kaz said as he joined them at the front of the church. “In the end, it comes down to the quality of the metal.”
+“You can only sharpen a blade so far,” Kaz said as he joined them at the front of the church. “In the end, it comes down to the quality of the metal.”
 ― Leigh Bardugo, Crooked Kingdom
-> 
 
 “Jesper shrugged again. He adjusted the buttons on his shirt, touched his thumbs to his revolvers. When he felt like this, mad and scattered, it was as if his hands had a life of their own. His whole body itched. He needed to get out of this room.
 Wylan laid his hand on Jesper’s shoulder. “Stop.”

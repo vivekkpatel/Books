@@ -4,16 +4,13 @@ title: The Night Circus
 
 # The Night Circus by Erin Morgenstern
 
-> “The finest of pleasures are always the unexpected ones.”
+“The finest of pleasures are always the unexpected ones.”
 ― Erin Morgenstern, The Night Circus
-> 
 
-> “Because everything requires energy,” she recites obediently, eyes still focused on her hand. “We must put effort and energy into anything we wish to change. ― Erin Morgenstern, The Night Circus
-> 
+“Because everything requires energy,” she recites obediently, eyes still focused on her hand. “We must put effort and energy into anything we wish to change. ― Erin Morgenstern, The Night Circus
 
-> “Someone needs to tell those tales. When the battles are fought and won and lost, when the pirates find their treasures and the dragons eat their foes for breakfast with a nice cup of Lapsang souchong, someone needs to tell their bits of overlapping narrative. There's magic in that. It's in the listener, and for each and every ear it will be different, and it will affect them in ways they can never predict. From the mundane to the profound. **You may tell a tale that takes up residence in someone's soul, becomes their blood and self and purpose. That tale will move them and drive them and who knows what they might do because of it, because of your words. That is your role, your gift.** Your sister may be able to see the future, but you yourself can shape it, boy. Do not forget that... there are many kinds of magic, after all.”
+“Someone needs to tell those tales. When the battles are fought and won and lost, when the pirates find their treasures and the dragons eat their foes for breakfast with a nice cup of Lapsang souchong, someone needs to tell their bits of overlapping narrative. There's magic in that. It's in the listener, and for each and every ear it will be different, and it will affect them in ways they can never predict. From the mundane to the profound. **You may tell a tale that takes up residence in someone's soul, becomes their blood and self and purpose. That tale will move them and drive them and who knows what they might do because of it, because of your words. That is your role, your gift.** Your sister may be able to see the future, but you yourself can shape it, boy. Do not forget that... there are many kinds of magic, after all.”
 ― Erin Morgenstern, The Night Circus
-> 
 
 “People see what they wish to see. And in most cases, what they are told that they see.”
 ― Erin Morgenstern, The Night Circus

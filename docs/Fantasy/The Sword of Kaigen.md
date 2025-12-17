@@ -4,13 +4,11 @@ title: The Sword of Kaigen
 
 # The Sword of Kaigen by M.L. Wang
 
-> “You learn over time that the world isn’t broken. It’s just… got more pieces to it than you thought. They all fit together, just maybe not the way you pictured when you were young.” 
+“You learn over time that the world isn’t broken. It’s just… got more pieces to it than you thought. They all fit together, just maybe not the way you pictured when you were young.” 
 ― M.L. Wang, The Sword of Kaigen
-> 
 
-> “Wholeness, she had learned, was not the absence of pain but the ability to hold it.” 
+“Wholeness, she had learned, was not the absence of pain but the ability to hold it.” 
 ― M.L. Wang, The Sword of Kaigen
-> 
 
 “I’ve never needed a sword to protect you—to raise you the way your father wanted. Caring for my family meant putting away the fighter, so I did.” 
 

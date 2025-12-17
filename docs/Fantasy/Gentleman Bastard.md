@@ -6,14 +6,12 @@ title: Gentleman Bastard
 
 ## The Lies of Locke Lamora
 
-> “Someday, Locke Lamora,” he said, “someday, you’re going to fuck up so magnificently, so ambitiously, so overwhelmingly that the sky will light up and the moons will spin and the gods themselves will shit comets with glee. And I just hope I’m still around to see it.”
+“Someday, Locke Lamora,” he said, “someday, you’re going to fuck up so magnificently, so ambitiously, so overwhelmingly that the sky will light up and the moons will spin and the gods themselves will shit comets with glee. And I just hope I’m still around to see it.”
 “Oh please,” said Locke. “It’ll never happen.”
 ― Scott Lynch, The Lies of Locke Lamora
-> 
 
-> “There’s no freedom quite like the freedom of being constantly underestimated.”
+“There’s no freedom quite like the freedom of being constantly underestimated.”
 ― Scott Lynch, The Lies of Locke Lamora
-> 
 
 “... It's perfect! Locke would appreciate it."
 
@@ -44,13 +42,11 @@ At last the ritual came to Bug; the boy raised his glass a bit shakily and yelle
 
 </aside>
 
-> “I don't have to beat you. I don't have to beat you, motherfucker. I just have to keep you here... until Jean shows up.”
+“I don't have to beat you. I don't have to beat you, motherfucker. I just have to keep you here... until Jean shows up.”
 ― Scott Lynch, The Lies of Locke Lamora
-> 
 
-> “I've got kids that enjoy stealing. I've got kids that don't think about stealing one way or the other, and I've got kids that just tolerate stealing because they know they've got nothing else to do. But nobody--and I mean nobody--has ever been hungry for it like this boy. If he had a bloody gash across his throat and a physiker was trying to sew it up, Lamora would steal the needle and thread and die laughing. He...steals too much.”
+“I've got kids that enjoy stealing. I've got kids that don't think about stealing one way or the other, and I've got kids that just tolerate stealing because they know they've got nothing else to do. But nobody--and I mean nobody--has ever been hungry for it like this boy. If he had a bloody gash across his throat and a physiker was trying to sew it up, Lamora would steal the needle and thread and die laughing. He...steals too much.”
 ― Scott Lynch, The Lies of Locke Lamora
-> 
 
 “I’m only doing this,” he said, “because I really love hiding in haunted Eldren buildings on dark and creepy nights.”
 “You’re a liar,” said Jean, slowly. “I’m only doing this because I’ve always wanted to see Bug get eaten by an Eldren ghost.”

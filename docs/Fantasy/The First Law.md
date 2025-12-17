@@ -69,13 +69,11 @@ He looked down at his hands, pink and clean on the stone. “There are few men w
 
 One should treat everyone with same respect , one should like everyone treat himself. Treat others as you would like to treated.
 
-> “I have learned all kinds of things from my many mistakes. The one thing I never learn is to stop making them.”
+“I have learned all kinds of things from my many mistakes. The one thing I never learn is to stop making them.”
 ― Joe Abercrombie, Last Argument of Kings
-> 
 
-> “Travel brings wisdom only to the wise. It renders the ignorant more ignorant than ever.”
+“Travel brings wisdom only to the wise. It renders the ignorant more ignorant than ever.”
 ― Joe Abercrombie, Last Argument of Kings
-> 
 
 “You have to realistic about these things.”
 ― Joe Abercrombie, Last Argument of Kings

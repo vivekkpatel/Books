@@ -5,30 +5,25 @@ title: The Kingkiller Chronicle
 # The Kingkiller Chronicle
 
 ## The Name of the Wind
-> When we are children we seldom think of the future. This innocence leaves us free to enjoy ourselves as few adults can. The day we fret about the future is the day we leave our childhood behind.
----
-> “There are two sure ways to lose a friend, one is to borrow, the other to lend.”
----
+When we are children we seldom think of the future. This innocence leaves us free to enjoy ourselves as few adults can. The day we fret about the future is the day we leave our childhood behind.
+“There are two sure ways to lose a friend, one is to borrow, the other to lend.”
 PERHAPS THE GREATEST FACULTY our minds possess is the ability to cope with pain. Classic thinking teaches us of the four doors of the mind, which everyone moves through according to their need. First is the door of sleep. Sleep offers us a retreat from the world and all its pain. Sleep marks passing time, giving us distance from the things that have hurt us. When a person is wounded they will often fall unconscious. Similarly, someone who hears traumatic news will often swoon or faint. This is the mind’s way of protecting itself from pain by stepping through the first door. Second is the door of forgetting. Some wounds are too deep to heal, or too deep to heal quickly. In addition, many memories are simply painful, and there is no healing to be done. The saying “time heals all wounds” is false. Time heals most wounds. The rest are hidden behind this door. Third is the door of madness. There are times when the mind is dealt such a blow it hides itself in insanity. While this may not seem beneficial, it is. There are times when reality is nothing but pain, and to escape that pain the mind must leave reality behind. Last is the door of death. The final resort. Nothing can hurt us after we are dead, or so we have been told.
 
-> “It's like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story.”
+“It's like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story.”
 ― Patrick Rothfuss, The Name of the Wind
-> 
 
-> “Perhaps the greatest faculty our minds possess is the ability to cope with pain. Classic thinking teaches us of the four doors of the mind, which everyone moves through according to their need.
+“Perhaps the greatest faculty our minds possess is the ability to cope with pain. Classic thinking teaches us of the four doors of the mind, which everyone moves through according to their need.
 First is the door of sleep. Sleep offers us a retreat from the world and all its pain. Sleep marks passing time, giving us distance from the things that have hurt us. When a person is wounded they will often fall unconscious. Similarly, someone who hears traumatic news will often swoon or faint. This is the mind's way of protecting itself from pain by stepping through the first door.
 Second is the door of forgetting. Some wounds are too deep to heal, or too deep to heal quickly. In addition, many memories are simply painful, and there is no healing to be done. The saying 'time heals all wounds' is false. Time heals most wounds. The rest are hidden behind this door.
 Third is the door of madness. There are times when the mind is dealt such a blow it hides itself in insanity. While this may not seem beneficial, it is. There are times when reality is nothing but pain, and to escape that pain the mind must leave reality behind.
 Last is the door of death. The final resort. Nothing can hurt us after we are dead, or so we have been told.”
 ― Patrick Rothfuss, The Name of the Wind
-> 
 
 “I have known her longer, my smile said. True, you have been inside the circle of her arms, tasted her mouth, felt the warmth of her, and that is something I have never had. But there is a part of her that is only for me. You cannot touch it, no matter how hard you might try. And after she has left you I will still be here, making her laugh. My light shining in her. I will still be here long after she has forgotten your name.”
 ― Patrick Rothfuss, The Name of the Wind
 
-> “There are two sure ways to lose a friend, one is to borrow, the other is to lend.”
+“There are two sure ways to lose a friend, one is to borrow, the other is to lend.”
 ― Patrick Rothfuss, The Name of the Wind
-> 
 
 There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.
 
@@ -55,38 +50,29 @@ He watched it for a while, his expression oddly soft. “But I do not hope,” h
 
 ## The Wise Man's Fear 
 
-> “It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers.”
+“It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers.”
 ― Patrick Rothfuss, The Wise Man's Fear
-> 
 
-> “It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That's as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.”
+“It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That's as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.”
 ― Patrick Rothfuss, The Wise Man's Fear
-> 
 
 “You can divide infinity an infinite number of times, and the resulting pieces will still be infinitely large,” Uresh said in his odd Lenatti accent. “But if you divide a non-infinite number an infinite number of times the resulting pieces are non-infinitely small. Since they are non-infinitely small, but there are an infinite number of them, if you add them back together, their sum is infinite. This implies any number is, in fact, infinite.”
 “Wow,” Elodin said after a long pause. He leveled a serious finger at the Lenatti man. “Uresh. Your next assignment is to have sex. If you do not know how to do this, see me after class.”
 ― Patrick Rothfuss, The Wise Man's Fear
 
-> yes. It had flaws, but **what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That’s as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.**
+yes. It had flaws, but **what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That’s as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.**
 - The Wise Man's Fear (The Kingkiller Chronicle, Book 2) (Rothfuss, Patrick)
-> 
 
-> “Remember: there are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”
+“Remember: there are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”
 ― Patrick Rothfuss, The Wise Man's Fear
-> 
 
 “Teccam said the same thing: no man is brave that has never walked a hundred miles. If you want to know the truth of who you are, walk until not a person knows your name. Travel is the great leveler, the great teacher, bitter as medicine, crueler than mirror-glass. A long stretch of road will teach you more about yourself than a hundred years of quiet introspection.”
 
-> It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That’s as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.
----
-> “Remember: there are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”
----
-> nothing in the world is harder than convincing someone of an unfamiliar truth.
----
-> “It’s the questions we can’t answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he’ll look for his own answers.”
----
-> “Teccam said the same thing: no man is brave that has never walked a hundred miles. If you want to know the truth of who you are, walk until not a person knows your name. Travel is the great leveler, the great teacher, bitter as medicine, crueler than mirror-glass. A long stretch of road will teach you more about yourself than a hundred years of quiet introspection.”
----
+It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That’s as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.
+“Remember: there are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”
+nothing in the world is harder than convincing someone of an unfamiliar truth.
+“It’s the questions we can’t answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he’ll look for his own answers.”
+“Teccam said the same thing: no man is brave that has never walked a hundred miles. If you want to know the truth of who you are, walk until not a person knows your name. Travel is the great leveler, the great teacher, bitter as medicine, crueler than mirror-glass. A long stretch of road will teach you more about yourself than a hundred years of quiet introspection.”
 
 
 

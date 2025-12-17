@@ -15,12 +15,12 @@ title: AnimalFarm
 
 ## Quotes
 
-> “All animals are equal, but some animals are more equal than others.”
+“All animals are equal, but some animals are more equal than others.”
 
-> “Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs, he is too weak to pull the plough, he cannot run fast enough to catch rabbits. Yet he is lord of all the animals. He sets them to work, he gives back to them the bare minimum that will prevent them from starving, and the rest he keeps for himself.”
+“Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs, he is too weak to pull the plough, he cannot run fast enough to catch rabbits. Yet he is lord of all the animals. He sets them to work, he gives back to them the bare minimum that will prevent them from starving, and the rest he keeps for himself.”
 
-> “The only good human being is a dead one.”
+“The only good human being is a dead one.”
 
-> “Several of them would have protested if they could have found the right arguments.”
+“Several of them would have protested if they could have found the right arguments.”
 
-> “No one believes more firmly than Comrade Napoleon that all animals are equal. He would be only too happy to let you make your decisions for yourselves. But sometimes you might make the wrong decisions, comrades, and then where should we be?”
+“No one believes more firmly than Comrade Napoleon that all animals are equal. He would be only too happy to let you make your decisions for yourselves. But sometimes you might make the wrong decisions, comrades, and then where should we be?”

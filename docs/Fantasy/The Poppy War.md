@@ -6,25 +6,20 @@ title: The Poppy War
 
 ## The Poppy War
 
-> “War doesn't determine who's right. War determines who remains.” 
+“War doesn't determine who's right. War determines who remains.” 
 ― R.F. Kuang, The Poppy War
-> 
 
-> “Children ceased to be children when you put a sword in their hands. When you taught them to fight a war, then you armed them and put them on the front lines, they were not children anymore. They were soldiers.”
+“Children ceased to be children when you put a sword in their hands. When you taught them to fight a war, then you armed them and put them on the front lines, they were not children anymore. They were soldiers.”
 ― R.F. Kuang, The Poppy War
-> 
 
-> “We aren’t here to be sophisticated. We’re here to fuck people up.”
+“We aren’t here to be sophisticated. We’re here to fuck people up.”
 ― R.F. Kuang, The Poppy War
-> 
 
-> “I have become something wonderful, she thought. I have become something terrible. Was she now a goddess or a monster? Perhaps neither. Perhaps both.”
+“I have become something wonderful, she thought. I have become something terrible. Was she now a goddess or a monster? Perhaps neither. Perhaps both.”
 ― R.F. Kuang, The Poppy War
-> 
 
-> “They were monsters!" Rin shrieked. "They were not human!" "Have you ever considered" he said slowly "that that was exactly what they though of us?” 
+“They were monsters!" Rin shrieked. "They were not human!" "Have you ever considered" he said slowly "that that was exactly what they though of us?” 
 ― R.F. Kuang, The Poppy War
-> 
 
 “Great danger is always associated with great power. The difference between the great and the mediocre is that the great are willing to take the risk.” 
 ― R.F. Kuang, The Poppy War

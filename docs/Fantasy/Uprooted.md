@@ -10,9 +10,8 @@ title: Uprooted
 “I don't want more sense!" I said loudly, beating against the silence of the room. "Not if sense means I'll stop loving anyone. What is there besides people that's worth holding on to?”
 ― Naomi Novik, Uprooted
 
-> “It comes, I suppose,” I said thoughtfully, speaking to the air, “of spending too much time alone indoors, and forgetting that living things don’t always stay where you put them.”
+“It comes, I suppose,” I said thoughtfully, speaking to the air, “of spending too much time alone indoors, and forgetting that living things don’t always stay where you put them.”
 ― Naomi Novik, Uprooted
-> 
 
 “I didn't properly think about what was happening even as I kissed him back, my laughter spilling into his mouth and making stutters of my kisses. I was still bound up with him, our magic snarled up into great messy tangled knots. I didn't have anything to compare that intimacy to. I'd felt the hot embarrassment of it, but I'd thought of it vaguely like being naked in front of a stranger. I hadn't connected it to sex—sex was poetic references in songs, my mother's practical instructions, and those few awful hideous moments in the tower with Prince Marek, where I might as well have been a rag doll as far as he'd cared. But now I toppled the Dragon over, clutching at his shoulders. As we fell his thigh pressed between mine, through my skirts, and in one shuddering jolt I began to form a startled new understanding.”
 ― Naomi Novik, Uprooted
