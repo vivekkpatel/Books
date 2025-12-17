@@ -5,18 +5,17 @@ title: Trade Your Way to Financial Freedom
 
 ## Quotes 
 
-> We typically trade our beliefs about the market, and once we’ve made up our minds about those beliefs, we’re not likely to change them. And when we play the markets, we assume that we are considering all of the available information. Instead, our beliefs, through selective perception, may have eliminated the most useful information.
-> - Van K Tharp, Trade your way to financial freedom
+We typically trade our beliefs about the market, and once we’ve made up our minds about those beliefs, we’re not likely to change them. And when we play the markets, we assume that we are considering all of the available information. Instead, our beliefs, through selective perception, may have eliminated the most useful information.
+- Van K Tharp, Trade your way to financial freedom
 
 
-> You don’t trade or invest in markets. You trade or invest according to your beliefs about the markets
-> - Van K Tharp, Trade your way to financial freedom
+You don’t trade or invest in markets. You trade or invest according to your beliefs about the markets
+- Van K Tharp, Trade your way to financial freedom
 
 ## Chapter 2: Judgmental Biases
 
-> We typically trade our beliefs about the market, and once we’ve made up our minds about those beliefs, we’re not likely to change them. And when we play the markets, we assume that we are considering all of the available information. Instead, our beliefs, through selective perception, may have eliminated the most useful information.
+We typically trade our beliefs about the market, and once we’ve made up our minds about those beliefs, we’re not likely to change them. And when we play the markets, we assume that we are considering all of the available information. Instead, our beliefs, through selective perception, may have eliminated the most useful information.
 - Van K Tharp, Trade your way to financial freedom
-> 
 
 # Biases That Affect How you Trade your system
 
@@ -53,9 +52,8 @@ This chapter mostly explain about how to setup your personal system by questions
 
 ## Chapter 4: Steps to developing a system
 
-> You don’t trade or invest in markets. You trade or invest according to your beliefs about the markets
+You don’t trade or invest in markets. You trade or invest according to your beliefs about the markets
 - Van K Tharp, Trade your way to financial freedom
-> 
 
 This entire chapter explain how to develop your system, how to review it , its good for beginners but i already have good system in place
 

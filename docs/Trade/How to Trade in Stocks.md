@@ -9,8 +9,7 @@ After the market has been in definite trend for a given period, a bullish or bea
 
 At such times you must entirely ignore personal opinion and apply strict attention to the action of the market itself. 
 
-> “Markets are never wrong, Opinions often are”
-> 
+“Markets are never wrong, Opinions often are”
 
 ### Example
 
@@ -20,8 +19,7 @@ As long as stock is acting right, and the market is right, do not be in hurry to
 
 On the other hand if stock goes to 28 on next day. you would not be fearful that the next day would be 3 point loss or more. You would not be fearful that next day would possibly see a three-point loss or more. No, you would regard it merely as a temporary reaction, feeling certain that the next day it would recover its loss. But that is the time that you should be worried. That two-point loss could be followed by two points the next day, or possibly five or ten within the next week or two. That is when you should be fearful, because if you did not get out, you might be forced to take a much greater loss later on. That is the time you should protect yourself by selling your stock before the loss assumes larger proportions.
 
-> “Profits always take care of themselves but losses never do”.
-> 
+“Profits always take care of themselves but losses never do”.
 
 ### How I buy stocks
 
@@ -29,9 +27,8 @@ This may surprise many to know that in my mththod of trading, when i see by my r
 
 The Same Applies whenever I take the short side.why? because I am following the trend at the time. I never buy on reactions or go short on rallies.
 
-> One the other point: “It is foolhardy to make a second trade, if your first trade shows you a loss.” 
-> “Never average losses.”
->
+One the other point: “It is foolhardy to make a second trade, if your first trade shows you a loss.” 
+“Never average losses.”
 
 ## Chapter 2: When Does a Stock Act Right?
 

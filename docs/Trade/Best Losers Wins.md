@@ -14,9 +14,8 @@ They went for some event where his boss client asked him about company named Mar
 
 Author reply
 
-> Marconi is garbage, gentleman. why are you chasing  stocks that have fallen in price? the stock market is not like supermarket, where it make sense to buy toilet paper when there is a sale on.
+Marconi is garbage, gentleman. why are you chasing  stocks that have fallen in price? the stock market is not like supermarket, where it make sense to buy toilet paper when there is a sale on.
 Sure, it makes sense to buy toilet paper at 50% discount, but it makes no sense to buy a stock that has fallen more than 50%. Concept like cheap and expensive may work in the world of grocery shopping but not in the financial market.
-> 
 
 ### what this is about?
 
@@ -52,9 +51,8 @@ one of my friend has followed one of my trade where i was in good profit. but my
 
 response from author to is friend
 
-> i think you are trading yesterday’s experience. you haven’t wiped the mind slate clean. you are not present. you are focused on the past. you are trying to get back to an emotional equilibrium. you’re in a state of imbalance because you are unable to shake the loss from yesterday. as a result, you are not judging the trade on its own merit, but on the merit of a past trade. you are not seeing the world as it is. you are seeing it as you are.
+i think you are trading yesterday’s experience. you haven’t wiped the mind slate clean. you are not present. you are focused on the past. you are trying to get back to an emotional equilibrium. you’re in a state of imbalance because you are unable to shake the loss from yesterday. as a result, you are not judging the trade on its own merit, but on the merit of a past trade. you are not seeing the world as it is. you are seeing it as you are.
 i understand it’s soothing to close the trade. however, we are not trading to break even. we are trading to make money.
-> 
 
 ### The Role of Charts
 
@@ -94,8 +92,7 @@ this is story about guy name charlie d, he is legend in trading pit.
 
 some quotes form his biography
 
-> The time you know you’ve become a good trader is that first day you were able to win by holding and adding to a winning position. there are many people here that have traded for long time, and who have never added to a winner
-> 
+The time you know you’ve become a good trader is that first day you were able to win by holding and adding to a winning position. there are many people here that have traded for long time, and who have never added to a winner
 
 Adding to wininng trades is an absolute key trait of the successful trader. It reinforces correct behaviour. It servers as an antidote to the temptation of wanting to take profit. when i am in profitable position, i have trained my mind to ask, “how can i make my position bigger?” rather than dwelling on the idea of taking profits.
 

@@ -15,9 +15,8 @@ title: The Martian
 LOG ENTRY: SOL 61 How come Aquaman can control whales? They’re mammals! Makes no sense.”
 ― Andy Weir, The Martian
 
-> “I guess you could call it a "failure", but I prefer the term "learning experience".”
+“I guess you could call it a "failure", but I prefer the term "learning experience".”
 ― Andy Weir, The Martian.
-> 
 
 “I started the day with some nothin’ tea. Nothin’ tea is easy to make. First, get some hot water, then add nothin’.”
 ― Andy Weir, The Martian

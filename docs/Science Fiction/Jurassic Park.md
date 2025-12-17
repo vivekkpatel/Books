@@ -10,26 +10,22 @@ title: Jurassic Park
 “The planet has survived everything, in its time. It will certainly survive us.”
 ― Michael Crichton, Jurassic Park
 
-> “In the information society, nobody thinks. We expected to banish paper, but we actually banished thought.”
+“In the information society, nobody thinks. We expected to banish paper, but we actually banished thought.”
 ― Michael Crichton, Jurassic Park
-> 
 
 “Living systems are never in equilibrium. They are inherently unstable. They may seem stable, but they’re not. Everything is moving and changing. In a sense, everything is on the edge of collapse.”
 ― Michael Crichton, Jurassic Park
 
-> “Scientists are actually preoccupied with accomplishment. So they are focused on whether they can do something. They never stop to ask if they should do something. They conveniently define such considerations as pointless. If they don’t do it, someone else will. Discovery, they believe, is inevitable. So they just try to do it first. That’s the game in science. Even pure scientific discovery is an aggressive, penetrative act. It takes big equipment, and it literally changes the world afterward. Particle accelerators scar the land, and leave radioactive byproducts. Astronauts leave trash on the moon. There is always some proof that scientists were there, making their discoveries. Discovery is always a rape of the natural world. Always.”
+“Scientists are actually preoccupied with accomplishment. So they are focused on whether they can do something. They never stop to ask if they should do something. They conveniently define such considerations as pointless. If they don’t do it, someone else will. Discovery, they believe, is inevitable. So they just try to do it first. That’s the game in science. Even pure scientific discovery is an aggressive, penetrative act. It takes big equipment, and it literally changes the world afterward. Particle accelerators scar the land, and leave radioactive byproducts. Astronauts leave trash on the moon. There is always some proof that scientists were there, making their discoveries. Discovery is always a rape of the natural world. Always.”
 ― Michael Crichton, Jurassic Park
-> 
 
-> “You know what's wrong with scientific power?... It's a form of inherited wealth... Most kinds of power require a substantial sacrifice by whoever wants the power. There is an apprenticeship, a discipline lasting many years. Whatever kind of power you want. President of the company. Black belt in karate. Spiritual Guru. Whatever it is you seek, you have to put in the time, the practice, the effort. You must give up a lot to get it. It has to be very important to you. And once you have attained it, it is your power. It can't be given away: it resides in you. It is literally the result of your discipline. Now, what is interesting about this process is that, by the time someone has acquired the ability to his with his bare hands, he has also matured to the point where he won't use it unwisely. So that kind of power has a built-in control. The discipline of the getting the power changes you so that you won't abuse it. But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step... There is no discipline... no mastery: old scientists are ignored. There is no humility before nature... A karate master does not kill people with his bare hands. He does not lose his temper and kill his wife. The person who kills is the person who has no discipline, no restraint, and who has purchased his power in the form of a Saturday night special. And that is the kind of power that science fosters, and permits.”
+“You know what's wrong with scientific power?... It's a form of inherited wealth... Most kinds of power require a substantial sacrifice by whoever wants the power. There is an apprenticeship, a discipline lasting many years. Whatever kind of power you want. President of the company. Black belt in karate. Spiritual Guru. Whatever it is you seek, you have to put in the time, the practice, the effort. You must give up a lot to get it. It has to be very important to you. And once you have attained it, it is your power. It can't be given away: it resides in you. It is literally the result of your discipline. Now, what is interesting about this process is that, by the time someone has acquired the ability to his with his bare hands, he has also matured to the point where he won't use it unwisely. So that kind of power has a built-in control. The discipline of the getting the power changes you so that you won't abuse it. But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step... There is no discipline... no mastery: old scientists are ignored. There is no humility before nature... A karate master does not kill people with his bare hands. He does not lose his temper and kill his wife. The person who kills is the person who has no discipline, no restraint, and who has purchased his power in the form of a Saturday night special. And that is the kind of power that science fosters, and permits.”
 Hammond: It was simple.
 Malcolm: Then why did it go wrong?”
 ― Michael Crichton, Jurassic Park
-> 
 
-> “You know what's wrong with scientific power? It's a form of inherited wealth. And you know what assholes congenitally rich people are.”
+“You know what's wrong with scientific power? It's a form of inherited wealth. And you know what assholes congenitally rich people are.”
 ― Michael Crichton, Jurassic Park
-> 
 
 “Ellie said, "Isn't it a little warm for black?"
 

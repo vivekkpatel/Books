@@ -1,4 +1,4 @@
-﻿---
+---
 title: Secrets For Profiting in Bull and Bear Markets
 ---
 
@@ -15,7 +15,7 @@ By consistently following my methods, you will be right a very high percentage o
 - Never hold a stock that is in a downtrend no matter how low the price/earnings ratio. Many weeks later and several points lower, you'll find out why the stock was going down.
 - Always be consistent. If you find that you're sometimes buying, sometimes selling in practically identical situations, then there is something terribly wrong with your discipline
 
-### Letâ€™s all Speak the Same Language
+### Let’s all Speak the Same Language
 
 ![Untitled](1%20It%20All%20Starts%20Here/Untitled.png)
 
@@ -63,7 +63,6 @@ By consistently following my methods, you will be right a very high percentage o
     - This is the most misunderstood and underutilized of techniques. The pros use it, but nine out of ten individual investors have never even tried it. Short selling is placing a sell order for shares you do not currently own in the expectation that the share price will drop in the future.
     - If you sell short XYZ at 20, you simply borrow the shares from your broker for delivery to the buyer. If XYZ drops to 10, as you'd expected, you then buy XYZ shares in the market to replace those you owe your broker. In the process you make $10 per share.
 
----
 ## 2: One Glance is Worth a Thousand Earnings Forecasts
 
 ## Stage Cycle
@@ -114,9 +113,7 @@ The question that usually pops up at this point during my seminars is "Can you a
 
 Finally, this method is very helpful when you want to do mutual-fund switching. It is particularly useful with both no-load and low-load sector fund trading. The sector fund is an investment vehicle that you should learn how to use.
 
-> By now, no matter how addicted you are to fundamental analysis, I hope that you see the value of my technical method. As the chapters go on, you'll become more confident and proficient in applying it. So keep reading, digesting, and reflecting. And the next time you hear someone quickly dismiss technical analysis as voodoo or worse, smile to yourself, but don't argue. It's important that investors disagree. If everyone used the technical method and had the same bullish or bearish opinion, they wouldn't be able to open the market tomorrow. Also, we need an uninformed majority if we are to realize outstanding profits in the market.
->
----
+By now, no matter how addicted you are to fundamental analysis, I hope that you see the value of my technical method. As the chapters go on, you'll become more confident and proficient in applying it. So keep reading, digesting, and reflecting. And the next time you hear someone quickly dismiss technical analysis as voodoo or worse, smile to yourself, but don't argue. It's important that investors disagree. If everyone used the technical method and had the same bullish or bearish opinion, they wouldn't be able to open the market tomorrow. Also, we need an uninformed majority if we are to realize outstanding profits in the market.
 ## 3: The Ideal Time to Buy
 
 ## HOW, WHEN, AND WHAT
@@ -192,14 +189,13 @@ It is really a three-part equation that I call my "Forest to the Trees" approach
 If you follow this three-step process, you will find yourself heavily invested in the best acting stocks when the market is powering ahead, and sitting on large cash reserves when the overall trend turns bearish
 
 ## HOW TO IMPLEMENT THE STRATEGY
----
 ## 4: Refining the Buying Process
 
 ## THE LESS RESISTANCE THE BETTER
 
 ![Untitled](4%20Refining%20the%20Buying%20Process/Untitled.png)
 
-You are now seasoned enough to know that this stock is a buy. But do you want to purchase it? Not necessarily. Even though the probabilities are very strong that this stock is going to advance and you'll make money, that isn't enough. At first this may sound crazy to you. I wouldn't be surprised to hear you say, "What is Stan talking about? I've bought a bunch of dogs that have gone down before I've gotten my confirmation slip. Now he's telling me that this stock is going to advance and I shouldn't buy it!â€
+You are now seasoned enough to know that this stock is a buy. But do you want to purchase it? Not necessarily. Even though the probabilities are very strong that this stock is going to advance and you'll make money, that isn't enough. At first this may sound crazy to you. I wouldn't be surprised to hear you say, "What is Stan talking about? I've bought a bunch of dogs that have gone down before I've gotten my confirmation slip. Now he's telling me that this stock is going to advance and I shouldn't buy it!”
 
 There's a concept in economics called opportunity costs which applies perfectly here. Taking away all of the fancy ivory-tower jargon, it means that we all have limited resources, whether it be $25,000 or $25 million. So we must maximize our resources-which, in this case, is your market stake. If we buy stock XYZ and it advances 20 percent, but stock ABC in the same time period gains 200 percent, we have actually lost profit-making potential. Therefore, what we want to do is to uncover the A + stocks and play those while leaving the Bs and Cs alone for others.
 
@@ -213,8 +209,7 @@ So now let's look at Chart 4-2 of stock ABC. It's in the same group as XYZ and i
 
 Volume is a gauge of how powerful the buyers are. As I said earlier, stocks can fall of their own weight, but to advance it takes plenty of buying power. It's no different from pushing a boulder up a hill. It takes a tremendous expenditure of energy to move it up the hill, but once you let it go, it can build up plenty of downside momentum on its own.
 
-> The rule is very simple. Never trust a breakout that isn't accompanied by a significant increase in volume.
-> 
+The rule is very simple. Never trust a breakout that isn't accompanied by a significant increase in volume.
 
 ![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%202.png)
 
@@ -222,7 +217,7 @@ Chart 4-7 shows exactly how a technically healthy pattern should unfold volumewi
 
 Once XYZ breaks out above the top ofits resistance area and moves above its 30-week MA, I want you to worry plenty about volume. As Chart 4-7 shows, volume should pick up significantly on the breakout. If it doesn't, the probabilities are very high, that at best, you've got a mediocre winner on your hands that will advance only a few points. At worst, the stock will turn out to be a false breakout that will soon be back in the trading range.
 
-, I look for the following: either a one-week volume spike that is at least twice the average volume of the past month (preferably it is even higher), or a volume build-up over the past three to four weeks that is at least twice the average volume of the past several weeks coupled with at least some increase on the breakout week.â€™ Whatever the exact number, if there is no significant increase in volume when the breakout occurs, then avoid that stock.
+, I look for the following: either a one-week volume spike that is at least twice the average volume of the past month (preferably it is even higher), or a volume build-up over the past three to four weeks that is at least twice the average volume of the past several weeks coupled with at least some increase on the breakout week.’ Whatever the exact number, if there is no significant increase in volume when the breakout occurs, then avoid that stock.
 
 ## IT'S ALL RELATIVE
 
@@ -287,13 +282,11 @@ What a big base really means is that a lot of stock has changed hands during the
 
 Now that you know what to buy and what not to buy, there is one last topic to cover: diversification. No matter how expert you become with my system, don't ever expect to achieve perfection. The future is too uncertain. It is feasible to be right a very high percentage ofthe time. But that implies being wrong now and then. Prudence dictates that you spread your risks over a number of stocks. That prevents one unfortunate choice from dealing you a crippling blow.
 
-> There is no single magic number! But there is an approximate area which makes sense to me. I know that one or two stocks is far too dangerous an allocation of capital. I also believe that 40 to 50 stocks are far too many issues to keep track of. Keeping a watchful eye properly focused on your portfolio is a lot like being a parent. The more children you are responsible for, the harder it is to keep close tabs on them. So too with stocks. If your market assets are allocated among 50 stocks, it is very difficult to get a feel for how each one is acting. In addition, there is the tendency to concentrate on the issues that are acting well and put aside your concern about the laggards, figuring they will come to life later. What happens is that you let the good stocks subsidize the bad ones.
-> 
+There is no single magic number! But there is an approximate area which makes sense to me. I know that one or two stocks is far too dangerous an allocation of capital. I also believe that 40 to 50 stocks are far too many issues to keep track of. Keeping a watchful eye properly focused on your portfolio is a lot like being a parent. The more children you are responsible for, the harder it is to keep close tabs on them. So too with stocks. If your market assets are allocated among 50 stocks, it is very difficult to get a feel for how each one is acting. In addition, there is the tendency to concentrate on the issues that are acting well and put aside your concern about the laggards, figuring they will come to life later. What happens is that you let the good stocks subsidize the bad ones.
 
 The proper way to look at your stocks is to make believe that each position is the only one you have. If it's acting fine, great, ride with it. But if it's lagging badly and acting poorly, lighten up on that position even if the sell-stop isn't hit. Move the proceeds into a new Stage 2 stock with greater promise. To be more specific, for a small portfolio that's investing a modest amount ($10,000 to $25,000), I'd diversify into no more than five or six stocks. But as you move up the ladder into six-digit or higher portfolios, ]0 to 20 stocks are the most that I'd invest in at anyone time. Also, use approximately equal dollar amounts when constructing your portfolio.
 
 Don't do all of your buying from just one group. If three or four sectors exhibit great technical action, buy Stage 2 breakouts from all of them rather than from only group A. If one group suddenly reverses, your portfolio will still do well. If you practice these two forms of diversification and properly utilize my system, you should do very well in the market year in and year out!
----
 ## 5: Uncovering exceptional winners
 
 First, let's examine the takeover dream which, for most investors, leads to financial nightmares. I've seen investors buy on rumor after rumor and have not one deal pan out. Some terrible losses can pile up while they wait for the announcement that never comes. Why do so many investors chase these rainbows? It's a simple study in psychology. First, there's greed. We all want to hit that big gusher in a hurry, so we dream that maybe this time our ship will come in. Second, there's a theory in psychology called intermittent reinforcement. It says that if an animal gets what it wants, even in a small percentage of the cases, it will keep coming back for more. It's been demonstrated time and again that if a mouse gets cheese just once when going through a maze, it will try to navigate that maze over and over again, even when the cheese is no longer there. People aren't that different from animals. Why else would we play the slot machines in Las Vegas or try to win a lottery? All it takes is one jackpot going off in the casino, or one lottery winner in the headlines, and we start dreaming again.
@@ -311,7 +304,6 @@ In addition to the basic requirements of the stock being above the MA, the follo
 The second factor to focus on is relative strength (B on Chart 5-15). This is a very important tool to use in distinguishing good from great buys. For this triple-threat pattern, the RS line must be in a certain position. It should either be in negative territory or hugging the zero line in a neutral manner.
 
 If a stock has wide swings while still in its Stage I base pattern, then it's far more likely to be a ball of fire once it breaks out. Just as a high jumper gets into a low crouch before taking off up-ward, a stock that first dips and then gets up a good head of steam will be far more powerful once it leaves the starting gate. As a rule of thumb, stocks that have risen some 40 to 50 percent or more before breaking out do the best in the months ahead. But this does add some near-term risk to the breakout, which is why I stressed earlier that this kind of buying is strictly for investors rather than traders
----
 ## 6: When to Sell
 
 ## DON'TS FOR SELLING
@@ -342,9 +334,8 @@ When you set your initial stop, pay less attention to the MA and more to the pri
 
 From now on, never hold a stock without a protective sellstop. As soon as you buy an issue, immediately enter a GTC sellstop. This way you will never be left unprotected and end up with an unpleasant surprise staring you in the face when you open the evening newspaper. Also, never enter your order to buy until after you've calculated exactly where your protective stop should be placed. By getting into this habit, you will have an additional filter working for you when you narrow down your list of buy candidates
 
-> If all of the prior buy criteria that I've outlined for you are met, and you end up with three great buys, you should now check out the initial sell-stop levels. If stock A has a breakout at 20 and the sell-stop should be placed at 177/ 8, then the downside risk is 11 percent. Stock B has its breakout at 40 with a sell-stop level of 337/ 8. That's a downside risk of 15 percent. Finally, C has a breakout at 60 but a protective stop level of 567/ 8. Since that translates into a potential worst-case loss of 5 percent, all other factors being equal, stock C is your best choice from a reward/risk point of view.
+If all of the prior buy criteria that I've outlined for you are met, and you end up with three great buys, you should now check out the initial sell-stop levels. If stock A has a breakout at 20 and the sell-stop should be placed at 177/ 8, then the downside risk is 11 percent. Stock B has its breakout at 40 with a sell-stop level of 337/ 8. That's a downside risk of 15 percent. Finally, C has a breakout at 60 but a protective stop level of 567/ 8. Since that translates into a potential worst-case loss of 5 percent, all other factors being equal, stock C is your best choice from a reward/risk point of view.
 While there are occasional exceptions because a chart pattern is so outstanding, try to limit your purchases to those cases where the initial stop isn't greater than 15 percent below your purchase price.
-> 
 
 ## SELL-STOPS IN THE REAL WORLD
 
@@ -391,7 +382,6 @@ Promise yourselfthat you won't allow anyone loss to be blown out of proportion. 
 It's not enough to understand the mechanics of selling. You must also understand the winning philosophy that accompanies the methodology. Most market participants view profits and losses in a way that I can only categorize as strange. Their view also makes for odd and destructive decisions. Ask eight out of ten investors who bought stock XYZ at 40 how much they've lost now that the stock is down to 20, and they'll answer nothing! The conventional wisdom says that as long as I don't sell the stock, I haven't taken any loss; or it's just a paper loss. That's ridiculous! Your stock is only worth the price of the last print on the tape. It's an asset that can be sold any time the market is open. If you decide to cash in your chips on any given position, you can take that money and do as you wish with it. But because of this nonsensical view that a stock in which they are losing 50 percent is not a loss, they hold and hold, waiting for it to come back to even so they won't have to feel stupid. Not only are they suffering needless additional shrinkage of capital, they are missing out on the chance to shift the funds into new Stage 2 situations. The converse is also ridiculous. Ifthey bought a stock at 40 and it's run up to 80, they feel they don't have a profit because they haven't sold yet. Instead, they talk about playing with 'their' money. They should recognize that they have real profits that will be lost if not properly protected.
 
  I strongly suggest that each weekend you tabulate the value of your portfolio. Don't worry if it swings a few percent from week to week. That's the way of the market. But if you see your assets drop by 20 to 25 percent, something is wrong. If you're using sellstops, perhaps you are taking too much risk by buying stocks that are too far above their stop-loss points. If that isn't the case, then it's possible that you are taking far too many small losses in a row because the negative market climate is whipsawing you in position after position. In such a situation, just move to the sidelines until the probabilities of success become favorable.
----
 ## 7: Selling Short: The Less Travelled Read to Profits
 
 ## WHY IS SHORT SELLING SO FEARED?
@@ -519,7 +509,6 @@ After you sell your stock short and place the protective buystop, it's very impo
 If no valid trendline forms (one that hits at least three points), then simply use the trading buy-stop technique. When a clear-cut trendline does form, it certainly pays to utilize it. At least a portion of the short position should be covered when such a trendline is violated. The remainder can be protected with a buy-stop, which will usually be at a somewhat higher price than the trendline.
 
 ![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%205.png)
----
 ## 8: Using the Best Long-Term Indicators to Spot Bull and Bear Markets
 
 While it's always important to keep in touch with the major trend, it's absolutely vital when the market moves into a high-risk zone (such as late 1972 and early October 1987), or a low-risk area (such as early 1975 and the summer of 1982). These are the times when false signals and whipsaws are most likely to pop up on your individual stock charts. By identifying when you are entering a high-risk area, you can build up large cash reserves and become extremely selective in your purchases. In addition, you can test the waters with a short sale or two. On the other hand, when our trusted indicators point out that the market is entering a low-risk zone, at the end of a bear market, it makes sense to start locking in profits on short sales, building up cash reserves, and getting ready to start doing selective buying.
@@ -530,13 +519,11 @@ ust as with stage analysis for individual stocks, once a potential Stage 3 top f
 
 ![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled.png)
 
-> While this key long-term indicator certainly isn't infallible and will give an occasional whipsaw signal, it is incredibly reliable. No bear market in the past several decades has unfolded without this gauge flashing a negative signal.
-> 
+While this key long-term indicator certainly isn't infallible and will give an occasional whipsaw signal, it is incredibly reliable. No bear market in the past several decades has unfolded without this gauge flashing a negative signal.
 
 ![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled%201.png)
 
 ![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled%202.png)
----
 ## 9: ODDS, ENDS, AND PROFITS
 
 ## FUN WITH FUNDS
@@ -545,12 +532,10 @@ The first area to move into is that of mutual funds. This is a game that is both
 
 Second, more and more funds have gone the no-load or lowload route. I Finally, there are now many funds that offer both an aggressive stock fund as well as a money market fund. To induce you to keep your money in their coffers, they allow switching back and forth between funds, usually with just a phone call. This immediately sets up the potential for a very profitable trading and investing game. All we have to do is buy an aggressive fund when the market turns clearly bullish (such as in mid-1982 and late 1986), and sell and move into a money market fund when Stage 4 appears (as in January 1984 and early October 1987)
 
-> The advantage of using mutual funds to capitalize on the market's cycles is that you don't have to pore over page after page of individual stock charts. All you have to do is keep up a few charts of some of the better-acting funds along with their 30-week MAs.2 This only takes a few minutes on the weekend and is well worth the effort.
-> 
+The advantage of using mutual funds to capitalize on the market's cycles is that you don't have to pore over page after page of individual stock charts. All you have to do is keep up a few charts of some of the better-acting funds along with their 30-week MAs.2 This only takes a few minutes on the weekend and is well worth the effort.
 
 Before proceeding, let's deal with the question that you're probably getting ready to ask. Since this exciting mutual-fund technique looks so easy and profitable, should you forget about stocks and use it exclusively? My answer is: for most of you, no! The potential is more dynamic in individual stocks than in funds, so it would be a mistake to totally ignore that area. But depending on your personality and the time you can allot to the market, you should work out the mix between mutual-fund switching and stock purchases. If you are very committed to the market and want to devote a couple of hours a week, you should obviously place a greater emphasis on stocks and less on funds. But even this type of investor should place some capital in the switch-fund game. I especially recommend that you use fund switching for your IRAs (Individual Retirement Accounts) and pension funds, while putting your more aggressive money into individual stocks. If, on the other hand, you have very little time available to devote to the market, then it certainly makes sense to lean much more heavily on funds than stocks
 
----
 ## 10: PUTTING IT ALL TOGETHER
 
 From now on, whether you're an investor or a trader, vow to be consistent to your system. Do not make any exceptions! Never believe that this time it's different. Always follow these steps:

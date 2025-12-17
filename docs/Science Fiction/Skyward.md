@@ -5,20 +5,17 @@ title: Skyward
 # Skyward by Brandon Sanderson
 
 ## Skyward
-> “You get to choose who you are. Legacy, memories of the past, can serve us well. But we cannot let them define us. When heritage becomes a box instead of an inspiration, it has gone too far.”
+“You get to choose who you are. Legacy, memories of the past, can serve us well. But we cannot let them define us. When heritage becomes a box instead of an inspiration, it has gone too far.”
 ― Brandon Sanderson, Skyward
-> 
 
-> “It has always seemed to me that a coward is a person who cares more about what people say than about what is right. Bravery isn't about what people call you, Spensa. It's about who you know yourself to be.”
+“It has always seemed to me that a coward is a person who cares more about what people say than about what is right. Bravery isn't about what people call you, Spensa. It's about who you know yourself to be.”
 ― Brandon Sanderson, Skyward
-> 
 
 “Sometimes, the answers we need don't match the questions we're asking." He looked up at me. "And sometimes, the coward makes fools of wiser men.”
 ― Brandon Sanderson, Skyward
 
-> “Tremble and fear, all enemies!” he shouted. “For we shall shake the air with thunder and blood! Your doom is imminent!”
+“Tremble and fear, all enemies!” he shouted. “For we shall shake the air with thunder and blood! Your doom is imminent!”
 ― Brandon Sanderson, Skyward
-> 
 
 “I pointed my nose right at the bomber down below, then i hit the overburn. "Cadet?" Ironsides said. "Pilot, what are you doing?"
 "My weapons are gone . . . I have to ram it."
