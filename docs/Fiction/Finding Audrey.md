@@ -6,9 +6,8 @@ title: Finding Audrey
 
 “They talk about “body language,” as if we all speak it the same. But everyone has their own dialect. For me right now, for example, swiveling my body right away and staring rigidly at the corner means, “I like you.” Because I didn’t run away and shut myself in the bathroom. I just hope he realizes that.”
 
-> “I think what I’ve realized is, life is all about climbing up, slipping down, and picking yourself up again. And it doesn’t matter if you slip down. As long as you’re kind of heading more or less upwards. That’s all you can hope for. More or less upwards.”
+“I think what I’ve realized is, life is all about climbing up, slipping down, and picking yourself up again. And it doesn’t matter if you slip down. As long as you’re kind of heading more or less upwards. That’s all you can hope for. More or less upwards.”
 ― Sophie Kinsella, Finding Audrey
-> 
 
 “The trouble is, depression doesn't come with handy symptoms like spots and a temperature, so you don't realize it at first. You keep saying 'I'm fine' to people when you're not fine. You think you should be fine. You keep saying to yourself: 'Why aren't I fine?”
 ― Sophie Kinsella, Finding Audrey

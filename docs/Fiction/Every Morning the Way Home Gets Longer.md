@@ -12,12 +12,10 @@ It's the story of a grandpa and grandson - and their shared love of mathematics 
 
 “Our teacher made us write a story about what we want to be when we're big," Noah tells him. "What did you write?" "I wrote that I wanted to concentrate on being little first." "That's a very good answer." "Isn't it? I would rather be old than a grown-up. All grown-ups are angry, it's just children and old people who laugh." "Did you write that?" "Yes." "What did your teacher say?" "She said I hadn't understood the task." "And what did you say?" "I said she hadn't understood my answer.” ― Fredrik Backman, And Every Morning the Way Home Gets Longer and Longer
 
-> “The only time you've failed is if you don't try once more.” 
+“The only time you've failed is if you don't try once more.” 
 ― Fredrik Backman, And Every Morning the Way Home Gets Longer and Longer
-> 
 
-> “I only had you for the blink of an eye,” he says. She laughs. “You had me an entire lifetime. All of mine.” “That wasn’t enough” ― Fredrik Backman, And Every Morning the Way Home Gets Longer and Longer
-> 
+“I only had you for the blink of an eye,” he says. She laughs. “You had me an entire lifetime. All of mine.” “That wasn’t enough” ― Fredrik Backman, And Every Morning the Way Home Gets Longer and Longer
 
 “You were never easy, darling difficult sulky you, never diplomatic. You might even have been easy to dislike at times. But no one, absolutely no one, would dare tell me you were hard to love.” ― Fredrik Backman, And Every Morning the Way Home Gets Longer and Longer
 
