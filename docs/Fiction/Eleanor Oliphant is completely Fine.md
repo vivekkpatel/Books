@@ -1,3 +1,6 @@
+---
+title: Eleanor Oliphant is completely Fine
+---
 # Eleanor Oliphant is completely Fine by Gail Honeyman
 
 > “If someone asks you how you are, you are meant to say FINE. You are not meant to say that you cried yourself to sleep last night because you hadn't spoken to another person for two consecutive days. FINE is what you say.”― Gail Honeyman, Eleanor Oliphant Is Completely Fine

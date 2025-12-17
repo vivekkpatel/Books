@@ -1,3 +1,6 @@
+---
+title: A Thousand Splendid Suns
+---
 # A Thousands Splendid Suns by Khaled Hosseini
 
 > A Thousand Splendid Suns“Marriage can wait, education cannot.”― Khaled Hosseini, A Thousand Splendid Suns

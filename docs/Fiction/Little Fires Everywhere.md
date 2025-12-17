@@ -1,3 +1,7 @@
+---
+title: Little Fires Everywhere
+---
+
 # Little Fires Everywhere by Calese NG
 
 > “Sometimes you need to scorch everything to the ground, and start over. After the burning the soil is richer, and new things can grow. People are like that, too. They start over. They find a way.”

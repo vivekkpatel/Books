@@ -1,3 +1,7 @@
+---
+title: Project Hail Mary
+---
+
 # Project Hail Mary by Andy Weir
 
 “I penetrated the outer cell membrane with a nanosyringe." "You poked it with a stick?" "No!" I said. "Well. Yes. But it was a scientific poke with a very scientific stick.” ― Andy Weir, Project Hail Mary

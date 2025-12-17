@@ -1,3 +1,6 @@
+---
+title: The Kite Runner
+---
 # The Kite Runner By Khaled Hosseini
 
 > “For you, a thousand times over”

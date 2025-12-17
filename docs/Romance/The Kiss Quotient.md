@@ -1,3 +1,6 @@
+---
+title: The Kiss Quotient
+---
 # The Kiss Quotient By Helen Hoang
 
 > “If you can’t stand being with a woman who’s more successful than you, then leave her alone. She’s better off without you. If you actually love her, then know the value of that love and make it a promise. That is the only thing she needs from you.”

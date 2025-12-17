@@ -1,3 +1,7 @@
+---
+title: The Wheel of Time
+---
+
 # The Eye of the World by Robert Jordan
 
 “I will hate the man you choose because he is not me, and love him if he makes you smile. No woman deserves the sure knowledge of widow’s black as her brideprice, you least of all.”

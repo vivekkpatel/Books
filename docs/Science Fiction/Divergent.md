@@ -1,3 +1,7 @@
+---
+title: Divergent
+---
+
 # Divergent by Veronica Roth
 
 “We believe in ordinary acts of bravery, in the courage that drives one person to stand up for another.”

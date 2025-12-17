@@ -1,3 +1,6 @@
+---
+title: The Pragamatic Programmer
+---
 # The Pragamatic Programmer by ANDY HUNT, DAVE THOMAS
 
 ### Dry Don’t Repeat Yourself

@@ -1,3 +1,7 @@
+---
+title: The Poppy War
+---
+
 # The Poppy War by R. F. Kung
 
 ## The Poppy War

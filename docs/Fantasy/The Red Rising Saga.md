@@ -1,3 +1,7 @@
+---
+title: The Red Rising Saga
+---
+
 # Red Rising Saga by Pierce Brown
 
 ## Red Rising

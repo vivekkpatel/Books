@@ -1,3 +1,7 @@
+---
+title: The Obstacle Is the Way
+---
+
 # The Obstacle Is the Way by Ryan Holiday
 
 ## Intro

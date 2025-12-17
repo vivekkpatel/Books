@@ -1,3 +1,7 @@
+---
+title: C# in Depth
+---
+
 ```markdown
 ## C# in Depth by Jon Skeet
 

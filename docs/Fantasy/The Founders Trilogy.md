@@ -1,3 +1,7 @@
+---
+title: The Founders Trilogy
+---
+
 # The Founders Trilogy by Robert Jackson
 
 ## Foundryside

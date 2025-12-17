@@ -1,3 +1,7 @@
+---
+title: The Perfect Stock
+---
+
 # The Perfect Stock by  Brad Koteshwar
 
 ## 🧙🏽‍♂️ What did i learn from this book?

@@ -1,3 +1,7 @@
+---
+title: Gentleman Bastard
+---
+
 # Gentleman Bastard by Scott Lynch
 
 ## The Lies of Locke Lamora

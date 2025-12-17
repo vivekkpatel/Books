@@ -1,4 +1,8 @@
-﻿# How Legendary Traders Made Millions
+﻿---
+title: How Legendary Traders Made Millions
+---
+
+# How Legendary Traders Made Millions
 
 ## 🧙🏽‍♂️ What did i learn from this book?
 

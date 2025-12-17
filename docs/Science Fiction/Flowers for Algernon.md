@@ -1,3 +1,7 @@
+---
+title: Flowers for Algernon
+---
+
 # Flowers for Algernon by Daniel Keyes
 
 # Overview

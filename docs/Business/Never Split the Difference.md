@@ -1,3 +1,7 @@
+---
+title: Never Split the Difference
+---
+
 # Never Split the Difference by Christopher Voss
 
 ## 1 The New Rules

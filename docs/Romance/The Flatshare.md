@@ -1,3 +1,7 @@
+---
+title: The Flatshare
+---
+
 # The Flatshare by Beth O'Leary
 
 > “Being nice is a good thing. You can be strong and nice. You don’t have to be one or the other.”

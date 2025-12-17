@@ -1,3 +1,7 @@
+---
+title: Factfulness
+---
+
 # Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think by Hans Rosling
 
 > Every group of people I ask thinks the world is more frightening, more violent, and more hopeless—in short, more dramatic—than it really is.

@@ -1,3 +1,6 @@
+---
+title: The Compound Effect
+---
 # The Compound Effect by Darren Gardy
 
 ## Chapter 1 : The Compound Effect in action

@@ -1,3 +1,6 @@
+---
+title: The Battle for Investment Survival
+---
 # The Battle for Investment Survival by Gerald M Loeb
 
 ### Overview

@@ -1,3 +1,6 @@
+---
+title: Attachments
+---
 # Attachments by Rainbow Rowell
 
 “Every woman wants a man who'll fall in love with her soul as well as her body.”

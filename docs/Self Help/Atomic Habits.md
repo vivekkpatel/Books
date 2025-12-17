@@ -1,4 +1,8 @@
-﻿# Atomic Habits by James Clear
+﻿---
+title: Atomic Habits
+---
+
+# Atomic Habits by James Clear
 
 ## The Secret to Results that last
 

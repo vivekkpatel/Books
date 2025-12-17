@@ -1,3 +1,7 @@
+---
+title: The Night Circus
+---
+
 # The Night Circus by Erin Morgenstern
 
 > “The finest of pleasures are always the unexpected ones.”

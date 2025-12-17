@@ -1,3 +1,7 @@
+---
+title: Computational Engineering
+---
+
 # Computational Engineering by Peter Debney
 
 ## Beyond 3D CAD : 4D, 5D and 6D

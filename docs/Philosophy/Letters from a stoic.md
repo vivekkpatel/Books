@@ -1,3 +1,6 @@
+---
+title: Letters from a stoic
+---
 # Letters from a stoic by Seneca
 
 ## Letters

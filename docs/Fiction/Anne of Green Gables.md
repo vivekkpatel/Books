@@ -1,3 +1,7 @@
+---
+title: Anne of Green Gables
+---
+
 # Anne of Green Gables by Lucy Maud Montgomery
 
 ##  Anne of Green Gables

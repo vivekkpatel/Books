@@ -1,4 +1,8 @@
-﻿# Secrets For Profiting in Bull and Bear Markets
+﻿---
+title: Secrets For Profiting in Bull and Bear Markets
+---
+
+# Secrets For Profiting in Bull and Bear Markets
 
 ## 1: It All Starts Here
 

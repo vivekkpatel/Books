@@ -1,3 +1,7 @@
+---
+title: The Hating Game
+---
+
 # The Hating Game by Sally Thorne
 
 > “The trick is to find that one person who can give it back as good as they can take it.”

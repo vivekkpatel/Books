@@ -1,3 +1,7 @@
+---
+title: Digging Deeper into AutoHotkey
+---
+
 # Digging Deeper into AutoHotkey by Jack Dunning
 
 ### **Send Symbols using AutohotKey using Unicode**

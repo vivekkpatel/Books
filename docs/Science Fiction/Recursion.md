@@ -1,3 +1,7 @@
+---
+title: Recursion
+---
+
 # Recursion by Black Crouch
 
 > “Life with a cheat code isn't life. Our existence isn't something to be engineered or optimized for the avoidance of pain. That's what it is to be human - the beauty and the pain, each meaningless without the other.”

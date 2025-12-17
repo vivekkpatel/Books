@@ -1,3 +1,7 @@
+---
+title: Cradle
+---
+
 # Cradle by Will Wight
 
 ## Book 1 : Unsouled

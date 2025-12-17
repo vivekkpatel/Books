@@ -1,3 +1,7 @@
+---
+title: Normal People
+---
+
 # Normal People by Sally Rooney
 
 > “It was culture as class performance, literature fetishized for its ability to take educated people on false emotional journeys, so that they might afterwards feel superior to the uneducated people whose emotional journeys they liked to read about.”

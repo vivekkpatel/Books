@@ -1,3 +1,7 @@
+---
+title: It Ends with Us
+---
+
 # It Ends With Us by Collen Hoover
 
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.” ― Colleen Hoover, It Ends with Us

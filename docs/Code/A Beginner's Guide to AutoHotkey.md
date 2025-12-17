@@ -1,3 +1,7 @@
+---
+title: A Beginner's Guide to AutoHotkey
+---
+
 # A Beginner's Guide to AutoHotkey by Jack Dunning
 
 ### Windows Always on Top

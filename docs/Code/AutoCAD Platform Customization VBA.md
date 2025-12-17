@@ -1,3 +1,7 @@
+---
+title: AutoCAD Platform Customization VBA
+---
+
 # AutoCAD Platform Customization: VBA by Lee Ambrosius
 
 ### Autocad Main Objects

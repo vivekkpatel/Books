@@ -1,3 +1,7 @@
+---
+title: AnimalFarm
+---
+
 # Animal Farm by George Orwell
 
 ## Overview

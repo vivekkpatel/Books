@@ -1,3 +1,7 @@
+---
+title: The Stormlight Archieve
+---
+
 # The Stormlight Archive by Brandon Sanderson
 
 ## The Way of Kings

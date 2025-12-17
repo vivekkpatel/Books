@@ -1,3 +1,7 @@
+---
+title: Elantris
+---
+
 # Elantris by Brandon Sanderson
 
 > “Remember, the past need not become our future as well.”

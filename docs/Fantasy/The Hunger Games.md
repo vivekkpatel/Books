@@ -1,3 +1,7 @@
+---
+title: The Hunger Games
+---
+
 # The Hunger Games by Suzanne Collins
 
 ## The Hunger Games

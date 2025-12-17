@@ -1,3 +1,7 @@
+---
+title: The Art of War
+---
+
 # The Art of War by Sun Tzu
 
 > All warfare is based on deception. 18. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.

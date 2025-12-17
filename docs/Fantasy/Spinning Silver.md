@@ -1,3 +1,7 @@
+---
+title: Spinning Silver
+---
+
 # Spinning Silver by Naomi Novik
 
 > “But I had not known that I was strong enough to do any of those things until they were over and I had done them. I had to do the work first, not knowing.”

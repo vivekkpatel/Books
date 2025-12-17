@@ -1,3 +1,7 @@
+---
+title: How I made 2M in the Stock Market
+---
+
 # How I Made $2,000,000 in the Stock Market by Nicolas Darvas  
 
 

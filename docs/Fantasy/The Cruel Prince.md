@@ -1,3 +1,7 @@
+---
+title: The Cruel Prince
+---
+
 # The Cruel Prince by Holly Black
 
 > “If I cannot be better than them, I will become so much worse.”

@@ -1,3 +1,7 @@
+---
+title: Throne of Glass
+---
+
 # Throne of Glass by Sarah J. Maas
 
 ## Throne of Glass

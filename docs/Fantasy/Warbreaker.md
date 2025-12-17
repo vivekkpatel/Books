@@ -1,3 +1,7 @@
+---
+title: Warbreaker
+---
+
 # Warbreaker by Brandon Sanderson
 
 ## Warbreaker 1

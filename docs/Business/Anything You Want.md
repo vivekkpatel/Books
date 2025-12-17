@@ -1,3 +1,7 @@
+---
+title: Anything You Want
+---
+
 # Anything You Want by Derek Sivers
 
 ## Overview

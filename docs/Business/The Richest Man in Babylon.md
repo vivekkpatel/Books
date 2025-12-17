@@ -1,3 +1,7 @@
+---
+title: The Richest Man in Babylon
+---
+
 # The Richest Man in Babylon by Georges Clason
 
 ## Summary 

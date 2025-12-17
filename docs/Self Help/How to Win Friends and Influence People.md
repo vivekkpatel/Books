@@ -1,3 +1,7 @@
+---
+title: How to Win Friends and Influence People
+---
+
 # How to Win Friends and Influence People by Dale Carnegie
 
 Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person’s precious pride, hurts his sense of importance, and arouses resentment.

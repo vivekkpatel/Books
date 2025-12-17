@@ -1,3 +1,6 @@
+---
+title: The Power of Habit
+---
 # The Power of Habit : Why We Do What We Do in Life and Business by Charles Duhigg
 
 > Without habit loops, our brains would shut down, overwhelmed by the minutiae of daily life. People whose basal ganglia are damaged by injury or disease often become mentally paralyzed. They have trouble performing basic activities,

@@ -1,3 +1,7 @@
+---
+title: Snow Crash
+---
+
 # Snow Crash by Neal Stephenson
 
 “Ninety-nine percent of everything that goes on in most Christian churches has nothing whatsoever to do with the actual religion. Intelligent people all notice this sooner or later, and they conclude that the entire one hundred percent is bullshit, which is why atheism is connected with being intelligent in people's minds.”

@@ -1,3 +1,7 @@
+---
+title: A Man Called Ove
+---
+
 # A Man Called Ove by Fredrik Backman
 
 “People said Ove saw the world in black and white. But she was color. All the color he had.” 

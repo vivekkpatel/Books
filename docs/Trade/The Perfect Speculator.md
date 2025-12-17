@@ -1,4 +1,8 @@
-﻿# The Perfect Speculator
+﻿---
+title: The Perfect Speculator
+---
+
+# The Perfect Speculator
 
 ## 📕 Quotes / Summary
 

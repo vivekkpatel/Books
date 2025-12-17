@@ -1,3 +1,7 @@
+---
+title: Dependency Injection in NET
+---
+
 # Dependency Injection in .NET by Mark Seemann
 
 ## Chapter 1 : Dependency Injection Tasting Menu

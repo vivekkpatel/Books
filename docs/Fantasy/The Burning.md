@@ -1,3 +1,7 @@
+---
+title: The Burning
+---
+
 # The Burning by Evan Winter
 
 ## The Rage of Dragons

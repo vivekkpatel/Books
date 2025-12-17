@@ -1,3 +1,7 @@
+---
+title: Rich Dad Poor Dad
+---
+
 # Rich Dad Poor Dad by Robert Kiyosaki
 
 > physical exercise increases your chances for health, and proper mental exercise increases your chances for wealth.

@@ -1,3 +1,7 @@
+---
+title: The Martian
+---
+
 # The Martian by Andy Weir
 
 “Each crewman had their own laptop. So I have six at my disposal. Rather, I had six. I now have five. I thought a laptop would be fine outside. It’s just electronics, right? It’ll keep warm enough to operate in the short term, and it doesn’t need air for anything. It died instantly. The screen went black before I was out of the airlock. Turns out the “L” in “LCD” stands for “Liquid.” I guess it either froze or boiled off. Maybe I’ll post a consumer review. “Brought product to surface of Mars. It stopped working. 0/10.”

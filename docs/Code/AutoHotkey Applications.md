@@ -1,3 +1,7 @@
+---
+title: AutoHotkey Applications
+---
+
 # AutoHotkey Applications--Ideas and Tips for Writing Practical AutoHotkey Scripts by Jack Dunning
  
 ## Include command

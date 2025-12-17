@@ -1,3 +1,7 @@
+---
+title: C# 8  in Nutshell Summary
+---
+
 # C# 8.0 in a Nutshell: The Definitive Reference by Joseph Albahari
 
 # C# in Nutshell Summary

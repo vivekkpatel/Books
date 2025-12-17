@@ -1,3 +1,7 @@
+---
+title: Coraline
+---
+
 # Coraline by Neil Gaiman
 
 “Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.” 

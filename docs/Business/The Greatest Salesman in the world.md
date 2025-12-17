@@ -1,3 +1,6 @@
+---
+title: The Greatest Salesman in the world
+---
 # The Greatest Salesman in the world by OG Mandino
 
 it’s story of camel boy who got 10 scrolls from his master. this scroll contain rules to become best sales man in the world. first 6 chapter only include story how this camel boy got his scroll with specific terms and conditions.

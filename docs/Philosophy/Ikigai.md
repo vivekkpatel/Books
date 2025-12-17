@@ -1,4 +1,8 @@
-﻿# Ikigai: The Japanese Secret to a Long and Happy Life
+﻿---
+title: Ikigai
+---
+
+# Ikigai: The Japanese Secret to a Long and Happy Life
 
 ## How to face lifeâ€™s challenges without letting stress and worry age you
 

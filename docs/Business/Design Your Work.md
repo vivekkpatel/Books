@@ -1,3 +1,7 @@
+---
+title: Design Your Work
+---
+
 # Design Your Work: Praxis Volume 1 by Tiago Forte
 
 ## Foreword

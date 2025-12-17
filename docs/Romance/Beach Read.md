@@ -1,3 +1,7 @@
+---
+title: Beach Read
+---
+
 # Beach Read by Emily Henry
 
 I did what any reasonable adult woman would do when confronted with her college rival turned next-door neighbor. I dove behind the nearest bookshelf.

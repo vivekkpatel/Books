@@ -1,3 +1,6 @@
+---
+title: How to Trade in Stocks
+---
 # How to Trade in Stocks by Jessy Livermore
 
 ## Chapter 1: Challenge of Speculation

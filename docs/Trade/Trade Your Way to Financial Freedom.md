@@ -1,3 +1,6 @@
+---
+title: Trade Your Way to Financial Freedom
+---
 # Trade Your Way to Financial Freedom by Van K Tharp
 
 ## Quotes 

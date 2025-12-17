@@ -1,3 +1,7 @@
+---
+title: Dune
+---
+
 # Dune by Frank Herbert
 
 ## Dune

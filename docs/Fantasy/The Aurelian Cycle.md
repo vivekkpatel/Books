@@ -1,3 +1,7 @@
+---
+title: The Aurelian Cycle
+---
+
 # The Aurelian Cycle
 
 ## Fireborne

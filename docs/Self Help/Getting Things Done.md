@@ -1,4 +1,8 @@
-﻿# Getting Things Done: The Art of Stress-Free Productivity by David Allen
+﻿---
+title: Getting Things Done
+---
+
+# Getting Things Done: The Art of Stress-Free Productivity by David Allen
 
 ## Welcome to Getting Things Done
 

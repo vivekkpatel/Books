@@ -1,4 +1,8 @@
-﻿# Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
+﻿---
+title: Unit Testing Principles, Practices, and Patterns
+---
+
+# Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
 
 ## Chapter 1 : The Goal of Unit Testing
 

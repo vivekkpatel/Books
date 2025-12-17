@@ -1,3 +1,7 @@
+---
+title: The Sword of Kaigen
+---
+
 # The Sword of Kaigen by M.L. Wang
 
 > “You learn over time that the world isn’t broken. It’s just… got more pieces to it than you thought. They all fit together, just maybe not the way you pictured when you were young.” 

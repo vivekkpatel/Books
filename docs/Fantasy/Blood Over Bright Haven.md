@@ -1,3 +1,6 @@
+---
+title: Blood Over Bright Haven
+---
 # Blood Over Bright Haven by M.L. Wang
 
 ## Initial Impression about book

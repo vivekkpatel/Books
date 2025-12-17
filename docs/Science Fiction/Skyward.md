@@ -1,3 +1,7 @@
+---
+title: Skyward
+---
+
 # Skyward by Brandon Sanderson
 
 ## Skyward

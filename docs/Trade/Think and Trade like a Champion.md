@@ -1,4 +1,8 @@
-﻿# Think and Trade like a Champion
+﻿---
+title: Think and Trade like a Champion
+---
+
+# Think and Trade like a Champion
 
 ### 🧙🏽‍♂️ What did i learn from this book?
 

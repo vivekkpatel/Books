@@ -1,3 +1,7 @@
+---
+title: Graceling Realm
+---
+
 # Graceling Realm by Kristin Cashore
 
 ## Graceling

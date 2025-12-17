@@ -1,3 +1,7 @@
+---
+title: Mistborn
+---
+
 # Mistborn by Brandon Sanderson
 
 ## The Final Empire

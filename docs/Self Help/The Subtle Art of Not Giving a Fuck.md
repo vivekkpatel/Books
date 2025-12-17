@@ -1,3 +1,6 @@
+---
+title: The Subtle Art of Not Giving a Fuck
+---
 # The Subtle Art of Not Giving a Fuck by Mark Manson
 
 The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.

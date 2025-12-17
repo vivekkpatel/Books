@@ -1,3 +1,7 @@
+---
+title: Best Losers Wins
+---
+
 # Best Loser wins by Tom Hougaard
 
 ## Introduction

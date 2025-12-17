@@ -1,3 +1,7 @@
+---
+title: The Book Thief
+---
+
 # The Book Theif by Markus Zusak
 
 > “The only thing worse than a boy who hates you: a boy that loves you.”

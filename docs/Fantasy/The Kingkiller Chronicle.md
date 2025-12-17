@@ -1,3 +1,7 @@
+---
+title: The Kingkiller Chronicle
+---
+
 # The Kingkiller Chronicle
 
 ## The Name of the Wind

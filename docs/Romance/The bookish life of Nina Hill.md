@@ -1,3 +1,6 @@
+---
+title: The bookish life of Nina Hill
+---
 # The bookish life of Nina Hill by Abbi Waxman
 
 > “Being with you is as good as being alone.”

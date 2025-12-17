@@ -1,3 +1,6 @@
+---
+title: The Boy, The Mole, The Fox and The Horse
+---
 # The Boy, The Mole, The Fox and The Horse by Charlie Mackesy
 
 I hope this book encourages you, perhaps to live courageously with more Kindness for yourself and for others. And to ask for help when you need it which is always a brave things to do.

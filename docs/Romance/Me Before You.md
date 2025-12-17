@@ -1,3 +1,7 @@
+---
+title: Me Before You
+---
+
 # Me Before You by Jojo Moyes
 
 > “You only get one life. It's actually your duty to live it as fully as possible.”

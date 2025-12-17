@@ -1,3 +1,7 @@
+---
+title: Every Morning the Way Home Gets Longer
+---
+
 # And Every Morning the Way Home Gets Longer and Longer by Fredrik Backman
 
 It's the story of how to say good-bye to someone you are losing to Alzheimer's.

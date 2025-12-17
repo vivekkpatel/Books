@@ -1,3 +1,7 @@
+---
+title: The Zurich Axioms
+---
+
 # The Zurich Axioms by Max Gunther
 
 # Introduction

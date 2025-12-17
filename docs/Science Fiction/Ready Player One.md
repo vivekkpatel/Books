@@ -1,3 +1,7 @@
+---
+title: Ready Player One
+---
+
 # Ready Player One by Ernest Cline
 
 ## Ready Player

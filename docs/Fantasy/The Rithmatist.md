@@ -1,3 +1,7 @@
+---
+title: The Rithmatist
+---
+
 # The Rithmatist by Brandon Sanderson
 
 “Joel, lad, school is about learning to learn. If you don't practice studying things you don't like, then you'll have a very hard time in life.”

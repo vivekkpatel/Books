@@ -1,3 +1,7 @@
+---
+title: Trade Like a Stock Market Wizard
+---
+
 # Trade Like a Stock Market Wizard by Mark Minervini
 
 ## Chapter 2 : What you need to Know first

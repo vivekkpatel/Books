@@ -1,3 +1,7 @@
+---
+title: AutoCAD 2012 DXF reference
+---
+
 # AutoCAD 2012 DXF reference by Autodesk
 
 “*The DXF™ format is a tagged data representation of all the information contained in an AutoCAD® drawing file. Tagged data means that each data element in the file is preceded by an integer number that is called a group code. A group code's value indicates what type of data element follows. This value also indicates the meaning of a data element for a given object (or record) type. Virtually all user-specified information in a drawing file can be represented in DXF format.*”

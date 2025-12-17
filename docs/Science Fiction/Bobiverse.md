@@ -1,3 +1,7 @@
+---
+title: Bobiverse
+---
+
 # Bobiverse by Dennis E Taylor
 
 ## We are Bob

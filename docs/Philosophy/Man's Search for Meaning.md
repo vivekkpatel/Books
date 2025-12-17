@@ -1,3 +1,7 @@
+---
+title: Man's Search for Meaning
+---
+
 # Man's Search for Meaning by Viktor E. Frankl
 
 > A book has one passage, one idea with the power to change a person’s life, that alone justifies reading it, rereading it, and finding room for it on one’s shelves.

@@ -1,3 +1,7 @@
+---
+title: Six of Crows
+---
+
 # Six of Crows by Leigh Bardugo
 
 ## Six of Crows

@@ -1,3 +1,7 @@
+---
+title: The Markdown Guide
+---
+
 # The Markdown Guide by Matt Cone
 
 ## Markdown Basic

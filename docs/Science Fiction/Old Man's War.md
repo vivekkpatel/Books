@@ -1,3 +1,7 @@
+---
+title: Old Man's War
+---
+
 # Old Man's War by John Scalzi
 
 “I hate that I’ve become one of those old men who visits a cemetery to be with his dead wife. When I was (much) younger I used to ask Kathy what the point would be. A pile of rotting meat and bones that used to be a person isn’t a person anymore; it’s just a pile of rotting meat and bones. The person is gone—off to heaven or hell or wherever or nowhere. You might as well visit a side of beef. When you get older you realize this is still the case. You just don’t care. It’s what you have.”

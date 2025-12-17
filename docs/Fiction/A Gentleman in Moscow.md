@@ -1,3 +1,7 @@
+---
+title: A Gentleman in Moscow
+---
+
 # A Gentleman in Moscow by Amor Towles
 
 > “...what matters in life is not whether we receive a round of applause; what matters is whether we have the courage to venture forth despite the uncertainty of acclaim.”

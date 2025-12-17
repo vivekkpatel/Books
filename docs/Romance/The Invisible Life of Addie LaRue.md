@@ -1,3 +1,6 @@
+---
+title: The Invisible Life of Addie LaRue
+---
 # The Invisible Life if Addie LaRue by V.E. Schwab
 
 “Books, she has found, are a way to live a thousand lives--or to find strength in a very long one.” ― V.E. Schwab, The Invisible Life of Addie LaRue

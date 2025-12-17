@@ -1,3 +1,6 @@
+---
+title: Thinking Fast and Slow
+---
 # Thinking Fast and Slow by Daniel Kahneman
 
 > it is much easier to strive for perfection when you are never bored.

@@ -1,3 +1,7 @@
+---
+title: Quiet The Power of Introverts
+---
+
 # Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
 
 **💡 Stay true to your own nature. If you like to do things in a slow and steady way, don’t let others make you feel as if you have to race. If you enjoy depth, don’t force yourself to seek breadth. If you prefer single-tasking to multi tasking, stick to your guns. Being relatively unmoved by rewards gives you the incalculable power to go your own way. It’s up to you to use that independence to good effect.**

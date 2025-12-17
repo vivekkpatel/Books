@@ -1,3 +1,7 @@
+---
+title: Beartown
+---
+
 # Beartown by Fredrik Backman
 
 ## Beartown

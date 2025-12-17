@@ -1,3 +1,7 @@
+---
+title: Uprooted
+---
+
 # Uprooted by Naomi Novik
 
 “What an unequaled gift for disaster you have.”

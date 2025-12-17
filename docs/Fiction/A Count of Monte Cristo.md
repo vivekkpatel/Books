@@ -1,3 +1,7 @@
+---
+title: A Count of Monte Cristo
+---
+
 # A Count of Monte Cristo by Alexandre Dumas
 > “All human wisdom is contained in these two words - Wait and Hope”
 ― Alexandre Dumas, The Count of Monte Cristo

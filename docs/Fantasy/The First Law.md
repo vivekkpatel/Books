@@ -1,3 +1,6 @@
+---
+title: The First Law
+---
 # The First law by Joe Abercrombie
 
 ## The Blade Itself
