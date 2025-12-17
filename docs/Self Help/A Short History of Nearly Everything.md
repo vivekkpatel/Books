@@ -1,6 +1,6 @@
-```
+---
 title: A Short History of Nearly Everything
-```
+---
 
 # A Short History of Nearly Everything by Bill Bryson
 
@@ -17,6 +17,7 @@ It is a slightly arresting notion that if you were to pick yourself apart with t
 
 !!! quote "Bill Bryson, A Short History of Nearly Everything"
     *“If you imagine the 4,500-bilion-odd years of Earth's history compressed into a normal earthly day, then life begins very early, about 4 A.M., with the rise of the first simple, single-celled organisms, but then advances no further for the next sixteen hours. Not until almost 8:30 in the evening, with the day five-sixths over, has Earth anything to show the universe but a restless skin of microbes. Then, finally, the first sea plants appear, followed twenty minutes later by the first jellyfish and the enigmatic Ediacaran fauna first seen by Reginald Sprigg in Australia. At 9:04 P.M. trilobites swim onto the scene, followed more or less immediately by the shapely creatures of the Burgess Shale. Just before 10 P.M. plants begin to pop up on the land. Soon after, with less than two hours left in the day, the first land creatures follow.
+
     Thanks to ten minutes or so of balmy weather, by 10:24 the Earth is covered in the great carboniferous forests whose residues give us all our coal, and the first winged insects are evident. Dinosaurs plod onto the scene just before 11 P.M. and hold sway for about three-quarters of an hour. At twenty-one minutes to midnight they vanish and the age of mammals begins. Humans emerge one minute and seventeen seconds before midnight. The whole of our recorded history, on this scale, would be no more than a few seconds, a single human lifetime barely an instant. Throughout this greatly speeded-up day continents slide about and bang together at a clip that seems positively reckless. Mountains rise and melt away, ocean basins come and go, ice sheets advance and withdraw. And throughout the whole, about three times every minute, somewhere on the planet there is a flash-bulb pop of light marking the impact of a Manson-sized meteor or one even larger. It's a wonder that anything at all can survive in such a pummeled and unsettled environment. In fact, not many things do for long.”*
 
 “Because we humans are big and clever enough to produce and utilize antibiotics and disinfectants, it is easy to convince ourselves that we have banished bacteria to the fringes of existence. Don't you believe it. Bacteria may not build cities or have interesting social lives, but they will be here when the Sun explodes. This is their planet, and we are on it only because they allow us to be.”
