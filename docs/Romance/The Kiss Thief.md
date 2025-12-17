@@ -4,16 +4,14 @@ title: The Kiss Thief
 
 # The Kiss Thief by L J Shen
 
-> “No love is fully requited. No love is equal. No love is fair. There is always one side that loves more. And you better not be that side—because it suffers.”
+“No love is fully requited. No love is equal. No love is fair. There is always one side that loves more. And you better not be that side—because it suffers.”
 ― L.J. Shen, The Kiss Thief
-> 
 
 “A Story of a Nemesis and a Villain with no chance at a happy ending. Where the prince doesn't save the princess. He tortures her. And the beauty doesn't sleep. She's stuck. In a nightmare”
 ― L.J. Shen, The Kiss Thief
 
-> “you’re worth more than the sums of your mistakes.”
+“you’re worth more than the sums of your mistakes.”
 ― L.J. Shen, The Kiss Thief
-> 
 
 “This is why humans invented lies, I thought. No other animal in nature lies. The truth is ruthless. It cuts you open, shoving your face into the mud. It forces you to look reality in the eye and deal with it. To feel the real weight of the world that you live in.”
 ― L.J. Shen, The Kiss Thief
