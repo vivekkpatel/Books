@@ -4,25 +4,25 @@ title: Educated
 
 # Educated by Tara Westover
 
-> “You can love someone and still choose to say goodbye to them,” she says now. “You can miss a person every day, and still be glad that they are no longer in your life.”
+“You can love someone and still choose to say goodbye to them,” she says now. “You can miss a person every day, and still be glad that they are no longer in your life.”
 ― Tara Westover, Educated
 
 
-> “Everything I had worked for, all my years of study, had been to purchase for myself this one privilege: to see and experience more truths than those given to me by my father, and to use those truths to construct my own mind. I had come to believe that the ability to evaluate many ideas, many histories, many points of view, was at the heart of what it means to self-create. If I yielded now, I would lose more than an argument. I would lose custody of my own mind. This was the price I was being asked to pay, I understood that now. What my father wanted to cast from me wasn’t a demon: it was me.”
+“Everything I had worked for, all my years of study, had been to purchase for myself this one privilege: to see and experience more truths than those given to me by my father, and to use those truths to construct my own mind. I had come to believe that the ability to evaluate many ideas, many histories, many points of view, was at the heart of what it means to self-create. If I yielded now, I would lose more than an argument. I would lose custody of my own mind. This was the price I was being asked to pay, I understood that now. What my father wanted to cast from me wasn’t a demon: it was me.”
 ― Tara Westover, Educated
 
 
-> “The skill I was learning was a crucial one, the patience to read things I could not yet understand.”
+“The skill I was learning was a crucial one, the patience to read things I could not yet understand.”
 ― Tara Westover, Educated
 
 
-> “The decisions I made after that moment were not the ones she would have made. They were the choices of a changed person, a new self.
+“The decisions I made after that moment were not the ones she would have made. They were the choices of a changed person, a new self.
 You could call this selfhood many things. Transformation. Metamorphosis. Falsity. Betrayal.
 I call it an education”
 ― Tara Westover, Educated
 
 
-> “It’s strange how you give the people you love so much power over you, I had written in my journal. But Shawn had more power over me than I could possibly have imagined. He had defined me to myself, and there’s no greater power than that.”
+“It’s strange how you give the people you love so much power over you, I had written in my journal. But Shawn had more power over me than I could possibly have imagined. He had defined me to myself, and there’s no greater power than that.”
 ― Tara Westover, Educated
 
 
