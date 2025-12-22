@@ -43,3 +43,15 @@ It mainly focuses on thinking **every obstacle as a way to improve yourself**.
 - To place things in perspective.
 - To revert to the present moment.
 - To focus on what can be controlled.
+
+## Final Thoughts
+
+```
+See things for what they are.
+Do what we can.
+Endure and bear what we must.
+
+What blocked the path now is a path.
+What once impeded action advances action.
+The obstacle is the way.
+```
