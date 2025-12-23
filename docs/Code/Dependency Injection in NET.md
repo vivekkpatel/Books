@@ -56,8 +56,6 @@ private static void Main()
 }
 ```
 
-![](Chapter%201%20Dependency%20Injection%20Tasting%20Menu/Untitled.png)
-
 The program needs to write to the console, so it creates a new instance of ConsoleMessageWriter that encapsulates exactly that functionality. It passes that message writer to the Salutation class so that the salutation instance knows where to write its messages. Because everything is now wired up properly, you can execute the logic, which results in the message being written to the screen.
 
 ```csharp
@@ -97,8 +95,6 @@ The ConsoleMessageWriter class implements IMessageWriter by wrapping the Base Cl
 
 How is the previous example better than the usual single line of code we normally use to implement Hello World in C#? In this example, DI adds an overhead of 1,100%, but, as complexity increases from one line of code to tens of thousands, this overhead diminishes and all but disappears.
 
-![](Chapter%201%20Dependency%20Injection%20Tasting%20Menu/Untitled%201.png)
-
 ### What to inject and what not to inject
 
 If you’re convinced that loose coupling is a good idea, you may want to make everything loosely coupled. Overall, this is a good idea. When you must decide how to package modules, loose coupling provides especially useful guidance. You don’t have to abstract everything away and make everything pluggable. In this section, I’ll provide you with some decision tools that can help you decide how to model your DEPENDENCIES
@@ -110,8 +106,6 @@ Everywhere we decide to program against an interface instead of a concrete type,
 The Hello DI sample I built in section 1.2 contains a SEAM between Salutation and ConsoleMessageWriter, as illustrated in figure 1.12. The Salutation class doesn’t directly depend on the ConsoleMessageWriter class; rather, it uses the IMessageWriter interface to write messages. You can take the application apart at this SEAM and reassemble it with a different message writer
 
 As you learn DI, it can be helpful to categorize your dependencies into STABLE DEPENDENCIES and VOLATILE DEPENDENCIES, but deciding where to put your SEAMS will soon become second nature to you.
-
-![](Chapter%201%20Dependency%20Injection%20Tasting%20Menu/Untitled%202.png)
 
 ### Stable Dependencies
 
