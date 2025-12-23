@@ -82,3 +82,24 @@ bool isGameOver = false;
 
 !!! info
     The bool type gets its name from the mathematician George Boole, who developed Boolean algebra, a branch of mathematics that deals with true and false values. 
+
+## Math
+
+### Prefix and Postfix Operators
+
+```csharp
+int x;
+x = 5;
+int y= ++x;
+Console.WriteLine($"x={x}, y={y}");
+// Output: x=6, y=6
+
+x= 5;
+int z= x++;
+Console.WriteLine($"x={x}, z={z}");
+// Output: x=6, z=5
+```
+
+### Type Casting
+- Implicit Casting (automatically) - converting a smaller type to a larger type size
+- Explicit Casting (manually) - converting a larger type to a smaller size type
