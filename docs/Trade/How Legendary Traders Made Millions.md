@@ -7,16 +7,16 @@ title: How Legendary Traders Made Millions
 ## What did i learn from this book?
 
 - this book explain last 100 years of stock market in detail
-- each chapter explain 10 year cycle of stock market, why market start going up, why it�s choppy trend and why it started going down
+- each chapter explain 10 year cycle of stock market, why market start going up, why it's choppy trend and why it started going down
 - this also explain in detail how each famous trader manage to make profit by forecasting right trend of market
 
 ## Quotes 
 
-The stock market doesn�t care who we as individuals are, what we think, or how we feel. It�s a beast like no other: indifferent to human desires, oblivious to common wisdom, maddening contrary, and seemingly bent on confounding the majority at every turn. The only law it obeys is the law of supply and demand. And until you, as an investor, come to grips with this reality and learn to move with the market rather than against it, you�ll plagued by results that are mediocre at best.
-- William O�neil, The Successful Investor
+The stock market doesn't care who we as individuals are, what we think, or how we feel. It's a beast like no other: indifferent to human desires, oblivious to common wisdom, maddening contrary, and seemingly bent on confounding the majority at every turn. The only law it obeys is the law of supply and demand. And until you, as an investor, come to grips with this reality and learn to move with the market rather than against it, you'll plagued by results that are mediocre at best.
+- William O'neil, The Successful Investor
 
-�You can always learn from history, because human nature doesn�t change and there�s really not as much that�s new in the market as most people believe. CWH patterns have appeared and reappeared in every cycle throughout market history. In every stock market and economic cycle through the entire twentieth century, the big funds and professional pools went after the best growth stocks at the time, ran them up, and eventually pushed PEs to levels no one could justify. It�s just history repeating itself over and over again, human nature continually on parade�
-- William J. O�Neil
+'You can always learn from history, because human nature doesn't change and there's really not as much that's new in the market as most people believe. CWH patterns have appeared and reappeared in every cycle throughout market history. In every stock market and economic cycle through the entire twentieth century, the big funds and professional pools went after the best growth stocks at the time, ran them up, and eventually pushed PEs to levels no one could justify. It's just history repeating itself over and over again, human nature continually on parade'
+- William J. O'Neil
 
 The truly flexible man in the market is the man who can be foolish at times, bullish at times, bearish at times, borrow money at times, be short at times, the person who can learn to be an expert on gold stocks in one period and some other style of stock in some other period. These men are exceedingly super rate. but they exist. And these are men to watch, the men to learn from, they are the men who really make money on wall street.
 - Gerald Loeb
@@ -53,8 +53,6 @@ This book will showcase the many lessons that you can learn as you analyze and u
 This is story about trader name Bernard Baruch. 
 
 From Baruch’s limited experience and as his observation of market activity began to improve, he noticed that many times during his era the market would experience many downtrending cycles only to bounce right back with strong upward reversals. he also noticed that the best profitable opportunities presented themselves when these reversals to the upside would begin. he thought that if he could time his purchases of new leaders that possessed very strong fundamentals when the market began to turn he could reap positive returns.
-
-
 
 # 2: A Few Sidestep Landmines to Profit (1910-19)
 
