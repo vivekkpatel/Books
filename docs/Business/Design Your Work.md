@@ -73,9 +73,6 @@ My Habit Graph I started by narrowing my analysis to “medium difficulty” hab
 
 I then asked myself the following question for each pair of habits: Does [habit A] directly and unequivocally make [habit B] more likely to happen? For example, “Does waking up by 8am directly and unequivocally make meditation more likely to happen?” If the answer was yes (based on my subjective experience), this was counted as a positive one-way relationship. I worded this question in black-and-white terms because I wanted to avoid subtle, global effects (such as meditation increasing my overall willpower, thus making all my other habits more likely to happen). I was looking for direct, unquestionable influences. I then used the 56 positive relationships I came up with to produce the following habit graph: Red are morning habits, green are daytime habits, and blue are nighttime habits (for those reading on non-color devices, moving clockwise from 12 noon, the first 7 habits are morning, the next 2 are daytime, and the last 2 are nighttime habits) Note that the habits are in chronological order moving clockwise, and that relationships can run in one direction or be bidirectional. At this point I could simply create a ranking based on how many other habits each habit supports. But this isn’t quite enough. I want to know not only the absolute number of other habits each one supports, but how influential these supported habits are themselves. In other words, what makes a habit important is not only that it supports many habits, but that it supports habits that are themselves important. This is where eigenvector centrality comes in. Launch the Eigenvector!
 
-![](Design%20Your%20Work%20Praxis%20Volume%201/Untitled.png)
-
-![](Design%20Your%20Work%20Praxis%20Volume%201/Untitled%201.png)
 
 Although the visualization is helpful, the eigenvector equation allows us to rank the habits according to their influence on the entire network in a way that is not apparent visually. Here’s the relevant equation: Centrality / CC BY-SA Applying this equation to my habit graph, I came up with the following eigenvector centralities. The eigenvector number in purple next to each habit measures that habit’s “influence” on the network as a whole: My habits labeled with eigenvector scores This graph shows quite clearly that my most influential habits happen first thing in the morning, and in the evening (mostly, I imagine, because of their strong influence on subsequent morning habits). Here’s a radial version, highlighting even more clearly that early waking is the critical “node” in my habit network. It is the only habit that positively influences every other habit I’m seeking to strengthen.
 
@@ -172,7 +169,6 @@ your employer agreed to pay you the same for your worst work as your best work, 
 
 The purpose of the work is to serve as a vehicle for learning and personal growth for each employee, however they define it.
 
-![](Design%20Your%20Work%20Praxis%20Volume%201/Untitled%202.png)
 
 ## Immersion. Experimentation. Leverage.
 
