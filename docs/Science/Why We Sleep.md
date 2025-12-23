@@ -72,8 +72,6 @@ Aging also alters the speed of caffeine clearance: the older we are, the longer 
 
 To impress upon you the effects of caffeine, I footnote esoteric research conducted in the 1980s by NASA. Their scientists exposed spiders to different drugs and then observed the webs that they constructed.X Those drugs included LSD, speed (amphetamine), marijuana, and caffeine. The results, which speak for themselves, can be observed in figure 3. The researchers noted how strikingly incapable the spiders were in constructing anything resembling a normal or logical web that would be of any functional use when given caffeine, even relative to other potent drugs tested.
 
-![](Chapter%202%20Caffeine,%20Jet%20Lag,%20and%20Melatonin/screenshot_2020_10_19T19_17_290530.png)
-
 ---
 
 ## Chapter 3 : Defining and Generating Sleep

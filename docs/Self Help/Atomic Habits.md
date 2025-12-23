@@ -685,7 +685,6 @@ When you canâ€™t win by being better, you can win by being different. By co
 
 The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
 
-![](Chapter%2019%20The%20Goldilocks%20Rule%20How%20to%20Stay%20Motivat/screenshot_2020_09_12T20_25_300530_(2).png)
 
 Improvement requires a delicate balance. You need to regularly search for challenges that push you to your edge while continuing to make enough progress to stay motivated. Behaviors need to remain novel in order for them to stay attractive and satisfying. Without variety, we get bored. And boredom is perhaps the greatest villain on the quest for self-improvement.
 
@@ -727,8 +726,6 @@ $$
 Mastery is the process of narrowing your focus to a tiny element of success, repeating it until you have internalized the skill, and then using this new habit as the foundation to advance to the next frontier of your development. Old tasks become easier the second time around, but it doesnâ€™t get easier overall because now youâ€™re pouring your energy into the next challenge. Each habit unlocks the next level of performance. Itâ€™s an endless cycle.
 
 ### Mastering a Field
-
-![](Chapter%2020%20The%20downside%20of%20Creating%20Good%20Habit/screenshot_2020_09_12T20_41_000530_(2).png)
 
 Although habits are powerful, what you need is a way to remain conscious of your performance over time, so you can continue to refine and improve. It is precisely at the moment when you begin to feel like you have mastered a skillâ€”right when things are starting to feel automatic and you are becoming comfortableâ€”that you must avoid slipping into the trap of complacency. 
 

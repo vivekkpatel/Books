@@ -59,8 +59,6 @@ Still others have good systems but donâ€™t (4) **reflect on the contents** 
 
 Finally, if any one of these previous links is weak, what someone is likely to choose to (5) **engage** in at any point in time may not be the best option. Most decisions for action and focus are driven by the latest and loudest inputs, and are based on hope instead of trust. People have a constant nagging sense that theyâ€™re not working on what they should be, that they â€œdonâ€™t have timeâ€ for potentially critical activities, and that theyâ€™re missing out on the timeless sense of meaningful doing that is the essence of stress-free productivity.
 
-![](Chapter%202%20Getting%20Control%20Of%20Your%20Life%20The%20five%20st/Untitled.png)
-
 > It does not take much strength to do things, but it requires a great deal of strength to decide what to do. 
 - Elbert Hubbard
 > 

@@ -473,8 +473,6 @@ Your Highlight gives each day a focal point. Research shows that the way you exp
 
 ## Make Time is Just Four Steps, Repeated Every Day
 
-![](How%20Make%20Time%20Work/screenshot_2020_09_29T15_15_310530.png)
-
 The first step is **choosing a single highlight to prioritize in your day.** Next, youâ€™ll employ specific tactics to stay laser-focused on that highlightâ€”weâ€™ll offer a menu of tricks to beat distraction in an always-connected world. Throughout the day, youâ€™ll build energy so you can stay in control of your time and attention. Finally, youâ€™ll reflect on the day with a few simple notes.
 
 ### Highlight : Start Each Day by Choosing a Focal Point
