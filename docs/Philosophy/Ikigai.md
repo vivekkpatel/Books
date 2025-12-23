@@ -103,12 +103,8 @@ According to logotherapy, discovering one’s purpose in life helps an individua
 
 ### What is your reason for being?
 
-![Untitled](Ikigai/Untitled.png)
-
 
 ## What the world’s longest living people eat and drink
-
-![Untitled](What%20the%20world%E2%80%99s%20longest%20living%20people%20eat%20and%20dri/Untitled.png)
 
 ### Okinawa’s miracle diet
 
