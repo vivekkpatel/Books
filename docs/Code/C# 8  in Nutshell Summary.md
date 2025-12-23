@@ -411,8 +411,6 @@ LINQ projection.
 
 The most frequently used of these types is XElement. XObject is the root of the inheritance hierarchy; XElement and XDocument are roots of the containership hierarchy.
 
-![](Chapter%2010%20LINQ%20to%20XML/Untitled.png)
-
 X-DOM tree created from the following code:
 
 ```csharp
@@ -422,8 +420,6 @@ string xml = @"<customer id='123' status='archived'>
  </customer>";
 XElement customer = XElement.Parse (xml);
 ```
-
-![](Chapter%2010%20LINQ%20to%20XML/Untitled%201.png)
 
 XObject is the abstract base class for all XML content. It defines a link to the Parent element in the containership tree as well as an optional XDocument.
 
@@ -1807,8 +1803,6 @@ It’s impossible for code to execute in a deleted object, so if there’s any p
 
 Note that a group of objects that reference each other cyclically are considered dead without a root referee (see Figure 12-1). To put it in another way, objects that can‐ not be accessed by following the arrows (references) from a root object are unreach‐ able—and therefore subject to collection.
 
-![](Chapter%2012%20Disposal%20and%20Garbage%20Collection/Untitled.png)
-
 # Finalizers
 
 Prior to an object being released from memory, its finalizer runs, if it has one. A finalizer is declared like a constructor, but it is prefixed by the `~` symbol:
@@ -2595,7 +2589,6 @@ yyyyyyyyyyyyyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 The main thread creates a new thread t on which it runs a method that repeatedly prints the character y. Simultaneously, the main thread repeatedly prints the character x, as shown in Figure 14-1. On a single-core computer, the operating system must allocate “slices” of time to each thread (typically 20 ms in Windows) to simulate concurrency, resulting in repeated blocks of x and y. On a multicore or multiprocessor machine, the two threads can genuinely execute in parallel (subject to competition by other active processes on the computer), although you still get repeated blocks of x and y in this example because of subtleties in the mechanism by which Console handles concurrent requests.
 
-![](Chapter%2014%20Concurrency%20and%20Asynchrony/Untitled.png)
 
 After it’s started, a thread’s IsAlive property returns true, until the point at which the thread ends. A thread ends when the delegate passed to the Thread’s constructor finishes executing. After it’s ended, a thread cannot restart.
 
@@ -3377,7 +3370,6 @@ A backing store is the endpoint that makes input and output useful, such as a fi
 
 A backing store is of no use, though, unless exposed to the programmer. A Stream is the standard .NET class for this purpose; it exposes a standard set of methods for reading, writing, and positioning. Unlike an array, for which all the backing data exists in memory at once, a stream deals with data serially—either one byte at a time or in blocks of a manageable size. Hence, a stream can use a small, fixed amount of memory regardless of the size of its backing store.
 
-![](Chapter%2015%20Streams%20and%20I%20O/Untitled.png)
 
 Backing store streams
 
@@ -3540,8 +3532,6 @@ You can read and write across a Windows network via a Universal Naming Conven‐
 
 All of FileStream’s constructors that accept a filename also require a FileMode enum argument.
 
-![](Chapter%2015%20Streams%20and%20I%20O/Untitled%201.png)
-
 File.Create and FileMode.Create will throw an exception if used on hidden files. To overwrite a hidden file, you must delete and re-create it:
 
 ```csharp
@@ -3594,8 +3584,6 @@ A Stream deals only in bytes; to read or write data types such as strings, integ
     - BinaryReader, BinaryWriter
 - XML adapters
     - XmlReader, XmlWriter
-
-![](Chapter%2015%20Streams%20and%20I%20O/Untitled%202.png)
 
 ## Text Adapters
 
@@ -4041,8 +4029,6 @@ If you’re serializing to XML, you can choose between XmlSerializer and the dat
 If you’re serializing to JSON, you also have a choice. JsonSerializer offers the best performance, whereas the data contract serializer has a few extra features due to its longer heritage. However, **if you need extra features, a better choice is likely to be the third-party [`Json.NET`](http://json.net/) library.**
 
 And if you don’t care about the format, the binary serialization engine is the most powerful and easiest to use. The output, however, is not human-readable and it’s less version-tolerant than the other serializers.
-
-![](Chapter%2017%20Serialization/Untitled.png)
 
 ## XmlSerializer
 
@@ -5078,8 +5064,6 @@ You can add an application manifest to a .NET Core project in Visual Studio by r
 ## Modules
 
 The contents of an assembly are actually packaged within an intermediate container, called a module. A module corresponds to a file containing the contents of an assembly. The reason for this extra layer of containership is to allow an assembly to span multiple files, a feature present in .NET Framework but absent in .NET Core.
-
-![](Chapter%2018%20Assemblies/Untitled.png)
 
 ## The Assembly Class
 
@@ -9059,8 +9043,6 @@ static IEnumerable<string> Foo()
 
 ### Composing Sequences
 
-![](Chapter%204%20Advanced%20C#/Untitled.png)
-
 ```csharp
 // Iterators are highly composable:
 
@@ -10475,8 +10457,6 @@ In computing, there are many different kinds of collections, ranging from simple
 
 characteristics of these data structures vary widely, the ability to traverse the contents of the collection is an almost universal need. The Framework supports this need via a pair of interfaces (IEnumerable, IEnumerator, and their generic counterparts) that allow different data structures to expose a common traversal API.
 
-![](Chapter%207%20Collections/Untitled.png)
-
 The IEnumerator interface defines the basic low-level protocol by which elements in a collection are traversed—or enumerated—in a forward-only manner. 
 
 ```csharp
@@ -10605,8 +10585,6 @@ numbers [0] = 12345;
 numbers [1] = 54321;
 ```
 
-![](Chapter%207%20Collections/Untitled%201.png)
-
 Because Array is a class, arrays are always (themselves) reference types—regardless of the array’s element type. This means that the statement arrayB = arrayA results in two variables that reference the same array. Similarly, two distinct arrays will always fail an equality test, unless you employ a structural equality comparer, which compares every element of the array
 
 ```csharp
@@ -10625,8 +10603,6 @@ Arrays can be duplicated by calling the Clone method: arrayB = arrayA.Clone(). H
 StringBuilder[] builders2 = builders;
 StringBuilder[] shallowClone = (StringBuilder[]) builders.Clone();
 ```
-
-![](Chapter%207%20Collections/Untitled%202.png)
 
 To create a deep copy—for which reference type subobjects are duplicated—you must loop through the array and clone each element manually. The same rules apply to other .NET collection types.
 
@@ -10832,8 +10808,6 @@ List<int> lengths = words.ConvertAll (s => s.Length);
 ### LinkedList<T>
 
 LinkedList<T> is a generic doubly linked list. A doubly linked list is a chain of nodes in which each references the node before, the node after, and the actual element. Its main benefit is that an element can always be inserted efficiently anywhere in the list because it just involves creating a new node and updating a few references. However, finding where to insert the node in the first place can be slow because there’s no intrinsic mechanism to index directly into a linked list; each node must be traversed, and binary-chop searches are not possible.
-
-![](Chapter%207%20Collections/Untitled%203.png)
 
 ```csharp
 var tune = new LinkedList<string>();
@@ -11566,8 +11540,6 @@ sorted.Dump     ("Sorted");
 finalQuery.Dump ("FinalQuery");
 ```
 
-![](Chapter%208%20LINQ%20Queries/Untitled.png)
-
 ### Why extension methods are important
 
 Instead of using extension method syntax, you can use conventional static method syntax to call the query operators
@@ -11875,8 +11847,6 @@ IEnumerable<string> query =
  where n.Length == names.OrderBy (n2 => n2.Length).First().Length
  select n;
 ```
-
-![](Chapter%208%20LINQ%20Queries/Untitled%201.png)
 
 With the Min aggregation function, we can simplify the query further
 
@@ -12198,8 +12168,6 @@ into three categories:
 
 Most query operators fall into this category—accepting one or more sequences as
 input and emitting a single output sequence
-
-![](Chapter%209%20LINQ%20Operators/Untitled.png)
 
 ### Filtering
 
