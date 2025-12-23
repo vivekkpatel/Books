@@ -4,19 +4,19 @@ title: How Legendary Traders Made Millions
 
 # How Legendary Traders Made Millions
 
-## ??????? What did i learn from this book?
+## What did i learn from this book?
 
 - this book explain last 100 years of stock market in detail
-- each chapter explain 10 year cycle of stock market, why market start going up, why it�s choppy trend and why it started going down
+- each chapter explain 10 year cycle of stock market, why market start going up, why it�s choppy trend and why it started going down
 - this also explain in detail how each famous trader manage to make profit by forecasting right trend of market
 
-## ?? Quotes 
+## Quotes 
 
-The stock market doesn�t care who we as individuals are, what we think, or how we feel. It�s a beast like no other: indifferent to human desires, oblivious to common wisdom, maddening contrary, and seemingly bent on confounding the majority at every turn. The only law it obeys is the law of supply and demand. And until you, as an investor, come to grips with this reality and learn to move with the market rather than against it, you�ll plagued by results that are mediocre at best.
-- William O�neil, The Successful Investor
+The stock market doesn�t care who we as individuals are, what we think, or how we feel. It�s a beast like no other: indifferent to human desires, oblivious to common wisdom, maddening contrary, and seemingly bent on confounding the majority at every turn. The only law it obeys is the law of supply and demand. And until you, as an investor, come to grips with this reality and learn to move with the market rather than against it, you�ll plagued by results that are mediocre at best.
+- William O�neil, The Successful Investor
 
-�You can always learn from history, because human nature doesn�t change and there�s really not as much that�s new in the market as most people believe. CWH patterns have appeared and reappeared in every cycle throughout market history. In every stock market and economic cycle through the entire twentieth century, the big funds and professional pools went after the best growth stocks at the time, ran them up, and eventually pushed PEs to levels no one could justify. It�s just history repeating itself over and over again, human nature continually on parade�
-- William J. O�Neil
+�You can always learn from history, because human nature doesn�t change and there�s really not as much that�s new in the market as most people believe. CWH patterns have appeared and reappeared in every cycle throughout market history. In every stock market and economic cycle through the entire twentieth century, the big funds and professional pools went after the best growth stocks at the time, ran them up, and eventually pushed PEs to levels no one could justify. It�s just history repeating itself over and over again, human nature continually on parade�
+- William J. O�Neil
 
 The truly flexible man in the market is the man who can be foolish at times, bullish at times, bearish at times, borrow money at times, be short at times, the person who can learn to be an expert on gold stocks in one period and some other style of stock in some other period. These men are exceedingly super rate. but they exist. And these are men to watch, the men to learn from, they are the men who really make money on wall street.
 - Gerald Loeb
@@ -60,8 +60,6 @@ From Baruch’s limited experience and as his observation of market activity beg
 
 this is world war era and how every one made his money in this time.
 
-![Untitled](2%20A%20Few%20Sidestep%20Landmines%20to%20Profit%20(1910-19)/Untitled.png)
-
 ### 1910-1911
 
 - Market mostly moved sideways in last 5 month of 1909
@@ -89,7 +87,6 @@ this is world war era and how every one made his money in this time.
 - Jesse livermore filed personal bankruptcy after losing all his profits of 1907 market.
 - Wyckoff was not mucking much money as the slow dragging downward market with light activity caused him to reduce his publishing expenses and cutt back on any expansion plans due to the slowed interest in the market.
 
-![Untitled](2%20A%20Few%20Sidestep%20Landmines%20to%20Profit%20(1910-19)/Untitled%201.png)
 
 ### 1915-1916
 
@@ -135,8 +132,6 @@ this is world war era and how every one made his money in this time.
 
 # 3: Shrewd Traders Made and kept Million (1920-29)
 
-![Untitled](3%20Shrewd%20Traders%20Made%20and%20kept%20Million%20(1920-29)/Untitled.png)
-
 ### 1920-1921
 
 - the market began 1920 where they left off in 1919 sliding downward. A recession began in january 1920 one that would lastt 19 months. the year 1920 saw the dow drop from just over 100to around 75
@@ -146,8 +141,6 @@ this is world war era and how every one made his money in this time.
 - The year 1921 would sever as pivotal point in the economy as it  started to strengthen with accommodative policies. In fact, the federal reserve would lower interest rates to 4.5% by year end. this was quite a reduction since they stood at 7% earlier in that year.
 - During this time Famous trader Gerald Loeb was really beginning his personal operations in the market. He started with 25000$ which he inherited from his father. In early 1923 loeb bought a tip from someone and put everything he had into auto stock. He bought 5000 shares with 10x leverage because margin was cheap at that  time. Shortly after purchase stock began to decline and the market topped and began slight correction. As stock continue to fall loeb refused to sell. In end loeb lost his all money in single trade. He again took 10000$ from his mom by selling some jewelry. Again he bought something from tip and lost everything again.
 - This second loss taught him one of the most valuable lessons for success in the market- do your own research. and with time, research and experience will lead one to better judgement. Loeb would later say that those first two major early losses for him were keys to why he did not lose money in the great crash of 1929. As we know, it takes losses in the stock market to make future great traders. when it comes to the stock market, perseverance is  one of the best traits to have, and learning from mistakes is one of the best teachers.
-
-![Untitled](3%20Shrewd%20Traders%20Made%20and%20kept%20Million%20(1920-29)/Untitled%201.png)
 
 ### 1927-1929
 
@@ -170,8 +163,6 @@ this is world war era and how every one made his money in this time.
 - After fall in September, a sharp rise on October 6 calmed some nerves on the street. However, the big and astute selling traders were not quite finished yet. as trading began to slow down a bit, more economic report came out showing continued weakness. stell production was poor and construction figures continued to weaken. also momentum of the October rebound was short lived. after sharp fall one good day is not enough to turn around what was becoming a new direction in the overall trend of market. in late October stocks sank again and leading stocks were taking more hits. People then started getting more concerned, and many started talking about the panic of 1907. but many thought that, due to federal reserve, more established leadership in the market, and previous experience form 1907, an event like that could not occur again. +
 - Livermore remembered 1907, and his thoughts were that since human emotions are involved, an event like that could happen again no matter what was in place. his memory of his actions and the market during that time helped him tremendously during this current time. on Saturday market fell again with heavy volume. this was the first day that heavy margin calls were being placed by brokerage houses. also, rumors started to circulate that jesse livermore might be responsible for the selling and that he was trying to pound the market lower. by that time though, he had already established plenty of short positions in the market since he had seen the change in trend to the downside weeks before
 
-![Untitled](3%20Shrewd%20Traders%20Made%20and%20kept%20Million%20(1920-29)/Untitled%202.png)
-
 - In short in few months market lost 1.5 years of gain. If one hadn’t sold correctly. by the end of november a mild rally brought  stock up off their low point for the year and breathed some life back to market. This clearly show that market don’t go straight up or straight down, but clearly the longer term trend had changed
 - Livermore, Kennedy and Loeb were mostly out of their long holdings by the time the end fo october came around. their astuteness and observation skills, while keeping their emotions in check, are just a few of the key successful traits of the great traders.
     - Baruch sold because he began to get bit uncomfortable with high prices and also because he liked to sell on the way up
@@ -180,8 +171,6 @@ this is world war era and how every one made his money in this time.
 
 
 # 4: Patience and Flexibility (1930-39)
-
-![Untitled](4%20Patience%20and%20Flexibility%20(1930-39)/Untitled.png)
 
 ### Loeb Quick Trades on Upturn
 
@@ -195,8 +184,6 @@ this is world war era and how every one made his money in this time.
 
 
 # 5: Victory Creates More Opportunity for Legendary Trader (1940-49)
-
-![Untitled](5%20Victory%20Creates%20More%20Opportunity%20for%20Legendary%20T/Untitled.png)
 
 The new decade began with the uncertainty of world war 2 hanging over the market. Reflecting this uncertainty the market continued in an almost perfect sideways fashion through april. Then when the German took Paris, the market dived from 150 straight to 120 in may. it also seemed certain that us would eventually enter the war as well. it would be huge task to finance another war, especially one as large as world war 2 was turning out to be.  
 
@@ -215,8 +202,6 @@ He then went on to say, “That’s why investing can’t be an exact science.�
 - The year 1942 continued the steady downtrend through april as the us was  no deeply engaged in the war. By the end of April the dow sank just below the 100 mark for the first time in nearly 7 years. From that point on, however, the market would never revisit the 100 level again.
 - And just as we’ve seen more than few times, when things look their wors and most people give up hope, that is when the smartest traders keep up their study and observation skills. In  loeb made statement “the market today offers opportunities of 1932”, even though, as yet, it is clear that the trend has not changed from down” . Here we see an experienced and knowledgeable operator relying on his past market cycle knowledge adn understanding of how the market works to try and identify what the current situation looked like. he stated this when the trend had not yet changed, but offered up at leastt the point that oen should not take their eyes off the market when there could be possiblity of a change based on historical market action. he made those statements just before the market tuned and would advance over 130% during the next two years. He also stated, “when the news gets good, and the situation clarifies, it will be too late”
 
-![Untitled](5%20Victory%20Creates%20More%20Opportunity%20for%20Legendary%20T/Untitled%201.png)
-
 ### Loeb Makes a Mistake
 
 - while the market was weakening and showing classic topping action, Loeb started to sell his holdings, but he sold too slowly. He later admitted that he had made a mjor mistake as he was thinking that rebound would occur in the market.
@@ -228,10 +213,6 @@ He then went on to say, “That’s why investing can’t be an exact science.�
 # 6: Innovative Stocks produce Fabulous Profits (1950-1959)
 
 Nicolas Darvas saw the trend and took full advantage of it
-
-![Untitled](6%20Innovative%20Stocks%20produce%20Fabulous%20Profits%20(1950/Untitled.png)
-
-![Untitled](6%20Innovative%20Stocks%20produce%20Fabulous%20Profits%20(1950/Untitled%201.png)
 
 As the new decade began and many areas of the economy were improving, there was a new sense of optimism in the air, though it was still measured. the market would begin what would trun out to be a slow steady rising trend in early 1950s. 
 
@@ -252,10 +233,6 @@ Trying to gain consistent success in the stock market is a difficult endeavor, a
 
 # 7: A ”Go-Go” Bull Run Puts Profits in Pockets that studied History (1960-1969)
 
-![Untitled](7%20A%20%E2%80%9DGo-Go%E2%80%9D%20Bull%20Run%20Puts%20Profits%20in%20Pockets%20that%20/Untitled.png)
-
-![Untitled](7%20A%20%E2%80%9DGo-Go%E2%80%9D%20Bull%20Run%20Puts%20Profits%20in%20Pockets%20that%20/Untitled%201.png)
-
 O’Neil start his trading in this decade. so first few part of this chapter explain his journey when and how he started, what mistakes he made in beginning and how he made his first big profit.
 
 ### O’Neil Sees a topping market
@@ -267,7 +244,6 @@ Here are just few of the early warning signals that occurred in 1966 that may ha
 - Boeing : From near 20$ per share in January 1964, boing was the leader rising the increased demand for aircraft manufacturing. the moved up strong throughout 1964, 1965 and the very beginning of 1966. By april 1966 the stock had reached 91 per share with 350% gain in two years. after topping with the market and forming a classic head and shoulders pattern, boeing started to break down and sell off on heavy volume. Many who had gained strong returns on this leader were cashing in their profits. the stock had undercut previous level of support (50 day moving average) and it was accompanied by heavy volume.  And by October it was 44% off from its top.
 - Motorola : another leading stock rose up to 215%. It was also topped in the same head and shoulders pattern as boeing at about same time. Volume increased notieably on the downside, the stock broke through areas it had not violated before, the market’s trend had changed, and other leading stocks were following the same pattern. By october motorola was down 55% from it’s high
 
-![Untitled](7%20A%20%E2%80%9DGo-Go%E2%80%9D%20Bull%20Run%20Puts%20Profits%20in%20Pockets%20that%20/Untitled%202.png)
 
 While many readers may point out that it’s easy to pinpoint tops and bottoms and calculate percentage ups and downs when looking from a historical perspective, as compared to making he proper decisions in the market at that exact time, it is important to learn that many of these same patterns in the market and in stocks do occur over again. also, many of these great traders understood this, and this is how they made decisions that lead to their incredible gains.
 
@@ -295,10 +271,6 @@ while the market was falling and looking for possible bottom, many leaders that 
 
 # 8: Most Get Whipped Up and Down Except the Best(1970-79)
 
-![Untitled](8%20Most%20Get%20Whipped%20Up%20and%20Down%20Except%20the%20Best(197/Untitled.png)
-
-![Untitled](8%20Most%20Get%20Whipped%20Up%20and%20Down%20Except%20the%20Best(197/Untitled%201.png)
-
 The new decade for the 1970s didn’t start off so well for economy and stock market. A slowing down business conditions that ushered in a recession just as the 1960s were ending greeted the new century and its president - Richard Nixon. The unemployment rate would begin rising; Also american troops would begin marching into cambodia, which just kept raising antiwar sentiments and concerns about this very unpopular and expensive campaign. Interest rates also moving higher.
 
 Many leading stocks were still sliding downward, and some of the best performers of the prior run up had already started showing signs of cracking as there was clear lack of buying power in the market to support these former leaders. 
@@ -308,9 +280,6 @@ It’s critical to keep watching even the best stocks that produced the best ret
 
 # 9: A Great Trader Outruns the Bull and Avoids the Crash (1980-89)
 
-![Untitled](9%20A%20Great%20Trader%20Outruns%20the%20Bull%20and%20Avoids%20the%20C/Untitled.png)
-
-![Untitled](9%20A%20Great%20Trader%20Outruns%20the%20Bull%20and%20Avoids%20the%20C/Untitled%201.png)
 
 The new decade of the 1980s started off with hope, and the major indexes climbed throughout january. But by early February it seemed the choppy and whipsawing 1970s market environment was back. The markets fell sharply throughout February and march. Times are still very challenging, and the economy actually fell into a recession beginning in january 1980. The federal reserve was still maintaining a very tight control over the money supply and interest rates keep rising.
 
@@ -337,22 +306,13 @@ How Did he do it?
 
 # 10: New Technologies Produce Unprecedented Opportunities (1990-99)
 
-![Untitled](10%20New%20Technologies%20Produce%20Unprecedented%20Opportun/Untitled.png)
-
-![Untitled](10%20New%20Technologies%20Produce%20Unprecedented%20Opportun/Untitled%201.png)
-
-
 # 11: Avoiding Bear Tracks Keeps Prior Profits in Expert Accounts (2000-2004)
-
-![Untitled](11%20Avoiding%20Bear%20Tracks%20Keeps%20Prior%20Profits%20in%20Exp/Untitled.png)
 
 
 # 12: Learning from the lessons of History and the Greatest Traders
 
 “You can always learn from history, because human nature doesn’t change and there’s really not as much that’s new in the market as most people believe. CWH patterns have appeared and reappeared in every cycle throughout market history. In every stock market and economic cycle through the entire twentieth century, the big funds and professional pools went after the best growth stocks at the time, ran them up, and eventually pushed PEs to levels no one could justify. It’s just history repeating itself over and over again, human nature continually on parade”
 - William J. O’Neil
-
-![Untitled](12%20Learning%20from%20the%20lessons%20of%20History%20and%20the%20Gr/Untitled.png)
 
 ### What Successful traders do to beat the market
 
