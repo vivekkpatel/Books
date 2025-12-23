@@ -4,7 +4,7 @@ title: The Perfect Speculator
 
 # The Perfect Speculator
 
-## ?? Quotes / Summary
+## Quotes / Summary
 
 - most of content available in this book is already know to me but learnd few things
 - More details about price action which i am planning to implement

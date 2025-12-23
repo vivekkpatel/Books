@@ -4,15 +4,15 @@ title: Think and Trade like a Champion
 
 # Think and Trade like a Champion
 
-### ??????? What did i learn from this book?
+### What did i learn from this book?
 
 - Theory behind different type of setups VCP, CWH, 3C pattern, double bottom, bull flag
 - How to manage risk, when to buy, when to sell, how to manage positions
 - Tips for super performance against traditional market beliefs
 
-### ?? Quotes
+### Quotes
 
-Champions don’t leave greatness to chance. They decide that they are going to be winners, and they live each day with that goal in focus.
+Champions don't leave greatness to chance. They decide that they are going to be winners, and they live each day with that goal in focus.
 
 Hold Tennis balls and sell eggs
 
