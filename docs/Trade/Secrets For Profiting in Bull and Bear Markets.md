@@ -17,7 +17,7 @@ By consistently following my methods, you will be right a very high percentage o
 
 ### Let’s all Speak the Same Language
 
-![Untitled](1%20It%20All%20Starts%20Here/Untitled.png)
+
 
 - Support
     - The area where a stock that has been declining is likely to stabilize and then bounce off and move higher (at least temporarily). It's like a floor.
@@ -45,7 +45,7 @@ By consistently following my methods, you will be right a very high percentage o
     - If you take a ruler and connect any two lows on a given chart, you've drawn a trendline.
     - there is a big difference between a trendline and a significant trendline! A significant trendline will be touched at least three times.
 
-![Untitled](1%20It%20All%20Starts%20Here/Untitled%201.png)
+
 
 - Trader
     - When I address traders in this book, I'm not talking about people who buy in the morning and selling the afternoon. My definition of a trader is someone who wants to catch each significant two to four months move. This is what I consider intelligent trading. Buying on Monday and selling on Tuesday is smart only if you want to make your broker rich.
@@ -67,7 +67,7 @@ By consistently following my methods, you will be right a very high percentage o
 
 ## Stage Cycle
 
-![Untitled](2%20One%20Glance%20is%20Worth%20a%20Thousand%20Earnings%20Forecast/Untitled.png)
+
 
 ### Stage 1: The Basing Area
 
@@ -128,7 +128,7 @@ The advantage of purchasing on a pullback is that you can play movie critic and 
 
 So which tactic is best? Should you wait and only buy on a pullback? No! If you wait to do only such low-risk buying, you are going to miss out on some of the biggest winners. Those few stocks that never pull back are demonstrating the strongest rocket propulsion. These are going to be giant winners, so we most definitely do not want to be left on the launching pad. If you're a long-term investor, compromise and buy half of your intended position on the initial breakout, and the other half if the stock pulls back close to the breakout price and you like the post-breakout action. 
 
-![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled.png)
+
 
 Chart 3-1 shows graphically what the process looks like. Point A is an excellent time to do new buying. It's an especially good entry point for investors. At this juncture the risk is extremely low since the base of support is just underneath your purchase price.
 
@@ -140,13 +140,13 @@ This is called a continuation buy. Again there is a tradeoff involved. In this c
 
 Early in a major bull market, however, there is absolutely no need for investors to do continuation buying since so many stocks are breaking out oftheir bases for the first time." On the other hand, later in a bull market-such as in 1986-1987-there are very few early Stage 2 buys left, but plenty of the continuation variety still occurring. At those times even investors should do some continuation buying.
 
-![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled%201.png)
+
 
 ## UNDER THE MICROSCOPE
 
 Now let's slowly go through the process of how a stock completes its Stage 1 base and moves into Stage 2 so it will be absolutely clear exactly when you should do your buying
 
-![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled%202.png)
+
 
 Look at Chart 3-5 and note how XYZ is moving between support near 8 and resistance at 12. The basing action is all taking place close to the 30-week MA which is no longer declining sharply but has instead started to flatten out. When and if this stock breaks out above resistance at 12, that is the perfect time to enter the stock.
 
@@ -176,7 +176,7 @@ Before moving on to the next very important topic-what to buyI want to make sure
 
 In most cases, there will be a temporary rally for a few weeks, then the stock will falter. On a best-case basis, the stock will undergo additional basing as the MA flattens out. On a worst-case basis, it will break below the bottom of the trading range and start a severe new downleg.
 
-![Untitled](3%20The%20Ideal%20Time%20to%20Buy/Untitled%203.png)
+
 
 ## WHAT TO BUY
 
@@ -193,7 +193,7 @@ If you follow this three-step process, you will find yourself heavily invested i
 
 ## THE LESS RESISTANCE THE BETTER
 
-![Untitled](4%20Refining%20the%20Buying%20Process/Untitled.png)
+
 
 You are now seasoned enough to know that this stock is a buy. But do you want to purchase it? Not necessarily. Even though the probabilities are very strong that this stock is going to advance and you'll make money, that isn't enough. At first this may sound crazy to you. I wouldn't be surprised to hear you say, "What is Stan talking about? I've bought a bunch of dogs that have gone down before I've gotten my confirmation slip. Now he's telling me that this stock is going to advance and I shouldn't buy it!”
 
@@ -201,7 +201,7 @@ There's a concept in economics called opportunity costs which applies perfectly 
 
 Now go back to Chart 4-1 and I'll show you why this is a B - buy. Once XYZ gives a positive signal by breaking out above 15 resistance, you must look at where the next area of resistance is. It's 18, which was the floor ofsupport from the prior trading range. Remember that support, once broken, later becomes resistance when the stock rallies back to that level. If XYZ does overcome that resistance it will find the going very tough all the way up to 20. So the entire 18 to 20 area presents significant potential resistance. That doesn't mean the stock will never overcome that area. What it does mean is that it will use up a great amount of buying power to get through this zone. So it will most likely stall in that area for quite a while. Even in the unlikely event that it gets past the resistance in a hurry, it will be tired and need to regroup. It's no different from someone who has to climb six flights of stairs to get to their apartment versus another person who can simply take an elevator. Who is obviously going to have more energy left? It's the same with stocks. If stock XYZ and ABC both stage breakouts and then benefit from 500,000 shares of buying in the next several sessions, which one is going to go further? The one with little or no resistance in its path, or the one with plenty of overhead supply? The answer is obvious.
 
-![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%201.png)
+
 
 So now let's look at Chart 4-2 of stock ABC. It's in the same group as XYZ and is also breaking out above resistance and its MA. But whereas XYZ had a clear zone of resistance just a few points overhead, ABC has no overhead resistance on the chart. While it may have traded at higher prices, it hasn't done so in the past 2-plus years. (The Mansfield chart shows the history for about 2V2 years.) While resistance is still in existence even from several years ago, my studies have shown that the older the resistance, the less potent it is. This makes sense since resistance is created by sellers who bought at higher prices and want to get out close to their purchase price after the stock declines. As time passes, more and more investors take their losses at the end of each trading year. So if it doesn't show up on the chart, it's no big deal
 
@@ -211,7 +211,7 @@ Volume is a gauge of how powerful the buyers are. As I said earlier, stocks can 
 
 The rule is very simple. Never trust a breakout that isn't accompanied by a significant increase in volume.
 
-![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%202.png)
+
 
 Chart 4-7 shows exactly how a technically healthy pattern should unfold volumewise. When the stock is in the base area, the volume pattern will be erratic.  
 
@@ -223,7 +223,7 @@ Once XYZ breaks out above the top ofits resistance area and moves above its 30-w
 
 This is a measure of how a stock is acting in relation to the overall market. Even if a stock is rising, it can show poor relative strength. Likewise, a declining issue can demonstrate positive relative strength. Think about it. If XYZ rises by 10 percent while the Standard and Poor's composite" advances by 20 percent, XYZ is lagging badly even though it is moving higher. Not only isn't it a leader, but it obviously is being pulled reluctantly higher. Therefore, the probabilities are very high that when the overall market turns down XYZ will get bombed.
 
-![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%203.png)
+
 
 ## QUICK REFERENCE GUIDE ON BUYING
 
@@ -240,7 +240,7 @@ This is a measure of how a stock is acting in relation to the overall market. Ev
 
 The first one is the head-and-shoulder bottom formation. This is the most powerful and reliable of all bottom formations. Most investors have heard of it, but few really know one when they see it. In fact, novice technicians usually imagine them on every other page of a chart book, just as a first-year medical student often worries that he has contracted every disease that he studies
 
-![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%204.png)
+
 
 This dynamic pattern appears after a stock has suffered a major decline and is ready to reverse sharply to the upside. Chart 4-20 shows what to expect as this pattern unfolds. First there is a decline that drops XYZ to a new low, followed by an oversold rally (point A). The left shoulder has just formed but it is too early for you to know that at this time.
 
@@ -254,7 +254,7 @@ There are two signals that are important and very reliable. Both are from our sy
 
 ## DOUBLE-BARRELED ACTION
 
-![Untitled](4%20Refining%20the%20Buying%20Process/Untitled%205.png)
+
 
 As you can see from Chart 4-27, stock XYZ should first hit a low (point A), then bounce higher once the selling pressure lessens. Then a second wave of selling develops which brings XYZ all the way back down to its prior low (point B). It's a favorable sign ifthe renewed selling pressure cannot ignite a significant new downleg in the stock. It doesn't matter if there is a marginal new low with B dropping slightly below point A. The important thing to watch for is that on the next rally the stock snaps back toward the recent peak.
 
@@ -295,9 +295,9 @@ Here a bit of mathematics comes into play. If you have $50,000 invested and you 
 
 ## THE TRIPLE CONFIRMATION PATTERN
 
-![Untitled](5%20Uncovering%20exceptional%20winners/Untitled.png)
 
-![Untitled](5%20Uncovering%20exceptional%20winners/Untitled%201.png)
+
+
 
 In addition to the basic requirements of the stock being above the MA, the following three events must take place. First, there must be a volume signal. This is vital! The market champs almost always have substantially larger volume on the breakout than during any point in the Stage 1 base area. For this type of big winner we want to see volume of even more than twice the average trading of the past four weeks. In addition, the heavy volume should not be shortlived. The initial volume surge should be followed by several more weeks of heavy trading. This signal indicates a sudden tremendous interest in the stock, as well as additional future demand. Since the stock is starting to run away on the upside, buyers will be fast to add to positions on any corrections. When the dips are too shallow to accommodate their buying, these buyers will often get into a buying panic.
 
@@ -339,7 +339,7 @@ While there are occasional exceptions because a chart pattern is so outstanding,
 
 ## SELL-STOPS IN THE REAL WORLD
 
-![Untitled](6%20When%20to%20Sell/Untitled.png)
+
 
 Now let's get to specifics so you will be sure to know exactly where your sell-stop should initially be placed, and when and to what level it should later be raised. Stock XYZ was in a trading range of 18V4 to 20V4 before it broke out and moved into Stage 2. You bought the stock at 203/ 8 and the initial stop was set under the round number at 17718. Now all you have to do is sit back and wait. In the unlikely event that the stock breaks down, you will be sold out when the 177/ 8 stop is hit.
 
@@ -361,11 +361,11 @@ So before getting into the proper way for traders to time their sales, I want to
 
 The first trading technique to perfect centers on the trailing sell-stop. Traders must be much more aggressive than investors in their use of this tool. Investors ideally want to stay with a position as long as the stock is in Stage 2. They accept the reality that there will be some pretty stiffsetbacks along the way. In addition, months may go by when the stock moves sideways and consolidates before moving higher. Traders, on the other hand, realize that time is money. They not only want to sidestep all significant declines, they even want out if the stock is entering a neutral zone for several months. This makes sense because they can shift into a new stock that is ready to move into the exciting part of its cycle while the old situation simply zigs and zags. Therefore, a trader shouldn't wait for the 30-week MA to be violated on a selloff before selling. (In fact, if he can time the sale nicely when XYZ is well above the MA, the trader will often repurchase on dips back close to the MA.)
 
-![Untitled](6%20When%20to%20Sell/Untitled%201.png)
+
 
 ## TRENDING TOWARD PROFITS
 
-![Untitled](6%20When%20to%20Sell/Untitled%202.png)
+
 
 In many cases, no valid trendline will form and you should simply use the trading sell-stop concept. But when an aggressive trendline does take shape, use it, because it's a way of locking in even more of the profit. At least a portion of the position should be sold when such a trendline is violated. Then the remainder can be handled via the sell-stop route, which will usually be at a somewhat lower level.
 
@@ -425,7 +425,7 @@ starting point is to look for a stock that has had a substantial advance over th
 
 ## WHEN TO SELL SHORT
 
-![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled.png)
+
 
 The next question to resolve is: When is the best time to initiate your short sale? Is it when the initial breakdown occurs (point A), or when the pullback rally takes the stock back toward the breakdown area (point B)? Again, everything that we learned on the buy side is valid when we're shorting. Wejust have to reverse the steps.
 
@@ -476,7 +476,7 @@ Head-and-shoulder top formations (especially when they come after a dynamic adva
 
 The first ingredient of a valid head-and-shoulder top pattern is a stock which has been very strong and already had a substantial advance. The beauty of this formation is its ability to spot trend reversals. If there's no big prior upmove to reverse, forget it; it's not going to be exciting. Volume should be well above average on the advance, as the latecomers rush in close to the end of the move. Then along comes a correction, as profit-taking sets in (B-C on Chart 7-26). Once the selloff runs its course (point C), the stock then shoots ahead to another new high (point D). No problem yet, except that on this second rally, volume usually stops expanding and is often less than on the preceding rise. This is the first sign of potential trouble. The dwindling volume reflects lessened buying interest at this lofty level.
 
-![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%201.png)
+
 
 A second correction (D-E) then quickly sets in. This is another sign that something is starting to go wrong. After breaking to a new high (point D), the stock appears to be embarking on a new upleg as the buyers' greed glands start to work overtime. Instead, the stock only moves ahead a few points and then quickly sells off once again. The clincher that tells you weakness is setting in is how far back this second decline (D-E) carries. As I've shown you before, when dealing with support areas, the former peak (B) should act as support when the stock starts to decline. The fact that the decline instead carries the stock all the way to the prior low (C) is a distinct negative
 
@@ -486,7 +486,7 @@ There are a few other subtleties that you should be aware of. The first can easi
 
 ## PROJECTING A TARGET
 
-![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%202.png)
+
 
 Using Chart 7-30 as a model, take the low price that a stock hits (point A) while it is in a top area and subtract it from the highest level that the stock reaches thereafter (point B) before it breaks below the prior low (A). Since the stock peaked at 60 (point B) and the prior low (point A) was at 40, you get a difference of 20 points (60 minus 40). The next step is to subtract that 20 points from the old low (point A). 40 minus 20 points equals 20. This level then becomes a potential trading target. Just as on the long side, this measurement is usually quite accurate, and it pays to be alert for signs of a trading bottom forming near there
 
@@ -498,17 +498,17 @@ Before going further, promise yourself that you will absolutely never go short w
 
 After you sell your stock short and place the protective buystop, it's very important to know how to methodically lower the stop in the following weeks to lock in more and more of the gain
 
-![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%203.png)
+
 
 ## USING BUY-STOPS THE TRADER'S WAY
 
-![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%204.png)
+
 
 ## TRENDLINES ON THE DOWNSIDE
 
 If no valid trendline forms (one that hits at least three points), then simply use the trading buy-stop technique. When a clear-cut trendline does form, it certainly pays to utilize it. At least a portion of the short position should be covered when such a trendline is violated. The remainder can be protected with a buy-stop, which will usually be at a somewhat higher price than the trendline.
 
-![Untitled](7%20Selling%20Short%20The%20Less%20Travelled%20Read%20to%20Profits/Untitled%205.png)
+
 ## 8: Using the Best Long-Term Indicators to Spot Bull and Bear Markets
 
 While it's always important to keep in touch with the major trend, it's absolutely vital when the market moves into a high-risk zone (such as late 1972 and early October 1987), or a low-risk area (such as early 1975 and the summer of 1982). These are the times when false signals and whipsaws are most likely to pop up on your individual stock charts. By identifying when you are entering a high-risk area, you can build up large cash reserves and become extremely selective in your purchases. In addition, you can test the waters with a short sale or two. On the other hand, when our trusted indicators point out that the market is entering a low-risk zone, at the end of a bear market, it makes sense to start locking in profits on short sales, building up cash reserves, and getting ready to start doing selective buying.
@@ -517,13 +517,13 @@ While it's always important to keep in touch with the major trend, it's absolute
 
 ust as with stage analysis for individual stocks, once a potential Stage 3 top forms on the DJIA, you must proceed with caution. Then when the Dow breaks below its 3D-week MA and breaks down into Stage 4, it's time to become very defensive. Suspend buying even if you see a few stocks breaking out on their charts. Be sure to sell any stocks that are showing poor relative strength. Pull up your protective sell-stops as tightly as possible on your few remaining long positions. Finally, start hunting for ideal short-sale patterns.
 
-![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled.png)
+
 
 While this key long-term indicator certainly isn't infallible and will give an occasional whipsaw signal, it is incredibly reliable. No bear market in the past several decades has unfolded without this gauge flashing a negative signal.
 
-![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled%201.png)
 
-![Untitled](8%20Using%20the%20Best%20Long-Term%20Indicators%20to%20Spot%20Bull/Untitled%202.png)
+
+
 ## 9: ODDS, ENDS, AND PROFITS
 
 ## FUN WITH FUNDS

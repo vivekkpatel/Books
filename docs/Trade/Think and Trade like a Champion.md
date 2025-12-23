@@ -79,7 +79,7 @@ Contingency Planning is an ongoing process, As you experience new problems, a pr
 - If big institutes are in there accumulating a position, it will likely happen over a number of days with persistent buying.
 - on the other hand small retail buying may break a stock out, but the buying will not be enough to hold the stock up for very long. the best indication that you’re going to make big money on trade is when you’re at profit right away and the stock follows through for sever days on good volume
 
-![Untitled](Section%201%20Always%20go%20with%20plan/Untitled.png)
+
 
 ### Hold Tennis balls and sell eggs
 
@@ -97,9 +97,9 @@ Often, a stock will emerge through a buy point and then pull back to or slightly
 
 it’s during those pull backs that you get to see what the stock is really made of. Does it come bouncing back like a tennis ball or does it go splat like an egg? the best stocks usually rebound the fastest. once i buy a stock , if it meets my upside expectations very quickly and displays tennis ball action, i will probably hold it longer. 
 
-![Untitled](Section%201%20Always%20go%20with%20plan/Untitled%201.png)
 
-![Untitled](Section%201%20Always%20go%20with%20plan/Untitled%202.png)
+
+
 
 ### Watch out for multiple violations
 
@@ -191,9 +191,9 @@ In early stages of a new bull market, a new emerging leader could make a huge pr
 
 I like to use staggered stops when i think a stock has a chance  of making a really big gain and I want to have the best chance possible to stay in the position. When market volatility is high and my stops are getting hit, I sometimes bracket my stops to have a chance at staying in two thirds of the position at my original stop.
 
-![Untitled](Section%203%20Never%20Risk%20more%20than%20you%20expect%20to%20gain/Untitled.png)
 
-![Untitled](Section%203%20Never%20Risk%20more%20than%20you%20expect%20to%20gain/Untitled%201.png)
+
+
 
 - +54% in two months. The stock pulled back 6.1 percent, stopping you out completely if you used 6 percent stop. By bracketing stops, selling half at 4 percent and half at 8 percent, you maintained 6 percent risk, but stayed in half the position
 
@@ -201,7 +201,7 @@ I like to use staggered stops when i think a stock has a chance  of making a rea
 
 I like to try and make as much as I can on a winning stock position. As a result, I get creative with the ways I pyramid and add to positions. My goal, as always, is to minimize risk and maximize my potential gains. 
 
-![Untitled](Section%203%20Never%20Risk%20more%20than%20you%20expect%20to%20gain/Untitled%202.png)
+
 
 This pyramiding technique uses paper profit to finance a scaled-up trade while keeping dollar risk constant.
 
@@ -238,7 +238,7 @@ I recommend that you continually track your batting average, average gain and lo
 
  
 
-![Untitled](Section%204%20Know%20the%20truth%20about%20your%20trading/Untitled.png)
+
 
 - The Ideal distribution is to have as many outliers as possible on the right and fewest on the left, attaining a “skewed” curve.
 
@@ -264,7 +264,7 @@ Stories, earnings reports, and valuation do not move stock prices. people do. wi
 
 Learn to trust your eyes, not your ears. If the stock’s price action is not confirming the fundamentals, stay away.
 
-![Untitled](Section%205%20Compound%20Money,%20Not%20Mistakes/Untitled.png)
+
 
 ### The 50/80 rule
 
@@ -289,9 +289,9 @@ If I’m not profitable when I’m 25% or 50% invested, why would i move up my e
 
 it’s just opposite. I look to scale down my exposure if thing are not working out as planned or maybe I’ll hold what i currently own.
 
-![Untitled](Section%205%20Compound%20Money,%20Not%20Mistakes/Untitled%201.png)
 
-![Untitled](Section%205%20Compound%20Money,%20Not%20Mistakes/Untitled%202.png)
+
+
 
 ### Never lt a good size gain turn into a loss
 
@@ -352,7 +352,7 @@ Similarly, with each contraction in a VCP, the price of the stock gets “tighte
 
 Here how it works in real life.
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled.png)
+
 
 As the stock moves through the $17 area, you can see how fast it advances with little resistance. the reason is that supply has stopped coming to market. with little supply available, even small amount of demand can move the stock up. and if your long term work is accurate, and big institutions are indeed in there accumulating the stock , the sky could be the limit. this is a vital concept for successfully timing your buys.
 
@@ -376,11 +376,11 @@ I created quick way to capture a visual of a stock by quicky reviewing my nightl
 
 let’s look at netflix justt before it made more than 500% move in just 21 months. 
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled%201.png)
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled%202.png)
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled%203.png)
+
+
+
 
 After rallying shaply off 2008 bear market lows, the stock established a well defined uptrend. clear evidence that big institutions were accumulating the stock. these big players saw mom and pop video rental stores, regional chains, and even blockbuster video being challenged by a new comer called netflix, which rented movies online a model that accelerated its sales and earnings dramatically.
 
@@ -390,7 +390,7 @@ You didn’t have to know everything about the video rental market or be a retai
 
 Now let’s look at meridian bioscience.
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled%204.png)
+
 
 In the midst of stage 2 uptrend, this stock underwent a series of volatility contractions as it consolidated before continuing its upward run. Meridian bioscience contracted four times (4T) before it emerged out its 40 week (40W) consolidation and advance more than 100% in next 15 months.
 
@@ -398,7 +398,7 @@ In the midst of stage 2 uptrend, this stock underwent a series of volatility con
 
 As a stock corrects and heads lower, inevitably there are trapped buyers who bought higher and now sitting with a loss. Trapped buyers agonize over their deepening paper losses and hope for rally to sell. as their losses grow and more time passes, many of these buyers would be delighted just to get even. this is what creates overhead supply in a stock investor who want out on a rally or around breakeven point. they can’t wait to sell, after that roller coaster ordeal, they are thrilled just to get out at breakeven.
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled%205.png)
+
 
 Adding to the supply is another group of buyers who, unlike the trapped buyers sitting at a loss and waiting to break even, were fortunate enough to bottom fish the stock. now they are accumulating nice short term profits. as the stock trades back up near its old high, and as the trapped buyers are getting even, the profit takers also feel the urge to sell and nail down a quick buck. all this selling creates a price pullback on the right side of the base. if the stock is indeed being accumulated by institutions, these contractions will get smaller from left to right as available supply is absorbed by the bigger players appetites for stock. this is simply law of supply and demand at work, an indication that stock is changing hands in orderly manner.
 
@@ -426,7 +426,7 @@ This often occurs because the pivot point is where supply is low; therefore even
 
 Figure 6-10 shows meli and it’s technical footprint of 6W 32/6 3T, meaning that the basing period occurred over six weeks, with corrections that began at 32% and concluded at 6% at the pivot. After charging through the pivot point, stock price shot up 75% in just 13 days. This is the type of rapid price escalation I’m interested in capturing because of the potential to really compound money and achieve superperformance.
 
-![Untitled](Section%206%20How%20and%20When%20to%20buy%20stocks-%20Part%201/Untitled%206.png)
+
 
 ### Volume at the Pivot
 
@@ -481,7 +481,7 @@ The cheat setup has the same qualification as the classic cup with handle, becau
 
 To qualify, the stock should have already moved up by at least 25 to 100% and ins some cases by 200-300% during the previous  month of trading. The stock also should be trading above its upwardly trending 200 day moving average (provided that 200 days of trading in the stock has occurred.  the pattern can form in as few as 3 weeks to 45 weeks (most are 7 to 25 weeks in duration). the correction from peak to low point varies from 15-20% to 35-40% in some cases, and as much as 50% depending on the general market conditions. Correction in excess of 60% are usually too deep and extremely prone to failure. 
 
-![Untitled](Section%207%20How%20and%20when%20to%20Buy%20Stocks%20-%20Part%202/Untitled.png)
+
 
 Stock emerged from 3-C pattern just days after the Dow made its low. The stock advanced
 1,000 percent in 38 months. Note the difference between the 200-day moving average lines; the market is trading below a declining line, while Humana is trading above a rising line.
@@ -495,9 +495,9 @@ four steps to stock turning up through the cheat area
 3. Pause
 4. Breakout
 
-![Untitled](Section%207%20How%20and%20when%20to%20Buy%20Stocks%20-%20Part%202/Untitled%201.png)
 
-![Untitled](Section%207%20How%20and%20when%20to%20Buy%20Stocks%20-%20Part%202/Untitled%202.png)
+
+
 
 ### The double bottom
 
@@ -505,7 +505,7 @@ The double bottom is structure that forms a “W” and undercuts previous low w
 
 This pattern can also develop soon after an IPO as primary base or second stage base.
 
-![Untitled](Section%207%20How%20and%20when%20to%20Buy%20Stocks%20-%20Part%202/Untitled%203.png)
+
 
 ### The Power Play
 
@@ -528,9 +528,9 @@ To qualify as power play, the following criteria must met
 - Following the explosive move, the stock price moves sideways in relatively tight range, not correcting more than 20% over period of 3-6 weeks
 - if the correction in the base then it does not exceed 10%, it is not necessary to see price tightening in the form of volatility contraction, because the price is already tight enough
 
-![Untitled](Section%207%20How%20and%20when%20to%20Buy%20Stocks%20-%20Part%202/Untitled%204.png)
 
-![Untitled](Section%207%20How%20and%20when%20to%20Buy%20Stocks%20-%20Part%202/Untitled%205.png)
+
+
 
 more info
 
@@ -598,7 +598,7 @@ More than 90% of big upward moves emerge from market corrections. That’s your 
 
 Keep in mind, the later stage bases become increasingly obvious, and the more obvious they get, the more people will have piled into the stock. All that are left are potential sellers. this is what i call and some refer to as “crowded” trade. As they say in the stock market, what’s obvious is obviously wrong. As the stock gets crowded, all eyes are on it because it has already made a strong move, an investors have seen the bases work many times in the past. This attracts less-informed investors. The “smart money” that got in early is now looking to exit and lock in profits, and dump the stock into retail buyers hands. This selling or liquidation takes place on the way up when the stock is making headlines and everyone is excited and happy; that’s why it’s difficult for most investors to identify.
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled.png)
+
 
 ### P/E Expansion
 
@@ -606,11 +606,11 @@ The stock’s P/E also can give you some indication as to where a stock is in it
 
 When i buy a stock, I take note of its P/E ratio. Now, let’s say this is a position I hold over the next year. Duringg that time, the stock goes through two , three, or four bases as described, periods of “plateaus” when previous upward surges are digested before the price acceleration continues. When that stock gets to a late-stage base- let’s say it’s putting in base 4 or 5 I take note of the P/E again and compare it to ration when I bought it. Or, if I bought a stock during a later stage base, I’ll compare the current P/E to the ratio at the first base at the beginning of the move. If thatP/E has doubled or more say from 20 to 40 I know I must be careful.
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%201.png)
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%202.png)
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%203.png)
+
+
+
 
 ### The Climax Top
 
@@ -618,9 +618,9 @@ After leading stock has made a healthy advance for many months, the price will a
 
 A climax top occurs when the stock price runs up 25 to 50% or more over the course of one to three weeks. Some can advance 70 to 80% in just 5 or 10 days.
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%204.png)
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%205.png)
+
+
 
 ### Selling into strength, Specific things to watch
 
@@ -646,9 +646,9 @@ In addition
 - elevated volume without much price progress- “churning”
 - The stock price down on the largest volume since the beginning of the move
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%206.png)
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%207.png)
+
+
 
 ### Selling into weakness
 
@@ -658,9 +658,9 @@ When this occurs, it’s major sell signal, because the big boys are piling out,
 
 Before it becomes apparent that the fundamentals of a company have changed, a major break in the stock price could occur on overwhelming volume. **If your stock experiences its largest daily and or weekly price decline since the beginning of a stage 2 advance, this is almost always an outright sell signal.**
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%208.png)
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%209.png)
+
+
 
 ### You will always sell too soon or too late
 
@@ -670,7 +670,7 @@ Remember, your goal is to make more on your winners that you lose on your loser,
 
 You might as well know something right up front. you're almost never going to get the highest price, but it’s not necessary to do so to achieve super performance. Instead of worrying about selling at that high or buying at the low, concern yourself with what trading is about: making a good size profit and repeating it over and over. The goal is to sell stocks higher than you buy them. this has little to do with where the stock trades relative to where it once traded.
 
-![Untitled](Section%209%20When%20to%20sell%20and%20nail%20down%20profits/Untitled%2010.png)
+
 
 ## Section 10 Eight Keys to Unlocking Super performance
 

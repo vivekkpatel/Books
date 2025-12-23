@@ -36,23 +36,23 @@ title: The Perfect Speculator
 19. Keep a written journal of each and every trade
 ## Appendix 2 : A picture is worth a thousand words
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%201.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%202.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%203.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%204.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%205.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%206.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%207.png)
 
-![Untitled](Appendix%202%20A%20picture%20is%20worth%20a%20thousand%20words/Untitled%208.png)
+
+
+
+
+
+
+
+
+
 ## Chapter 1 : The Speculator’s Call
 
 this first chapter mostly explain about author reason to write this book. Another major point through this chapter is importance of price and volume action of stock to buy and sell stock. 
@@ -77,9 +77,9 @@ The average retail speculator has no change of out researching the vast machiner
 - Market don’t move up and down in straight line. However in confirmed up trend, the market moves up little and then reacts and move down a little. But the move down or the reaction is less than the first move up. Then it moves up yet again. This time it moves up to a point much higher than the high it made the previous time it moved up. Then it reacts and moves down again. But the down move reaches down to point that is much higher than the lowest point during the last down move. In essence, we are seeing series of higher high and lower lows. this is confirmed trend.
 - A down trend works in exact reverse. A confirmed down trend is when series of lower high and lower lows are being pegged by the market or the stock
 
-![Untitled](Chapter%202%20Can%20Speculation%20be%20learned/Untitled.png)
 
-![Untitled](Chapter%202%20Can%20Speculation%20be%20learned/Untitled%201.png)
+
+
 
 ### Type of personality in the market
 
@@ -91,9 +91,9 @@ The average joe who comes to market does not even know who he is. He has no clue
 - Speculator will place his commitments only when odds favour him. A speculator will not make commitments until he has clearly seen at least one set of higher high to confirm and uptrend or one set of lower lows to confirm a down trend.
 - Speculator also have to time his trade. not only does he need to time his trade but also mnage his money so that should he be wrong in his interpretation based on his observation, he will lose small amounts. At this early point, the speculator is not looking to make a killing. He is just trying to confirm if he is in sync with the market.
 
-![Untitled](Chapter%202%20Can%20Speculation%20be%20learned/Untitled%202.png)
 
-![Untitled](Chapter%202%20Can%20Speculation%20be%20learned/Untitled%203.png)
+
+
 
 ### Summary
 
@@ -178,7 +178,7 @@ Any new confirmed market up trend must have new set of young unknown young growt
 
 ### 20/4 Type stock move
 
-![Untitled](Chapter%206%20Confirm%20everything/Untitled.png)
+
 
 - when stock move at very least 20% or more in price from the high of its last breakout within four weeks or less.
 - This 20% move within four weeks must have occurred without the stock ever heading back into the consolidation price area.
@@ -208,7 +208,7 @@ An almost certain signal of an up trending stock shows up on a weekly chart. One
 
 Interpreting price and volume action, however requires a discerning eye. The art of learning to read such signals on a chart is a lot like reading an xray. It takes some time, practice and lot of experience. Eventually, one is able to take a look at a chart and within seconds see many of the characteristics that jump out. Pretty much like a radiologist who can take a quick glance at an x-ray and immediately interpret some clearly visible signs. Once the initial signs are seen, at that point further careful study is needed.
 
-![Untitled](Chapter%207%20Volume%20is%20just%20about%20everything/Untitled.png)
+
 
 ### Summary
 
@@ -219,15 +219,15 @@ Price and volume action should be complementary. Volume must accompany prices in
 
 A breakout is simple a move of a stock or an index from one price range to another. At its simplest level it offers no clue tas to the market general direction or stock’s trend. for example, let us take a look at figure 8a. 
 
-![Untitled](Chapter%208%20Buy%20only%20true%20breakouts/Untitled.png)
+
 
 In this case, stock shows breakout move, but there is no indication of whether the stock that made this breakout move is in any kind of trend or not. There will be thousands of such breakouts in any given year, irrespective of the fact whether it is good year or bad year in the market.
 
-![Untitled](Chapter%208%20Buy%20only%20true%20breakouts/Untitled%201.png)
+
 
 On the other hand, if you consider figure 8b. Here we see a stock that has been building a long sideways base for years. And then, it suddenly wakes up and starts moving up. After moving up for some time, as measured in weeks and months, it settles down to base yet again. this second basing structure is, however, short and is measured in weeks. thereafter the stock breaks out to a higher price range.
 
-![Untitled](Chapter%208%20Buy%20only%20true%20breakouts/Untitled%202.png)
+
 
 about figure 8c, point 1 indicate prior uptrend. the prior uptrend confirms to use that the stock has shown that it can rise in price. The area shown by point 2 is basing area. this is the consolidation or the resting phase where the stock takes a little break from its rising tendency. thenat point 3 a true break out occurs. A true breakout is when a stock breaks into a new high price range after having met each and every criteria below
 
@@ -259,7 +259,7 @@ Make sure the difference between a true breakout and run of the mill breakout is
 
 You must know for a fact that the stock has shown its ability to rise in price. Moreover, this ability to rise in prices must be on increased volume. This tells me that there is great buying interest in the stock. When a stock has such buying interest, odds are unlikely that it will get sold out. Once the up trend has stopped for a resting phase or the consolidation phase, volume must start to cool down. More the volume contraction, better the stock. When volume dies after rising stock rises in price on volume it tells me that all the buyer who bought during the rising phase are not willing to sell out. Low volume consolidation indicates higher prices to come with all the buyers having serious conviction of the stock’s upward trend
 
-![Untitled](Chapter%209%20Chart%20Patterns,%20Who%20cares/Untitled.png)
+
 
 The tighter the price range during the consolidation the better. This adds to the conviction that nobody is willing to sell the stock. In perfect stock, the consolidation price range would not exceed 10-20% and the volume would contract clearly with at least a week or two of volumes of trade that shrink well below 50% of normal weekly volume. And when the stock pierces its prior high on volume, it has psychologically cleared a ceiling or upper resistance band. Once true breakout like this occurs, this ceiling becomes the floor for the stock’s price. A true breakout will never get below this floor price and it begins a truly successful up trend.
 
@@ -275,7 +275,7 @@ Learn chart interpretation through practice. A stock must show volume during its
 
 ### A true breakaway
 
-![Untitled](Chapter%2010%20Breakaways%20are%20good%20bets/Untitled.png)
+
 
 The prior long basing pattern and the sub sequent uptrend are clear enough to see and understand since prior lessons addressed these matters. It is the break out point that is uniquely different in breakaways. 
 
