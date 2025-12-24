@@ -165,3 +165,52 @@ string? nullableString = "Hello, World!";
 int length = nullableString!.Length; // Tells the compiler that nullableString is not null
 Console.WriteLine(length); // Output: 13
 ```
+
+## Records
+
+### What is a Record?
+- A record is a reference type that provides built-in functionality for encapsulating data.
+- Records are immutable by default, meaning their properties cannot be changed after creation.
+- Records provide value-based equality, meaning two record instances with the same data are considered equal.
+
+### Creating a Record
+- You can define a record using the `record` keyword.
+- Here is an example of creating a simple record to represent a person:
+- Single line of this code gives you
+  - Constructor
+  - Name and Age properties
+  - Equals() value-based equality method
+  - GetHashCode() method
+  - Deconstruct() method
+
+```csharp
+public record person(string Name, int Age);
+
+var person1 = new person("Alice", 30);
+console.WriteLine(person1.Name); // Output: Alice
+console.WriteLine(person1.Age); // Output: 30
+
+var person2 = new person("Alice", 30);
+Console.WriteLine(person1 == person2); // Output: True
+```
+
+### With Expressions
+- You can create a new record instance based on an existing one using the with expression.
+
+```csharp
+var person1 = new person("Alice", 30);
+var person2 = person1 with { Age = 60 };
+Console.WriteLine(person2.Age); // Output: 60
+```
+
+### Use Cases for Records
+- Records are ideal for representing data models(Results, Configurations) (Class that primarily hold data).
+- It's good alternative to tuples when you want to give meaningful names to the data fields.
+- So you can use with dictionarirs, lists, or hashsets to store collections of records.
+- **Keep in mind that when you compare two records, the comparison is based on their values, not their references. So only use record for immutable data.**
+
+### Difference between Record, Class, and Struct
+
+- **Class**: Classes are reference types with reference semantics. You operate on them at the reference level because you care about the particular instance.
+- **Struct**: Structs are value types with value semantics. You operate on them at the value level because you care about the data they hold.
+- **Record**: Records are reference types with value semantics. You operate on them at the value level because you care about the data they hold, not the particular instance.
