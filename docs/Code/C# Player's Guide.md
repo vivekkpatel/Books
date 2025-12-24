@@ -103,3 +103,25 @@ Console.WriteLine($"x={x}, z={z}");
 ### Type Casting
 - Implicit Casting (automatically) - converting a smaller type to a larger type size
 - Explicit Casting (manually) - converting a larger type to a smaller size type
+
+## Arrays
+
+### Indexing from the end
+- You can use the ^ operator to index from the end of an array.
+```csharp
+int[] numbers = { 10, 20, 30, 40, 50 };
+int lastNumber = numbers[^1]; // 50
+int secondLastNumber = numbers[^2]; // 40
+```
+
+### Ranges
+- You can use the .. operator to create ranges in arrays.
+```csharp
+int[] numbers = { 10, 20, 30, 40, 50 };
+int[] subArray = numbers[1..4]; // { 20, 30, 40 }
+int[] fromStart = numbers[..3]; // { 10, 20, 30
+int[] toEnd = numbers[2..]; // { 30, 40, 50 }
+int[] allNumbers = numbers[..]; // { 10, 20, 30, 40, 50 }
+int[] lastTwo = numbers[^2..]; // { 40, 50 }
+int[] middleNumbers = numbers[1..^1]; // { 20, 30, 40 }
+```
