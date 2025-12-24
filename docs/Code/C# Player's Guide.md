@@ -108,6 +108,7 @@ Console.WriteLine($"x={x}, z={z}");
 
 ### Indexing from the end
 - You can use the ^ operator to index from the end of an array.
+
 ```csharp
 int[] numbers = { 10, 20, 30, 40, 50 };
 int lastNumber = numbers[^1]; // 50
@@ -116,6 +117,7 @@ int secondLastNumber = numbers[^2]; // 40
 
 ### Ranges
 - You can use the .. operator to create ranges in arrays.
+
 ```csharp
 int[] numbers = { 10, 20, 30, 40, 50 };
 int[] subArray = numbers[1..4]; // { 20, 30, 40 }
@@ -124,4 +126,42 @@ int[] toEnd = numbers[2..]; // { 30, 40, 50 }
 int[] allNumbers = numbers[..]; // { 10, 20, 30, 40, 50 }
 int[] lastTwo = numbers[^2..]; // { 40, 50 }
 int[] middleNumbers = numbers[1..^1]; // { 20, 30, 40 }
+```
+
+## Null References
+
+### Null Conditinal Operator
+- The null-conditional operator (?.) allows you to safely access members of an object that might be null.
+
+```csharp
+string? nullableString = null;
+int? length = nullableString?.Length; // length will be null
+Console.WriteLine(length); // Output: 
+```
+
+```csharp
+private string? GetTopPlayerName() 
+{ 
+return _scoreManager?.GetScores()?[0]?.Name; 
+// Returns null if _scoreManager or GetScores() is null
+} 
+```
+
+### The Null-Coalescing Operator
+- The null-coalescing operator (??) allows you to provide a default value when a nullable type is null.
+
+```csharp
+string? userInput = null;
+string displayText = userInput ?? "Default Value";
+Console.WriteLine(displayText); // Output: Default Value
+```
+
+### The Null Forgiving Operator
+- The null-forgiving operator (!) tells the compiler that you are sure a nullable reference type is not null at that point in the code.
+- **Use this operator with caution, as it can lead to runtime exceptions if the value is actually null.**
+
+```csharp
+string? nullableString = "Hello, World!";
+int length = nullableString!.Length; // Tells the compiler that nullableString is not null
+Console.WriteLine(length); // Output: 13
 ```
