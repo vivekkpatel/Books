@@ -284,3 +284,143 @@ public class Calculator
         return check(x);
     }
 }
+```
+
+
+## Events
+
+### What is an Event?
+- In C#, events are a mechanism that allows an object to notify others that something has changed or happened so they can respond.
+- An event is a way for a class to notify other classes or objects when something of interest occurs.
+- Events are based on delegates, which are used to define the signature of the event handler methods.
+
+### How to use Events?
+
+```csharp
+var ship = new Ship();
+
+//subscribe to the ShipExploded event with different handlers
+ship.ShipExploded += () => Console.WriteLine("The ship has exploded!");
+ship.ShipExploded += () => Console.WriteLine("Game Over!");
+ship.ShipExploded += () => Console.WriteLine("Restarting level...");
+
+Console.WriteLine($"Ship Health: {ship.Health}");
+ship.TakeDamage(50);
+Console.WriteLine("Ship is taking 50 damage.");
+Console.WriteLine($"ship Health: {ship.Health}");
+
+ship.TakeDamage(25);
+Console.WriteLine("Ship is taking 25 damage.");
+Console.WriteLine($"ship Health: {ship.Health}");
+
+ship.TakeDamage(50);
+Console.WriteLine("Ship is taking 50 damage.");
+Console.WriteLine($"ship Health: {ship.Health}");
+
+public class Ship
+{
+    public event Action? ShipExploded;
+
+    public int Health { get; private set; } = 100;
+    public void TakeDamage(int damage)
+    {
+        Health -= damage;
+        if (Health <= 0)
+        {
+            ShipExploded?.Invoke();
+        }
+    }
+}
+```
+
+### Events with Parameters 
+
+```csharp
+using System.Drawing;
+
+var ship = new Ship();
+
+//subscribe to the ShipExploded event with different handlers
+ship.ShipExploded += (point) => Console.WriteLine($"The ship has exploded! at {point}");
+ship.ShipExploded += (point) => Console.WriteLine("Game Over!");
+ship.ShipExploded += (point) => Console.WriteLine("Restarting level...");
+
+Console.WriteLine($"Ship Health: {ship.Health}");
+ship.TakeDamage(50);
+Console.WriteLine("Ship is taking 50 damage.");
+Console.WriteLine($"ship Health: {ship.Health}");
+
+ship.TakeDamage(25);
+Console.WriteLine("Ship is taking 25 damage.");
+Console.WriteLine($"ship Health: {ship.Health}");
+
+ship.TakeDamage(50);
+Console.WriteLine("Ship is taking 50 damage.");
+Console.WriteLine($"ship Health: {ship.Health}");
+
+public class Ship
+{
+    public event Action<Point>? ShipExploded;
+
+    public int Health { get; private set; } = 100;
+    public Point Location { get; private set; } = new Point(0, 0);
+    public void TakeDamage(int damage)
+    {
+        Health -= damage;
+        if (Health <= 0)
+        {
+            ShipExploded?.Invoke(Location);
+        }
+    }
+}
+```
+
+### EventHandler 
+- if you don't need any arguments for your event, you can use the built-in EventHandler with EventArgs.
+
+```csharp
+using System.Drawing;
+
+var ship = new Ship();
+
+//subscribe to the ShipExploded event with different handlers
+ship.ShipExploded += (sender, e) => Console.WriteLine($"The ship has exploded! at {e.Location}");
+ship.ShipExploded += (sender, e) => Console.WriteLine("Game Over!");
+ship.ShipExploded += (sender, e) => Console.WriteLine("Restarting level...");
+
+ship.TakeDamage(50);
+ship.TakeDamage(25);
+ship.TakeDamage(50);
+
+public class Ship
+{
+    public event EventHandler<ExplosionEventArgs>? ShipExploded;
+
+    public int Health { get; private set; } = 100;
+    public Point Location { get; set; } = new Point(0, 0);
+    public void TakeDamage(int damage)
+    {
+        Health -= damage;
+        if (Health <= 0)
+        {
+            ShipExploded?.Invoke(this, new ExplosionEventArgs(Location));
+        }
+    }
+}
+public class ExplosionEventArgs : EventArgs
+{
+    public Point Location { get; }
+    public ExplosionEventArgs(Point location)
+    {
+        Location = location;
+    }
+}
+```
+
+### Event Leaks
+- When you subscribe to an event, the publisher holds a reference to the subscriber.
+- If the subscriber is not unsubscribed from the event, it can lead to memory leaks because the garbage collector cannot reclaim the memory used by the subscriber as long as the publisher holds a reference to it.
+- To prevent event leaks, always unsubscribe from events when the subscriber is no longer needed.
+- **This is especially important in long-running applications or when dealing with events on objects with a longer lifetime than the subscribers. But you can ignore this for small apps or short-lived programs**
+
+
