@@ -214,3 +214,73 @@ Console.WriteLine(person2.Age); // Output: 60
 - **Class**: Classes are reference types with reference semantics. You operate on them at the reference level because you care about the particular instance.
 - **Struct**: Structs are value types with value semantics. You operate on them at the value level because you care about the data they hold.
 - **Record**: Records are reference types with value semantics. You operate on them at the value level because you care about the data they hold, not the particular instance.
+
+
+## Delegates
+
+### What is a Delegate?
+- Delegate is a variable that can hold a reference to a method.
+- They allow you to pass methods as parameters.
+
+### How to use Delegates?
+
+```csharp
+var calculator = new Calculator();
+
+var squareValue= calculator.PerformOperation(5, x => x * x);
+Console.WriteLine(squareValue);
+
+var cubeValue= calculator.PerformOperation(5, x => x * x * x);
+Console.WriteLine(cubeValue);
+
+public class Calculator
+{
+    public delegate int NumberOperation(int x);
+
+    public int PerformOperation(int x, NumberOperation operation)
+    {
+        return operation(x);
+    }
+}
+```
+### Action Delegate
+- Action delegate is a predefined delegate type that represents a method that takes parameters but does not return a value.
+- You can use Action<T> for 1 parameter, Action<T1, T2> for 2 parameters, and so on up to 16 parameters.
+
+```csharp
+var calculator = new Calculator();
+calculator.PrintMessage("Hello from Action delegate!", msg => Console.WriteLine(msg));
+public class Calculator
+{
+    public void PrintMessage(string message, Action<string> messageOperation)
+    {
+        messageOperation(message);
+    }
+}
+```
+
+### Function Delegate
+- Func delegate is a predefined delegate type that represents a method that 
+takes parameters and returns a value.
+- You can use Func<T, TResult> for 1 parameter, Func<T1, T2, TResult> for 2 parameters, and so on up to 16 parameters plus return type.
+
+```csharp
+public int PerformOperation(int x, Func<int,int> operation)
+{
+    return operation(x);
+}
+```
+### Predicate Delegate
+- Predicate delegate is a predefined delegate type that represents a method that takes a single parameter and returns a boolean value.
+
+```csharp
+var calculator = new Calculator();
+var isEven = calculator.PerformCheck(4, x => x % 2 == 0);
+Console.WriteLine($"Is 4 even? {isEven}");
+public class Calculator
+{
+    public bool PerformCheck(int x, Predicate<int> check)
+    {
+        return check(x);
+    }
+}
