@@ -547,3 +547,141 @@ class SharedData
     }
 }
 ```
+
+## Asynchronous Programming
+
+### What is Asynchronous Programming?
+- Asynchronous programming allows your program to perform tasks without blocking the main thread.
+  
+### Task
+- In C#, Task represent a job that can run in background.
+- C# uses two classes to represent tasks: `Task`(void return) and `Task<T>`(returning a value of type T).
+- You can use it from background task like downloading a file, performing a long calculation without freezing the user interface.
+- Task = **"Work happening in the background that i can wait"**
+
+### Task vs Thread
+| Thread               | Task                    |
+| -------------------- | ----------------------- |
+| Low-level            | High-level              |
+| Expensive            | Lightweight             |
+| Manual management    | Managed by runtime      |
+| One thread = one job | Tasks share thread pool |
+
+### Creating and Running a Task
+- The `await` keyword is a convenient way to indicate that a method should asynchronously wait for a task to complete before proceeding.
+- You can only use `await` keyword with method marked as an `async`.
+- When you use `await`, the method is paused until the awaited task is finished, allowing other tasks to run in the meantime.
+
+```csharp
+//Task with void return type
+await DoWorkAsync();
+Console.WriteLine("Completed");
+
+async Task DoWorkAsync()
+{
+    await Task.Delay(5000);
+    Console.WriteLine("Work done");
+}
+```
+
+```csharp
+//Task with int return type
+int result = await GetNumberAsync();
+Console.WriteLine($"Completed with result: {result}");
+
+async Task<int> GetNumberAsync()
+{
+    await Task.Delay(500);
+    return 42;
+}
+```
+
+### Running Multiple Tasks in Parallel
+
+```csharp
+Task<int> task1 = GetNumberAsync(1);
+Task<int> task2 = GetNumberAsync(2);
+int[] results = await Task.WhenAll(task1, task2);
+Console.WriteLine($"Results: {results[0]}, {results[1]}");
+async Task<int> GetNumberAsync(int id)
+{
+    await Task.Delay(1000 * id);
+    return id * 10;
+}
+```
+
+### Task.Run
+- You can use `Task.Run` to run CPU-bound work on a background thread from the thread pool.
+- This will keep UI responsive by offloading heavy computations to a separate thread.
+
+```csharp
+int result = await Task.Run(() => LongRunningCalculation());
+Console.WriteLine($"Calculation result: {result}");
+int LongRunningCalculation()
+{
+    // Simulate a long calculation
+    Thread.Sleep(5000);
+    return 42;
+}
+```
+
+### Difference between async/await and Task.Run
+| async/await                      | Task.Run                     |
+| -------------------------------- | ---------------------------- |
+| Used for I/O-bound operations     | Used for CPU-bound operations |
+| Non-blocking                     | Offloads work to thread pool  |
+| Keeps UI responsive              | Keeps UI responsive           |
+| Easier to read and maintain      | Useful for heavy computations  |
+
+### Exception Handling in Async Methods
+- You can use try-catch blocks to handle exceptions in async methods.
+- When an exception occurs in an awaited task, it is propagated to the calling method.
+
+```csharp
+try
+{
+    int result = await GetNumberAsync();
+    Console.WriteLine($"Result: {result}");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"Error: {ex.Message}");
+}
+async Task<int> GetNumberAsync()
+{
+    await Task.Delay(1000);
+    throw new InvalidOperationException("Something went wrong!");
+    return 42;
+}
+```
+### Cancellation of Tasks
+- You can use `CancellationToken` to cancel a running task.
+- You create a `CancellationTokenSource` and pass its token to the task.
+- You can then call `Cancel()` on the source to request cancellation.
+
+```csharp
+var cts = new CancellationTokenSource();
+CancellationToken token = cts.Token;
+var task = LongRunningOperationAsync(token);
+// Cancel the task after 2 seconds
+cts.CancelAfter(2000);
+try
+{
+    await task;
+    Console.WriteLine("Operation completed successfully.");
+}
+catch (OperationCanceledException)
+{
+    Console.WriteLine("Operation was canceled.");
+}
+async Task LongRunningOperationAsync(CancellationToken token)
+{
+    for (int i = 0; i < 10; i++)
+    {
+        token.ThrowIfCancellationRequested();
+        Console.WriteLine($"Working... {i + 1}/10");
+        await Task.Delay(1000); // Simulate work
+    }
+}
+```
+
