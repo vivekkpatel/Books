@@ -685,3 +685,73 @@ async Task LongRunningOperationAsync(CancellationToken token)
 }
 ```
 
+## Other language features
+
+### Yield Keyword
+- The `yield` keyword is used in an iterator method to provide a value to the enumerator object or to signal the end of iteration.
+- When the `yield return` statement is reached, the current location in the code is remembered, and execution is paused until the next value is requested.
+- This allows you to create custom collections that can be iterated over using `foreach` loop without having to create an entire collection in memory.
+
+```csharp
+IEnumerable<int> SingleDigits() 
+{ 
+    for (int number = 1; number <= 10; number++) 
+    yield return number; 
+} 
+
+foreach (var number in SingleDigits()) 
+{
+    Console.WriteLine(number); 
+} 
+```
+
+- `yield break` statement is used to end the iteration early.
+- Iterators do not have to ever complete; they can run indefinitely until `yield break` is called or the consumer stops requesting values.
+
+```csharp
+IEnumerable<int> AlternatingPattern() 
+{ 
+    while (true) 
+    { 
+        yield return -1; 
+        yield return +1; 
+    } 
+} 
+```
+- But you'll bump into an infinite loop if you try to iterate over this iterator without a break condition.
+
+```csharp
+List<int> numbers = AlternatingPattern().ToList(); 
+// This will run indefinitely and likely crash your program
+```
+
+### Attributes
+- Attributes are a way to add metadata to your code.
+- You can apply attributes to classes, methods, properties, and other code elements.
+- Attributes are enclosed in square brackets (`[ ]`) and placed above the code element they apply to.
+- All Attributes are classes derived from the `System.Attribute` base class. you can also create your own custom attributes by defining a class that inherits from `System.Attribute`.
+
+!!! info
+    Attributes are usally created by people who want to work with yoru compiled code, including the people making the compiler, the .net runtime, and other development tools. They decide what metadata they need, design the attribute classes that will give them that metadata, and then provide you with documentation that tells you how to use them.
+
+```csharp
+[Obsolete("This method is obsolete. Use NewMethod instead.")]
+public void OldMethod()
+{
+    // Method implementation
+}
+public void NewMethod()
+{
+    // New method implementation
+}
+```
+
+!!! tip
+    Attributes are like placing little notes on the different parts of your code. They Survive the compilation process, so tools working with your code can see these atributes and use them. 
+    
+- The compiler notices the `[Obsolete]` attribute and will give you a warning if you try to use `OldMethod()`, nudging you to switch to `NewMethod()` instead. 
+- Attributes have parameters that allow you to provide additional information. 
+- In this case, the message "This method is obsolete. Use NewMethod instead." is passed to the `Obsolete` attribute to inform developers about the deprecation.
+
+
+
