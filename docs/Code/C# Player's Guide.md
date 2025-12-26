@@ -424,3 +424,126 @@ public class ExplosionEventArgs : EventArgs
 - **This is especially important in long-running applications or when dealing with events on objects with a longer lifetime than the subscribers. But you can ignore this for small apps or short-lived programs**
 
 
+## Threads
+
+### What is a Thread?
+- A thread is an independent execution path within a program.
+- Every program has at least one thread, known as the main thread.
+- Programs can create additional threads to perform tasks concurrently. when program does this it is called multithreaded application.
+
+### Creating a Thread
+- Before creating thread Make sure that your code can run independently without relying on shared state or resources.
+- If it's intertwined with other parts of the program, it does not make a good candidate for running in a separate thread.
+- If it's too small in size, it won't worth the overhead of creating and managing a thread.
+- Threds are expensive to create and manage, so avoid creating too many threads in your application.
+- Threads are best suited for long-running tasks that can benefit from parallel execution.
+- `System.Threading.Thread` namespace provides classes and methods for working with threads in C#.
+- In below code both threds write stuff in console window, but you cannot predict which thread will write first. Text `Main Thread Done` may appear before,after or in middle of the numbers from 1 to 100.
+
+```csharp
+//Create new thread to count to 100
+Thread thread = new Thread(CountTo100);
+//Start the thread
+thread.Start();
+Console.WriteLine("Main Thread Done");
+void CountTo100()
+{
+    for (int i = 1; i <= 100; i++)
+    {
+        Console.WriteLine(i);
+    }
+}
+```
+
+### Waiting for a Thread to Complete
+- You can use `Thread.Join()` method to make main thread wait for the new thread to complete before proceeding.
+- You will not see `Main Thread Done` until the counting thread has finished counting to 100.
+
+```csharp
+//Create new thread to count to 100
+Thread thread = new Thread(CountTo100);
+//Start the thread
+thread.Start();
+//Wait for the thread to finish
+thread.Join();
+Console.WriteLine("Main Thread Done");
+```
+
+### Sharing Data Between Threads
+```csharp
+var data= new MultiplicationData { A = 5, B = 10 };
+//Create new thread to count to 100
+Thread thread = new Thread(() => MultiplyNumbers(data));
+//Start the thread
+thread.Start();
+//Wait for the thread to finish
+thread.Join();
+Console.WriteLine("Main Thread Done");
+
+void MultiplyNumbers(MultiplicationData data)
+{
+    data.Result = data.A * data.B;
+    Console.WriteLine($"Multiplication Result: {data.Result}");
+}
+
+class MultiplicationData
+{
+    public double A { get; set; }
+    public double B { get; set; }
+    public double Result { get; set; }
+}
+```
+
+### Sleeping a Thread
+- You can use `Thread.Sleep()` method to pause a thread for a specified amount of time.
+- `Sleep()` method is static and it makes the current thread sleep.
+- When you do this, thread will give up the rest of its currently scheduled time and won't get another change until after the time specified.
+
+```csharp
+Console.WriteLine("Thread starting...");
+Thread.Sleep(2000); // Sleep for 2 seconds
+Console.WriteLine("Thread awake after 2 seconds.");
+```
+
+### Thread Safety
+- When multiple threads access shared data or resources, it can lead to race conditions and data corruption.
+- To ensure thread safety, you can use synchronization mechanisms like locks, mutexes, or semaphores.
+- The `lock` statement is a simple way to ensure that only one thread can access a block of code at a time.
+
+```csharp
+SharedData sharedData = new SharedData();
+Thread thread = new Thread(sharedData.Increment);
+thread.Start();
+
+sharedData.Increment();
+
+thread.Join();
+
+Console.WriteLine(sharedData.Number);
+
+class SharedData
+{
+    private readonly object _numberLock = new object();
+
+    private int _number;
+
+    public int Number
+    {
+        get
+        {
+            lock (_numberLock)
+            {
+                return _number;
+            }
+        }
+    }
+
+    public void Increment()
+    {
+        lock (_numberLock)
+        {
+            _number++;
+        }
+    }
+}
+```
