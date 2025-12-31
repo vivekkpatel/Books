@@ -9,7 +9,8 @@
 - [libgen](https://libgen.li/) - ebooks
 - [Anna’s Archive](https://annas-archive.org/), [2](https://annas-archive.li/), [3](https://annas-archive.se/) - ebooks
 - [Z Library](https://z-library.sk/) - ebooks
-- [AudioBook Bay](https://audiobookbay.lu/),[2](http://audiobookbay.se/) - Audio books
+- [AudioBook Bay](https://audiobookbay.lu/),[2](http://audiobookbay.se/) - Audio books.
+- [EPUB To PDF Converter](https://www.freeconvert.com/epub-to-pdf)
 
 ## All Time Favorites Fiction 🧙‍♂️
 - Beware of Chicken
