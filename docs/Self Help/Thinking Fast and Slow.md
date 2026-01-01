@@ -1,11 +1,25 @@
 title: Thinking Fast and Slow
 # Thinking Fast and Slow by Daniel Kahneman
 
+## Introduction
+
 it is much easier to strive for perfection when you are never bored.
 
 The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition.
 
-the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution.
+!!! quote
+    the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution.
+
+I describe two systems in the mind: System 1 and System 2.
+- System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.
+- System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration.
+
+## The Characters of the Story
+
+
+
+
+
 
 The gorilla study illustrates two important facts about our minds: we can be blind to the obvious, and we are also blind to our blindness.
 
