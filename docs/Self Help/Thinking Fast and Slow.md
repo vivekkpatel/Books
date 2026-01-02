@@ -16,8 +16,11 @@ I describe two systems in the mind: System 1 and System 2.
 
 ## The Characters of the Story
 
+Phychologiest have proposed that we have two modes of thinking: fast and slow
+- System 1: fast, automatic, frequent, emotional, stereotypic, subconscious
+- System 2: slow, effortful, infrequent, logical, calculating, conscious
 
-
+**System 1 (fast thinking) is result of deliberate choices made by System 2**
 
 
 
