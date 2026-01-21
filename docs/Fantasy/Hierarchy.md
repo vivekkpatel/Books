@@ -35,3 +35,19 @@
 "There's isn't. And this is risk of our world a fault in our system is us. The quality of king change system and non of us perfect enough to have right to lead"
 ― James Islington, The Will of the Many
 
+## The Strength of the Few
+
+“Grief, my mother once told me, is love’s most honest expression. The last and hardest aspect of truly, truly caring for someone. She said it at her own mother’s funeral rites, tears in her eyes even as she tried to comfort a boy too young to understand why he was so sad, why his grandmother couldn’t be there anymore. She explained through choking sobs that **without grief, love would be meaningless. Because it is impossible to truly love something that cannot be lost.**”
+― James Islington, The Strength of the Few
+
+“The oldest argument for doing something wrong is that everyone is doing it. To dismantle what they have built would have required the agreement of every man who had spent his life building it," agrees my father softly. "It would have required them to give up all they have striven their entire lives to gain. And they would have needed to do it, largely, for the benefit of those at whose expense it originally came.”
+― James Islington, The Strength of the Few
+
+“FEAR, MY FATHER ONCE TOLD me, is simply our realisation of a lack of control. And that is why when we are afraid, sometimes the only way we can cope—the only way to dull the edge of that lack—is to put our faith in those who appear not to suffer it.”
+― James Islington, The Strength of the Few
+
+!!! quote "James Islington, The Strength of the Few"
+    *“a child needs to hear and truly understand only three phrases from their father as they grow up. ‘I love you.’ ‘I will help.’ And, ‘I don’t know.”*
+
+“Instead of the easy gift of our lives, we must suffer the hundred little deaths of self in order to protect this world. Not because what we do is good, but because good will no longer exist if we do not.”
+― James Islington, The Strength of the Few
