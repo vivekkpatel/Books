@@ -1,6 +1,27 @@
 title: Thinking Fast and Slow
 # Thinking Fast and Slow by Daniel Kahneman
 
+## Quotes
+
+!!! quote
+    “We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events.”
+
+“we can be blind to the obvious, and we are also blind to our blindness.”
+
+“A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth. Authoritarian institutions and marketers have always known this fact.”
+
+“Nothing in life is as important as you think it is, while you are thinking about it”
+
+“Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.”
+
+“Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed.”
+
+!!! quote
+    “A general “law of least effort” applies to cognitive as well as physical exertion. The law asserts that if there are several ways of achieving the same goal, people will eventually gravitate to the least demanding course
+    of action. In the economy of action, effort is a cost, and the acquisition of skill is driven by the balance of benefits and costs. Laziness is built deep into our nature.”
+
+“The easiest way to increase happiness is to control your use of time. Can you find more time to do the things you enjoy doing?”
+
 ## Introduction
 
 it is much easier to strive for perfection when you are never bored.
@@ -42,3 +63,4 @@ consistency of the information that matters for a good story, not its completene
 ANCHORS “The firm we want to acquire sent us their business plan, with the revenue they expect.
 
 “Risk” does not exist “out there,” independent of our minds and culture, waiting to be measured. Human beings have invented the concept of “risk” to help them understand and cope with the dangers and uncertainties of life. Although these dangers are real, there is no such thing as “real risk” or “objective risk.”
+
