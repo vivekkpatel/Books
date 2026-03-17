@@ -46,5 +46,8 @@ The book can be read in any order, offering quick bits of encouragement whenever
 “Don’t envy things you wouldn’t actually want. **Don’t absorb criticism from people you wouldn’t go to for advice.** Don’t fear missing parties you would probably want to leave. Don’t worry about fitting in. Be your own tribe. **Don’t argue with people who will never understand you.** Don’t believe anyone has it all figured out. Don’t imagine there is an amount of money or success or fame that could insulate you from pain. Don’t think there is a type of face or job or relationship that safeguards happiness. Don’t say yes to things you wish you had the confidence to say no to. Don’t worry if you do.”
 ― Matt Haig, The Comfort Book
 
-## Notes
+"Saying loud what we feel inside can never quite capture what we feel inside, but that is almost the point. Words don't capture, they release."
+― Matt Haig, The Comfort Book
 
+"Nothing is stronger than a small hope that doesn't give up."
+― Matt Haig, The Comfort Book
