@@ -47,3 +47,4 @@ title: The Pragmatic Programmer
 - Some constraints are going to be absolute and some are merely preconceived notions.
 - Absolute constraints must be honored, however distasteful or stupid they may appear to be.
 - Preconceived notions must be challenged and discarded if they are not absolute.
+- **The key to solving the puzzle is both to recognize the constraints placed on you and recognize the degree of freedom you have.**
