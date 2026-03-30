@@ -4,6 +4,9 @@ title: The Pragmatic Programmer
 
 # The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas
 
+## Overview
+- Pragmatic for programmers basically means being practical, result-oriented and reality-driven, other than theoretical or idealistic.
+
 ## Orthogonality
 - In Simple terms it's decoupling of components.
 - Two or more things are orthogonal if changes in one do not affect any of the others.
