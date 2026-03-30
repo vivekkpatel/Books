@@ -6,6 +6,11 @@ title: The Pragmatic Programmer
 
 ## Overview
 - Pragmatic for programmers basically means being practical, result-oriented and reality-driven, other than theoretical or idealistic.
+- *The Pragmatic Programmer* by Andrew Hunt and David Thomas* emphasizes a practical, results-driven approach to software development. 
+- This is not coding book- it's more of a mindset and philosophy book for software developers.
+- It encourages developers to write clean, maintainable code, avoid duplication, and adapt to changing requirements. 
+- The book focuses on responsibility, continuous learning, and using the right tools to solve real-world problems effectively.
+
 
 ## Orthogonality
 - In Simple terms it's decoupling of components.
