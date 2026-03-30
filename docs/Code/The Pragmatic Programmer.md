@@ -29,3 +29,15 @@ title: The Pragmatic Programmer
   - It only provides an upper bound, so it does not give information about the actual running time of the algorithm.
   - Only highest order terms are considered, so it may not accurately reflect the performance of the algorithm for small input sizes.
   - Means O(n2/2 +3n) is same as O(n2). So one algorithm may be 1000 times faster than another but you won't know it from the notation.
+
+## The requirement pit
+
+### Digging the requirements
+- It's important to discover the underlying reason why users do particular things, rather than just the way they currently do it.
+- At the end of the day **your development has to solve their business problems, not just meet their stated requirements**.
+- Documenting the reasons behind requirements will give your team invaluable information when making daily implementation decisions.
+
+### Documenting the requirements
+- When you sitting down with the users and prying genuine requirements from them, you come across a few likely scenarios that describe the problem.
+- You want to write this down and publish a document that everyone can use as a basis for discussion.
+- This document is important so that everyone stays on the same page, like developers, end-users and clients.
