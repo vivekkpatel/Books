@@ -41,3 +41,9 @@ title: The Pragmatic Programmer
 - When you sitting down with the users and prying genuine requirements from them, you come across a few likely scenarios that describe the problem.
 - You want to write this down and publish a document that everyone can use as a basis for discussion.
 - This document is important so that everyone stays on the same page, like developers, end-users and clients.
+
+### Solving Impossible puzzles
+- The secret to solving the puzzle is to identify the real constraints.
+- Some constraints are going to be absolute and some are merely preconceived notions.
+- Absolute constraints must be honored, however distasteful or stupid they may appear to be.
+- Preconceived notions must be challenged and discarded if they are not absolute.
