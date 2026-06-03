@@ -14,6 +14,17 @@ title: Stolen Focus
 - It's the deepest form of focus and attention that we know of. When he began to explain to people what a flow state is and asked if they'd ever experienced something like it, 85% of them recognised and remembered at least one time they'd felt this way and they often said these moments were the highlights of their lives. 
 - It didn't matter they got there by performing brain surgery or strumming the guitar or making great bagels
  
+### Sleep
+- As Charles explains, you need to radically limit your exposure to light before you go to sleep. He believes you should have no sources of artificial light in your bedroom at all. And you should avoid the blue light of screens for at least two hours before you go to bed. 
+- We also need, all the sleep experts told me, to have different relationships with our phones. Roxanne told me that to lots of us, it's like your baby, right? So as a new parent, you're like, I've got to be vigilant for this thing. I've got to pay attention. I'm not sleeping as deeply. Or you're like a firefighter who's listening for a call. We're constantly tense to see, did something happen? She says your phone should always recharge overnight in a different room where you can't see or hear it. 
+- Then you need to be able to make sure your room is the right temperature. It should be cool, almost cold. This is because your body needs to cool its core to send you to sleep. And the harder that is, the longer it takes. 
+
+### Reading Fiction
+
+### Mind Wandering
+
+
+### Attention Form
 
 ## Quotes
 
