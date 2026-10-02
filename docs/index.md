@@ -7,7 +7,7 @@
 - [GoodReads](https://www.goodreads.com/user/show/65939805-vivek-patel)
 - [Download Quotes.json](Quotes.json)
 - [libgen](https://libgen.li/) - ebooks
-- [Anna’s Archive](https://annas-archive.org/), [2](https://annas-archive.li/), [3](https://annas-archive.se/) - ebooks
+- [Anna’s Archive](https://annas-archive.org/), [2](https://annas-archive.li/), [3](https://annas-archive.se/), [4](https://annas-archive.gl/) - ebooks
 - [Z Library](https://z-library.sk/) - ebooks
 - [AudioBook Bay](https://audiobookbay.lu/),[2](http://audiobookbay.se/) - Audio books.
 - [EPUB To PDF Converter](https://www.freeconvert.com/epub-to-pdf)
