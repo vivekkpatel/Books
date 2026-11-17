@@ -11,7 +11,7 @@ copyright = "Copyright &copy; 2025 Nodes Automations"
 generator = false
 
 [project.theme]
-variant = "classic"
+variant = "modern"
 logo = "assets/favicon.png"
 favicon = "assets/favicon.png"
 features = [
@@ -28,9 +28,7 @@ palette = [
 ]
 
 [project.theme.icon]
-repo = "fontawesome/brands/git-alt"
-edit = "material/pencil"
-view = "material/eye"
+repo = "fontawesome/brands/github"
 
 [project.plugins.awesome-nav]
 
