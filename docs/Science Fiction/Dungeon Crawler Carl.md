@@ -4,6 +4,13 @@ title: Dungeon Crawler Carl
 
 # Dungeon Crawler Carl by Matt Dinniman
 
+## General
+
+!!! quote
+"What makes us human isn't how we survive, but what we're willing to protect."
+
+!!! quote
+"You don't discover who you are when things are easy. You discover who you are when everything is taken away."
 
 ## A Parade of Horribles
 
