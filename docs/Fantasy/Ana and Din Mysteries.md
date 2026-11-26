@@ -1,7 +1,7 @@
 ---
-title: Shadow of the Leviathan
+title:  Ana and Din Mysteries
 ---
-# Shadow of the Leviathan by Robert Jackson Bennett
+# Ana and Din Mysteries by Robert Jackson Bennett
 
 ## The Tainted Cup
 
@@ -32,3 +32,19 @@ The second decade of the twenty-first century seems replete with examples as to 
 
 “Regardless, the second decade of the twenty-first century seems replete with examples as to why autocracies are, to put it mildly, very stupid. Our headlines are dominated by regimes with one nigh-all-powerful man at the top making any number of terrible choices, and then—to the bafflement of the entire globe—doubling down on them, thus inflicting massive suffering on his people. It seems the talents that make a man capable of navigating palace intrigue until he wins the throne generally don’t coexist with the talents required for—or even a passing interest in—good governance.”
 ― Robert Jackson Bennett, A Drop of Corruption
+
+
+## A Trade of Blood
+
+!!! quote "Robert Jackson Bennett, A Trade of Blood"
+    Perhaps we have fashioned an Empire that prefers lavishness to decency. It makes me wonder—is such a people worth maintaining? For a willingness to tolerate suffering for one’s comfort only grows over time.
+
+“But a riddle is only as smart as its creator is stupid, for an idiot finds many things in this world confusing and assumes them to be clever! Riddles are always products of a mind trying to be cunning, so they can lead to all sorts of dunderheaded shit.”
+― Robert Jackson Bennett, A Trade of Blood
+
+
+“It is mad to burn down the Amazon rainforest to grow soybeans for chickens and pigs—and yet, we do it. It is a foul thing to imagine piglets ground into paste to be fed to their own mothers, and yet this is fairly common practice.”
+― Robert Jackson Bennett, A Trade of Blood
+
+“I ducked back into the carriage. “What if, ma’am, you try out your combination, and it doesn’t work?” “Well,” said Ana from the shadows, “then I will look like a right fucking idiot, true? A very good thing, then, that I am correct. As to what we find within…I’ve no idea whatsoever.” “I feel you’re lying to me again, ma’am.” “Am I?” she said, feigning offense. “I think you know full well what’s in there.” “I think I know generalities. I do not claim to know specifics. And when you don’t know specifics, you keep your goddamn mouth shut. Just as you ought to keep your mouth shut about my intentions, boy.”
+― Robert Jackson Bennett, A Trade of Blood
